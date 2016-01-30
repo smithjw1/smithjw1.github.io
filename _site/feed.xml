@@ -6,8 +6,8 @@
 </description>
     <link>http://shoeinthedoor.com/</link>
     <atom:link href="http://shoeinthedoor.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 Jan 2016 15:43:06 -0800</pubDate>
-    <lastBuildDate>Sat, 30 Jan 2016 15:43:06 -0800</lastBuildDate>
+    <pubDate>Sat, 30 Jan 2016 15:59:22 -0800</pubDate>
+    <lastBuildDate>Sat, 30 Jan 2016 15:59:22 -0800</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -43,7 +43,7 @@
         <title>Great Security Washington State Ferries</title>
         <description>&lt;p&gt;Since I don&amp;#8217;t take the ferry nearly as much as I used to, I just got around to turning off email alerts for ferry delays.&lt;/p&gt;
 &lt;p&gt;To do so, I needed a password I had long forgot so I sent for a password reset. Here&amp;#8217;s the email I received:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://shoeinthedoor.com/images/15t.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/15t.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;You&amp;#8217;ll see the password is redacted, because it was my actual password. I recognized it because I often use a password across a number of accounts that I don&amp;#8217;t care about. Password reuse is a security no-no, but it&amp;#8217;s quite common and when we are talking about my Washington State Ferry account which holds no personal info beyond an outdated address, I&amp;#8217;m not terribly concerned about it.&lt;/p&gt;
 &lt;p&gt;That is when the password is properly secured. The fact that they could send me my actual password means they are either storing it in plain text or a reversible encryption algorithm. Either way it&amp;#8217;s at significantly more risk than it should be.&lt;/p&gt;
 &lt;p&gt;Passwords should always be stored using a &lt;a href=&quot;https://crackstation.net/hashing-security.htm&quot;&gt;salted one way encryption scheme&lt;/a&gt;. That way if your database is ever compromised (from inside or outside) only the most common passwords will be compromised.&lt;/p&gt;
@@ -171,7 +171,7 @@ and the world is about to turn!&lt;/p&gt;
 &lt;p&gt;The Donor Voice tool is designed to ask someone about their experience once it is complete. The Masterworks tool was designed to gather visitor intent.&lt;/p&gt;
 &lt;p&gt;Caveat emptor: there is no such thing as a free lunch, and you should expect a sales call from Donor Voice as the cost of using this free service. You are also giving them access to your satisfaction data, certainly helpful in the sales process.&lt;/p&gt;
 &lt;p&gt;The setup is short and you can be online in a matter of minutes. Partially it is so easy to setup because you don&amp;#8217;t get to choose any of the questions that are part of the survey. The four questions the survey does ask are general enough to work for any organization:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://shoeinthedoor.com/images/14.png?1410872911&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/14.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;This content is owned by Donor Voice so don&amp;#8217;t steal the questions. Also don&amp;#8217;t worry about the red and black background, those are the customizable parts of the survey.&lt;/p&gt;
 &lt;p&gt;The automated email was also fairly general, but was responsive to how I filled out the survey. You can only fill out the survey once per IP address, so I had to use a Web Proxy service to see the other responses.&lt;/p&gt;
 &lt;p&gt;If you fill out the survey with good marks, the response suggests that the constituent donates, without a link to do so.&lt;/p&gt;
