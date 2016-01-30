@@ -1,0 +1,27 @@
+---
+layout: post
+title: Tropes for Usability
+tags: []
+---
+As I was assembling some Ikea furniture this weekend, besides feeling fairly domestic, I was reminded of my Dungeons and Dragons game.
+
+Yes, I play D&D, no it's not demonic or satanic. My friend and fellow adventurer, Kris, properly places it more in the realm of improv, collaborative story telling.
+
+This past week, the game featured bas relief carvings firing darts. An adventure trope reminiscent of the Indian Jones Trilogy. The party instantly knew to avoid walking in front of those statues.
+
+This is of course both good and bad. Without some signposts in the imaginary world that is a D&D adventure, we would be constantly blundering into our near deaths. 
+
+In the same way, the tropes in Ikea furniture directions prevent you from blunders that mean another trip to the store to replace the left hand side of a cabinet that inexplicably acquired right hand side hardware.
+
+As soon as I screwed in a particular kind of bolt, I knew soon enough I would be locking that bolt with 1/2 screwdriver turn of a certain kind of nut. If you've assembled Ikea furniture recently - or ever really - you can probably picture what I'm talking about.
+
+There are all sorts of economies of scale Ikea gets by having it's furniture come together with similar hardware, but it also creates familiarity with the assembly process.
+
+In the same way there are a number of digital tropes about web design. For example, having your site search in the top right corner of your site and your logo in the top left. You can choose not to follow these and other conventions for the sake of originality, but what are you loosing? 
+
+Perhaps showcasing how different your organization is, is a core value, but more likely you are missing out on the built in familiarity you users have from using the rest of the Internet. 
+
+You have to remember that your site is just one in a stream of sites a user is visiting and isn't the only place the user can accomplish whatever task they are working on.
+
+Tropes lower the barrier to entry on your site and will likely increase its usability and its effectiveness.
+

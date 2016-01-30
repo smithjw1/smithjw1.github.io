@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shoe in the Door</title>
+    <description>Helping organizations tell their story and expand their reach.
+</description>
+    <link>http://shoeinthedoor.com/</link>
+    <atom:link href="http://shoeinthedoor.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 30 Jan 2016 15:43:06 -0800</pubDate>
+    <lastBuildDate>Sat, 30 Jan 2016 15:43:06 -0800</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>Fracking Truthers</title>
+        <description>&lt;p&gt;A &lt;a href=&quot;http://www.theverge.com/2015/5/6/8558485/fracking-water-contamination-pennsylvania-study&quot;&gt;study&lt;/a&gt; found a small, regulatory permissible amount of toxic chemicals in drinking water.&lt;/p&gt;
+&lt;p&gt;It even goes on to say, that current regulation would have likely prevented this small contamination.&lt;/p&gt;
+&lt;p&gt;So you would expect drilling groups to say: &amp;#8220;We told it was safe, this proves it.&amp;#8221;&lt;/p&gt;
+&lt;p&gt;But no, they basically deny the whole thing and try to make it seem like the study is a fraud. Why? Because only total acceptance of the fracking&amp;#8217;s salvific nature is allowed. Any doubters are charlatans.&lt;/p&gt;
+&lt;p&gt;It was a good study that clearly laid out the dangers of improper procedures and that the whole argument that the chemicals don&amp;#8217;t make it into drinking water is bunk. It&amp;#8217;s an important study to understand if safe fracking is possible, but instead of celebrating the industry dismisses it.&lt;/p&gt;
+&lt;p&gt;It is this disregard for even &lt;strong&gt;supportive&lt;/strong&gt; but cautious science that makes me continue to seriously doubt the industries good faith.&lt;/p&gt;</description>
+        <pubDate>Wed, 06 May 2015 00:00:00 -0700</pubDate>
+        <link>http://shoeinthedoor.com/2015/05/06/fracking-20truthers.html</link>
+        <guid isPermaLink="true">http://shoeinthedoor.com/2015/05/06/fracking-20truthers.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>A Brave New</title>
+        <description>&lt;p&gt;Many of you know that I left Masterworks in September. What most of you don&amp;#8217;t know is that I&amp;#8217;ve been working on a partnership with two longtime colleagues and friends, it&amp;#8217;s called &lt;a href=&quot;http://abravenew.com&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I can&amp;#8217;t tell you how excited and pleased I am to be starting this new company/adventure. It&amp;#8217;s the culmination of a lot of work and inspiration. The support of my family, the example of entrepreneurs, the encouragement of teachers and mentors and the fellowship of friends all played a part.&lt;/p&gt;
+&lt;p&gt;Thank you, thank you, thank you.&lt;/p&gt;
+&lt;p&gt;And I&amp;#8217;d like to ask you to do one more thing for me: spread the word. A Brave New is ready to help nonprofits and small business tell their story and expand their reach. If that sounds like something someone you know could use, drop an email or a tweet or a phone call.&lt;/p&gt;
+&lt;p&gt;So check out &lt;a href=&quot;http://abravenew.com&quot;&gt;the new website&lt;/a&gt; &lt;a href=&quot;https://twitter.com/abravenew&quot;&gt;follow us on twitter&lt;/a&gt; and keep in touch. We are going to have some fun.&lt;/p&gt;</description>
+        <pubDate>Fri, 06 Feb 2015 00:00:00 -0800</pubDate>
+        <link>http://shoeinthedoor.com/2015/02/06/a-brave-new.html</link>
+        <guid isPermaLink="true">http://shoeinthedoor.com/2015/02/06/a-brave-new.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Great Security Washington State Ferries</title>
+        <description>&lt;p&gt;Since I don&amp;#8217;t take the ferry nearly as much as I used to, I just got around to turning off email alerts for ferry delays.&lt;/p&gt;
+&lt;p&gt;To do so, I needed a password I had long forgot so I sent for a password reset. Here&amp;#8217;s the email I received:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://shoeinthedoor.com/images/15t.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;You&amp;#8217;ll see the password is redacted, because it was my actual password. I recognized it because I often use a password across a number of accounts that I don&amp;#8217;t care about. Password reuse is a security no-no, but it&amp;#8217;s quite common and when we are talking about my Washington State Ferry account which holds no personal info beyond an outdated address, I&amp;#8217;m not terribly concerned about it.&lt;/p&gt;
+&lt;p&gt;That is when the password is properly secured. The fact that they could send me my actual password means they are either storing it in plain text or a reversible encryption algorithm. Either way it&amp;#8217;s at significantly more risk than it should be.&lt;/p&gt;
+&lt;p&gt;Passwords should always be stored using a &lt;a href=&quot;https://crackstation.net/hashing-security.htm&quot;&gt;salted one way encryption scheme&lt;/a&gt;. That way if your database is ever compromised (from inside or outside) only the most common passwords will be compromised.&lt;/p&gt;
+&lt;p&gt;It is truly lazy programming to be able to spit back a users password and then to send it via email is downright irresponsible.&lt;/p&gt;</description>
+        <pubDate>Wed, 21 Jan 2015 00:00:00 -0800</pubDate>
+        <link>http://shoeinthedoor.com/2015/01/21/great-security-wsf.html</link>
+        <guid isPermaLink="true">http://shoeinthedoor.com/2015/01/21/great-security-wsf.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>The World Must Turn</title>
+        <description>&lt;p&gt;I grew up being told that I could trust police officers and that if I was in trouble or lost I could always go to one for help. I can&amp;#8217;t imagine a world where that isn&amp;#8217;t the case. Problem is I don&amp;#8217;t have to imagine it, I&amp;#8217;m living in it. Or better put I&amp;#8217;m living beside it.&lt;/p&gt;
+&lt;p&gt;As a person of racial, gender, religious, age, citizenship and class privilege, I don&amp;#8217;t live in the same world as many of my neighbors.&lt;/p&gt;
+&lt;p&gt;Music is very emotional for me and two weeks ago we sang a great &lt;a href=&quot;http://www.spiritandsong.com/compositions/30269&quot;&gt;hymn&lt;/a&gt; at church, here&amp;#8217;s the third verse:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;From the halls of power to the fortress tower,&lt;br /&gt;
+not a stone will be left on stone.&lt;br /&gt;
+Let the king beware for your justice tears&lt;br /&gt;
+ev&amp;#8217;ry tyrant from his throne.&lt;br /&gt;
+The hungry poor shall weep no more,&lt;br /&gt;
+for the food they can never earn;&lt;br /&gt;
+There are tables spread, ev&amp;#8217;ry mouth be fed,&lt;br /&gt;
+for the world is about to turn.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The world does not feel like it is turning fast enough, but the chorus of this hymn does let me sing for a hoped for future.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;My heart shall sing of the day you bring.&lt;br /&gt;
+Let the fires of your justice burn.&lt;br /&gt;
+Wipe away all tears, for the dawn draws near,&lt;br /&gt;
+and the world is about to turn!&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+        <pubDate>Tue, 25 Nov 2014 00:00:00 -0800</pubDate>
+        <link>http://shoeinthedoor.com/2014/11/25/the-world-must-turn.html</link>
+        <guid isPermaLink="true">http://shoeinthedoor.com/2014/11/25/the-world-must-turn.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Take a Chance</title>
+        <description>&lt;p&gt;I recently attended my second Creative Mornings and heard this great talk by &lt;a href=&quot;http://hillelcooperman.com/&quot;&gt;Hillel Cooperman&lt;/a&gt; Rated &amp;#8220;R&amp;#8221; for adult language, but hilarious adult language.&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;http://creativemornings.com/talks/embed/hillel-cooperman/1&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;I wouldn&amp;#8217;t call this a proscriptive talk, but a very personal descriptive exploration of imposter syndrome. Something that as a new entrepreneur I can completely understand.&lt;/p&gt;</description>
+        <pubDate>Sat, 15 Nov 2014 00:00:00 -0800</pubDate>
+        <link>http://shoeinthedoor.com/2014/11/15/take-a-chance.html</link>
+        <guid isPermaLink="true">http://shoeinthedoor.com/2014/11/15/take-a-chance.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>There&#39;s ... someone on the wing ... some thing</title>
+        <description>&lt;p&gt;I&amp;#8217;m a reasonable nervous flier. By that I mean I understand the fact that riding my bike in the city is more likely to get me hurt than flying. But I also know that it&amp;#8217;s an engineering masterpiece that is keeping me up there.&lt;/p&gt;
+&lt;p&gt;A British Company has proposed a &lt;a href=&quot;http://www.fastcodesign.com/3037709/in-this-airplane-redesign-no-one-and-everyone-gets-a-window-seat&quot;&gt;plane without windows&lt;/a&gt;, instead the whole fuselage is covered in OLEDs and is a giant screen.&lt;/p&gt;
+&lt;p&gt;This will mean the plane can be lighter with more interior space, saving fuel costs. The question is will people fly in it? The plane is no less safe than it was, but does it feel more like a flying death tube when you loose visual contact with the outside world?&lt;/p&gt;
+&lt;p&gt;It&amp;#8217;s a concept for now, but I&amp;#8217;m interested in folks reaction. Would you fly in a plane where you couldn&amp;#8217;t spot &lt;a href=&quot;https://www.youtube.com/watch?v=xVxuHqmNpbI&quot;&gt;something on the wing?&lt;/a&gt;&lt;/p&gt;</description>
+        <pubDate>Tue, 28 Oct 2014 00:00:00 -0700</pubDate>
+        <link>http://shoeinthedoor.com/2014/10/28/planes-without-windows.html</link>
+        <guid isPermaLink="true">http://shoeinthedoor.com/2014/10/28/planes-without-windows.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Technology as Differentiator</title>
+        <description>&lt;p&gt;The title of this ReadWrite article says what you need to know &lt;a href=&quot;http://readwrite.com/2014/10/14/amazon-public-cloud-innovation-chris-schlaeger&quot;&gt;You&amp;#8217;ll Never Really Innovate On Someone Else&amp;#8217;s Cloud&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The article describes how tech companies that can&amp;#8217;t specifically tune their servers give up the ability to truly differentiate themselves from other tech companies.&lt;/p&gt;
+&lt;p&gt;I couldn&amp;#8217;t agree more if your technology is your core service offering, but what if you aren&amp;#8217;t a technology company? How much does the technology you use matter?&lt;/p&gt;
+&lt;p&gt;I would argue it matters a great deal.&lt;/p&gt;
+&lt;p&gt;The question is which technology do you need to completely control and what technology should you let others worry about. Every organization is going to have different answer to these questions, but here are a few rules of thumb.&lt;/p&gt;
+&lt;ol&gt;
+	&lt;li&gt;&lt;strong&gt;Is it critical to your mission?&lt;/strong&gt; &amp;#8211; if you are a restaurant, the system your credit card processing is mission critical, your email may not be&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Are your differences benefiting customers?&lt;/strong&gt; &amp;#8211; every organization feels that off-the-shelf-software won&amp;#8217;t work for them because they are unique, and in many ways they are right. The question is, are those differences in process translating into value for your customer? If they are not, perhaps better to change the process&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;What is your internal capacity to maintain the technology?&lt;/strong&gt; &amp;#8211; if you don&amp;#8217;t have internal capacity, how are you setting up a partnership you can depend on long term?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;These are the sorts of conversations I relish having. &lt;a href=&quot;mailto:jake@shoeinthedoor.com&quot;&gt;Be in touch&lt;/a&gt; if you have any questions or want to talk through any technology choices your organization is making.&lt;/p&gt;</description>
+        <pubDate>Wed, 15 Oct 2014 00:00:00 -0700</pubDate>
+        <link>http://shoeinthedoor.com/2014/10/15/technology-as-differentiator.html</link>
+        <guid isPermaLink="true">http://shoeinthedoor.com/2014/10/15/technology-as-differentiator.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Dollar a Day</title>
+        <description>&lt;p&gt;Yesterday &lt;a href=&quot;https://dollaraday.co&quot;&gt;Dollar a Day&lt;/a&gt; launched. It&amp;#8217;s a giving program that let&amp;#8217;s you sign up for a $30 a month gift that is distributed across 30 nonprofits.&lt;/p&gt;
+&lt;p&gt;Each nonprofit gets $1 from each person giving to Dollar a Day, right now that means each nonprofit is getting $478. Funds are collected and distributed by Network for Good. The way Network for Good works, is the donor actually gives to Network for Good (itself a nonprofit) and Network for Good &amp;#8220;grants&amp;#8221; nonprofits funds based on what donors give.&lt;/p&gt;
+&lt;p&gt;This means monthly distribution of funds via a check in the mail. You can speed that up a bit by &lt;a href=&quot;http://www1.networkforgood.org/check/&quot;&gt;signing up for &lt;span class=&quot;caps&quot;&gt;EFT&lt;/span&gt;&lt;/a&gt;, but it&amp;#8217;s still a  once monthly distribution.&lt;/p&gt;
+&lt;p&gt;Normally when someone gives via Network for Good, you can access that donor information, but in this case you aren&amp;#8217;t getting any donor data, just the funds.&lt;/p&gt;
+&lt;p&gt;So should you &lt;a href=&quot;https://docs.google.com/forms/d/1n749fBYYt1DfMhPLG62WXYrrWVZQWtrofe4JwtqAq4k/viewform&quot;&gt;suggest yourself&lt;/a&gt; to get on this possibly viral gravy train? Well it couldn&amp;#8217;t hurt, but make sure your qualify. From their &lt;span class=&quot;caps&quot;&gt;FAQ&lt;/span&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;All nonprofits must be US-registered 501&amp;#169;(3) organizations that operate exclusively for charitable purposes. We exclude nonprofits that support a particular religion, government, or political party.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The &amp;#8220;support a particular&amp;#8221; is a bit murky. World Vision is a Christian organization, but they help any one, would they qualify? Looking at the list of upcoming organizations, I would but them more to the progressive side of the political spectrum than conservative.&lt;/p&gt;
+&lt;p&gt;Also without donor data, the value is just the one time boon to your bank account.&lt;/p&gt;
+&lt;p&gt;The nonprofit of the day is featured in an email to all donors. In fact you don&amp;#8217;t even have to donate to subscribe. It&amp;#8217;s not clear how much say nonprofits have over how they are featured in that daily email, but that&amp;#8217;s their one chance to grab the attention of this audience to try to acquire some folks as constituents.&lt;/p&gt;
+&lt;p&gt;My read is it can&amp;#8217;t hurt to apply and see what happens, the form is short. You could also use this as a social call to action. Since anyone can suggest a nonprofit you could ask your social audience to suggest you are added. My guess is that multiple entries for the same nonprofit will up your chances.&lt;/p&gt;
+&lt;p&gt;Still not sure how you would use this? &lt;a href=&quot;jake@shoeinthedoor.com&quot;&gt;Drop me a line&lt;/a&gt; and we can figure it out.&lt;/p&gt;</description>
+        <pubDate>Thu, 02 Oct 2014 00:00:00 -0700</pubDate>
+        <link>http://shoeinthedoor.com/2014/10/02/dollar-a-day.html</link>
+        <guid isPermaLink="true">http://shoeinthedoor.com/2014/10/02/dollar-a-day.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>What I like about Craft</title>
+        <description>&lt;p&gt;My friend Doug first introduced me to &lt;a href=&quot;https://buildwithcraft.com/&quot;&gt;Craft&lt;/a&gt;. Doug works at the very excellent Viget Labs who just published an equally excellent post about &lt;a href=&quot;http://viget.com/extend/craft-vs.-wordpress-the-good-the-bad-and-the-ugly-data#When:13:00&quot;&gt;Craft vs. Wordpress&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I am a WordPress guy. I&amp;#8217;ve recommended it dozens of times, built personal and business sites with it, written a plugin&amp;#8230; I&amp;#8217;m a WordPress guy. But I really like Craft.&lt;/p&gt;
+&lt;p&gt;The post speaks to the biggest reason: native, admin driven custom post types. Megan Zlock, the author of the post, mentions this functionality is possible with a WordPress plugin, but when it&amp;#8217;s not baked into the &lt;span class=&quot;caps&quot;&gt;CMS&lt;/span&gt; you are bound for trouble.&lt;/p&gt;
+&lt;p&gt;I haven&amp;#8217;t quite figured out how to sell folks on the $300 price tag, but if you are a WordPress developer, spend some time to take a look at Craft.&lt;/p&gt;</description>
+        <pubDate>Wed, 01 Oct 2014 00:00:00 -0700</pubDate>
+        <link>http://shoeinthedoor.com/2014/10/01/what-i-like-about-craft.html</link>
+        <guid isPermaLink="true">http://shoeinthedoor.com/2014/10/01/what-i-like-about-craft.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Free Site Survey Tool</title>
+        <description>&lt;p&gt;The &lt;a href=&quot;http://www.theagitator.net/communications/new-automated-fundraising-tool-free-forever/&quot;&gt;Agitator&lt;/a&gt; tipped me off to an interesting free tool from &lt;a href=&quot;http://donorfeedback.thedonorvoice.com/&quot;&gt;Donor Voice&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This feedback widget allows you to place a customizable survey on your site. We built a similar tool at &lt;a href=&quot;http://www.masterworks.com/&quot;&gt;Masterworks&lt;/a&gt;, but with a different purpose.&lt;/p&gt;
+&lt;p&gt;The Donor Voice tool is designed to ask someone about their experience once it is complete. The Masterworks tool was designed to gather visitor intent.&lt;/p&gt;
+&lt;p&gt;Caveat emptor: there is no such thing as a free lunch, and you should expect a sales call from Donor Voice as the cost of using this free service. You are also giving them access to your satisfaction data, certainly helpful in the sales process.&lt;/p&gt;
+&lt;p&gt;The setup is short and you can be online in a matter of minutes. Partially it is so easy to setup because you don&amp;#8217;t get to choose any of the questions that are part of the survey. The four questions the survey does ask are general enough to work for any organization:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://shoeinthedoor.com/images/14.png?1410872911&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;This content is owned by Donor Voice so don&amp;#8217;t steal the questions. Also don&amp;#8217;t worry about the red and black background, those are the customizable parts of the survey.&lt;/p&gt;
+&lt;p&gt;The automated email was also fairly general, but was responsive to how I filled out the survey. You can only fill out the survey once per IP address, so I had to use a Web Proxy service to see the other responses.&lt;/p&gt;
+&lt;p&gt;If you fill out the survey with good marks, the response suggests that the constituent donates, without a link to do so.&lt;/p&gt;
+&lt;p&gt;I think the lack of choices here is a great thing. Constructing surveys is harder than most people think and the constraints mean that organizations won&amp;#8217;t create something bogus.&lt;/p&gt;
+&lt;p&gt;I believe two simple improvements would make this tool even more effective. The first is to ask the donor if they donated today.&lt;/p&gt;
+&lt;p&gt;The second is to add one more field to the setup process: donation &lt;span class=&quot;caps&quot;&gt;URL&lt;/span&gt;. The last line of the email when someone responds with good marks says:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Will you please consider donating today in support of our continuing efforts to&amp;#8230;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If the text &amp;#8220;please consider donating today&amp;#8221; was linked, the email would make that donation a one-click action.&lt;/p&gt;
+&lt;p&gt;And with that, you can see why asking if the individual donated matters. If I had just given a gift, and it wasn&amp;#8217;t acknowledged by this email, it would most likely diminish donor loyalty. The very thing the survey is trying to measure and increase. By asking if I have donated, the last line could be changed to something like:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Thank you so much for donating to support our efforts to&amp;#8230;. Your continued support is vital to your success.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;However, these small things don&amp;#8217;t preclude me from recommending that nonprofits who accept donations on their website (and if you don&amp;#8217;t &lt;a href=&quot;mailto:jake@shoeinthedoor.com&quot;&gt;let&amp;#8217;s talk&lt;/a&gt;) experiment with this tool. One way to ease into it would be to show it not to every user on your site but it a subset of users.&lt;/p&gt;
+&lt;p&gt;If you are thinking about implementing this tool and need any technical help, just &lt;a href=&quot;mailto:jake@shoeinthedoor.com&quot;&gt;let me know&lt;/a&gt;&lt;/p&gt;</description>
+        <pubDate>Tue, 16 Sep 2014 00:00:00 -0700</pubDate>
+        <link>http://shoeinthedoor.com/2014/09/16/free-site-survey-tool.html</link>
+        <guid isPermaLink="true">http://shoeinthedoor.com/2014/09/16/free-site-survey-tool.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
