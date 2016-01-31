@@ -6,9 +6,24 @@
 </description>
     <link>http://shoeinthedoor.com/</link>
     <atom:link href="http://shoeinthedoor.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 Jan 2016 15:59:22 -0800</pubDate>
-    <lastBuildDate>Sat, 30 Jan 2016 15:59:22 -0800</lastBuildDate>
+    <pubDate>Sat, 30 Jan 2016 16:10:31 -0800</pubDate>
+    <lastBuildDate>Sat, 30 Jan 2016 16:10:31 -0800</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>Now Brought to you by Jekyll</title>
+        <description>&lt;p&gt;I’ve been interested in trying out &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; and the fact that my hosting service needed renewal game me a good reason.&lt;/p&gt;
+
+&lt;p&gt;The hardest part was adding the necessary Ruby Gems. I went the not-cool-but-oh-so-easy route of a &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo&lt;/code&gt; install and all was well. With the exception of having to run the importer as root, which meant that all the posts were owned by root. A simple chown solved that.&lt;/p&gt;
+
+&lt;p&gt;I’ve been doing a lot more development lately, stuff that doesn’t make sense on the &lt;a href=&quot;http://abravenew.com/blog&quot;&gt;A Brave New Blog&lt;/a&gt; maybe I’ll write some more about that here, no promises.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Jan 2016 00:00:00 -0800</pubDate>
+        <link>http://shoeinthedoor.com/2016/01/30/now-brought-to-you-by-jekyll.html</link>
+        <guid isPermaLink="true">http://shoeinthedoor.com/2016/01/30/now-brought-to-you-by-jekyll.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Fracking Truthers</title>
@@ -160,37 +175,6 @@ and the world is about to turn!&lt;/p&gt;
         <pubDate>Wed, 01 Oct 2014 00:00:00 -0700</pubDate>
         <link>http://shoeinthedoor.com/2014/10/01/what-i-like-about-craft.html</link>
         <guid isPermaLink="true">http://shoeinthedoor.com/2014/10/01/what-i-like-about-craft.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Free Site Survey Tool</title>
-        <description>&lt;p&gt;The &lt;a href=&quot;http://www.theagitator.net/communications/new-automated-fundraising-tool-free-forever/&quot;&gt;Agitator&lt;/a&gt; tipped me off to an interesting free tool from &lt;a href=&quot;http://donorfeedback.thedonorvoice.com/&quot;&gt;Donor Voice&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;This feedback widget allows you to place a customizable survey on your site. We built a similar tool at &lt;a href=&quot;http://www.masterworks.com/&quot;&gt;Masterworks&lt;/a&gt;, but with a different purpose.&lt;/p&gt;
-&lt;p&gt;The Donor Voice tool is designed to ask someone about their experience once it is complete. The Masterworks tool was designed to gather visitor intent.&lt;/p&gt;
-&lt;p&gt;Caveat emptor: there is no such thing as a free lunch, and you should expect a sales call from Donor Voice as the cost of using this free service. You are also giving them access to your satisfaction data, certainly helpful in the sales process.&lt;/p&gt;
-&lt;p&gt;The setup is short and you can be online in a matter of minutes. Partially it is so easy to setup because you don&amp;#8217;t get to choose any of the questions that are part of the survey. The four questions the survey does ask are general enough to work for any organization:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/14.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;This content is owned by Donor Voice so don&amp;#8217;t steal the questions. Also don&amp;#8217;t worry about the red and black background, those are the customizable parts of the survey.&lt;/p&gt;
-&lt;p&gt;The automated email was also fairly general, but was responsive to how I filled out the survey. You can only fill out the survey once per IP address, so I had to use a Web Proxy service to see the other responses.&lt;/p&gt;
-&lt;p&gt;If you fill out the survey with good marks, the response suggests that the constituent donates, without a link to do so.&lt;/p&gt;
-&lt;p&gt;I think the lack of choices here is a great thing. Constructing surveys is harder than most people think and the constraints mean that organizations won&amp;#8217;t create something bogus.&lt;/p&gt;
-&lt;p&gt;I believe two simple improvements would make this tool even more effective. The first is to ask the donor if they donated today.&lt;/p&gt;
-&lt;p&gt;The second is to add one more field to the setup process: donation &lt;span class=&quot;caps&quot;&gt;URL&lt;/span&gt;. The last line of the email when someone responds with good marks says:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Will you please consider donating today in support of our continuing efforts to&amp;#8230;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;If the text &amp;#8220;please consider donating today&amp;#8221; was linked, the email would make that donation a one-click action.&lt;/p&gt;
-&lt;p&gt;And with that, you can see why asking if the individual donated matters. If I had just given a gift, and it wasn&amp;#8217;t acknowledged by this email, it would most likely diminish donor loyalty. The very thing the survey is trying to measure and increase. By asking if I have donated, the last line could be changed to something like:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Thank you so much for donating to support our efforts to&amp;#8230;. Your continued support is vital to your success.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;However, these small things don&amp;#8217;t preclude me from recommending that nonprofits who accept donations on their website (and if you don&amp;#8217;t &lt;a href=&quot;mailto:jake@shoeinthedoor.com&quot;&gt;let&amp;#8217;s talk&lt;/a&gt;) experiment with this tool. One way to ease into it would be to show it not to every user on your site but it a subset of users.&lt;/p&gt;
-&lt;p&gt;If you are thinking about implementing this tool and need any technical help, just &lt;a href=&quot;mailto:jake@shoeinthedoor.com&quot;&gt;let me know&lt;/a&gt;&lt;/p&gt;</description>
-        <pubDate>Tue, 16 Sep 2014 00:00:00 -0700</pubDate>
-        <link>http://shoeinthedoor.com/2014/09/16/free-site-survey-tool.html</link>
-        <guid isPermaLink="true">http://shoeinthedoor.com/2014/09/16/free-site-survey-tool.html</guid>
         
         
       </item>
