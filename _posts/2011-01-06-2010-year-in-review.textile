@@ -3,12 +3,6 @@ layout: post
 title: 2010 Year In Review
 tags: []
 ---
-<object width="480" height="380" classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab">
-	<param name="src" value="/files/2010-yir.mov">
-	<param name="autoplay" value="false">
-	<param name="controller" value="true">
-	<embed src="../files/2010-yir.mov" width="480" height="380" autoplay="false" controller="true" pluginspage="http://www.apple.com/quicktime/download/"></embed>
-</object>
 <div style="float:right;margin-right: 150px;width:430px">
 	<h1>2010 Year In Review</h1>
 	<p>I decided to take the time to look back at 2010 and put together some highlights. I know this isn't everything, but its something.</p>
