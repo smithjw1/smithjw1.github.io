@@ -5,45 +5,54 @@ layout: default
 <div class="home">
 
   <p>If you are an small business, nonprofit or agency with marketing technology needs, <a href="http://abravenew.com">we can help</a>. I have over a decade of experience helping organizations tell their story and  expand their reach.</p>
-<p>The bulk of my job is listening first then being in conversation. If you want to know what it is like to work with me, here are some past collaborators.</p>
-<div class="testimonials">
+	<p>The bulk of my job is listening first then being in conversation. If you want to know what it is like to work with me, here are some past collaborators.</p>
+	<div class="testimonials">
+		<blockquote>Jacob is knowledgeable, insightful, and capable. He's a joy to work with because he inspires confidence.
+		<strong>Dan Roloff, Publishing Manager, H. E. Butt Foundation</strong></blockquote>
 
-<blockquote>Jacob is knowledgeable, insightful, and capable. He's a joy to work with because he inspires confidence.
-<strong>Dan Roloff, Publishing Manager, H. E. Butt Foundation</strong></blockquote>
+		<blockquote>It’s REALLY nice having smart people like Jacob on board. He can turn our crazy, creative ideas into living and breathing reality. Thanks for helping us out. What you do is magic.
+		<strong>Seth LaTour, Creative Director, Masterworks</strong></blockquote>
 
-<blockquote>It’s REALLY nice having smart people like Jacob on board. He can turn our crazy, creative ideas into living and breathing reality. Thanks for helping us out. What you do is magic.
-<strong>Seth LaTour, Creative Director, Masterworks</strong></blockquote>
+		<blockquote>Jacob's ability to identify with the audience's needs ensures that his presentations are well targeted and well timed.
+		<strong>Tim, Masterworks</strong></blockquote>
 
-<blockquote>Jacob's ability to identify with the audience's needs ensures that his presentations are well targeted and well timed.
-<strong>Tim, Masterworks</strong></blockquote>
+		<blockquote>In a planet filled with opinions, I put alot of value in a person that cannot just come up with the strategy but knows how to deliver.
+		<strong>Michael Schafer, Principal and Creative Director, openbox9</strong></blockquote>
 
-<blockquote>In a planet filled with opinions, I put alot of value in a person that cannot just come up with the strategy but knows how to deliver.
-<strong>Michael Schafer, Principal and Creative Director, openbox9</strong></blockquote>
+		<blockquote>You f---ing rock.
+		<strong>Sara, NTEN</strong></blockquote>
 
-<blockquote>You f---ing rock.
-<strong>Sara, NTEN</strong></blockquote>
+		<blockquote>This is one of the best, most fun and useful things I've done lately
+		<strong>Lynda, Gathering in the East</strong></blockquote>
 
-<blockquote>This is one of the best, most fun and useful things I've done lately
-<strong>Lynda, Gathering in the East</strong></blockquote>
+		<blockquote>Both witty and profound Jake's a rare combination of talents giving human dimension to an increasingly technological world.
+		<strong>Dan Roloff, Publishing Manager, H. E. Butt Foundation</strong></blockquote>
 
-<blockquote>Both witty and profound Jake's a rare combination of talents giving human dimension to an increasingly technological world.
-<strong>Dan Roloff, Publishing Manager, H. E. Butt Foundation</strong></blockquote>
+		<blockquote>Jake has an authentic style, blending humor and candor that make his presentations really pop!
+		<strong>Charlie, Youth Ministry Certification School</strong></blockquote>
+	</div>
 
-<blockquote>Jake has an authentic style, blending humor and candor that make his presentations really pop!
-<strong>Charlie, Youth Ministry Certification School</strong></blockquote>
-</div>
+	<p>I'd love to start a conversation with you about how we can work together to use technology to meet your organizations mission. Email me today at, <a href="mailto:jake@shoeinthedoor.com">jake@shoeinthedoor.com</a>.
 
-<p>I'd love to start a conversation with you about how we can work together to use technology to meet your organizations mission. Email me today at, <a href="mailto:jake@shoeinthedoor.com">jake@shoeinthedoor.com</a>.
-
-<div class="blog-homepage">
-  <h1>Latest posts from the blog</h1>
-  {% for post in site.posts %}
-  <article role="article" itemscope itemtype="http://schema.org/Article">
-    <h2><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url"><span itemprop="name">{{ post.title }}</span></a> <time itemprop="datePublished" content="{{post.date}}" datetime="{{post.date}}">{{post.date | date: "%b %e, %Y" }}</time></h2>
-    <div itemprop="articleBody">
-      {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
-			<a href="">More &hellip;</a>
-    </div>
-  </article>
-  {% endfor %}
-</div>
+	<div class="blog-homepage">
+	  <h1>Latest posts from the blog</h1>
+	  {% for post in paginator.posts %}
+	  <article role="article" itemscope itemtype="http://schema.org/Article">
+	    <h2><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url"><span itemprop="name">{{ post.title }}</span></a> <time itemprop="datePublished" content="{{post.date}}" datetime="{{post.date}}">{{post.date | date: "%b %e, %Y" }}</time></h2>
+	    <div itemprop="articleBody">
+	      {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+				<a href="{{ post.url | prepend: site.baseurl }}">More &hellip;</a>
+	    </div>
+	  </article>
+	  {% endfor %}
+		<div class="pagination">
+	  {% if paginator.previous_page %}
+	    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+	  {% endif %}
+	  <span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+	  {% if paginator.next_page %}
+	    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+		{% endif %}
+		</div>
+	</div>
+</div> <!-- .home -->

@@ -356,9 +356,18 @@ html body * dd.clear {
 .blog-homepage article {
   padding-bottom: 1em;
   margin-bottom: 2em;
-  border-bottom: 1px solid #CCC; }
+  border-bottom: 1px solid #CCC;
+  clear: both; }
   .blog-homepage article:last-child {
     border-bottom: none; }
+  .blog-homepage article:after {
+    clear: both;
+    content: '.';
+    display: block;
+    visibility: hidden;
+    height: 0; }
+.blog-homepage .pagination {
+  text-align: right; }
 
 /**
  * Syntax highlighting styles
