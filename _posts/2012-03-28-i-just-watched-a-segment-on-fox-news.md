@@ -1,0 +1,7 @@
+---
+layout: post
+title: 'I just watched a segment on Fox News. '
+tags: []
+---
+
+That was a mistake.

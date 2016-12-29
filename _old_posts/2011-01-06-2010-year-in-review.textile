@@ -1,0 +1,19 @@
+---
+layout: post
+title: 2010 Year In Review
+tags: []
+---
+<div style="float:right;margin-right: 150px;width:430px">
+	<h1>2010 Year In Review</h1>
+	<p>I decided to take the time to look back at 2010 and put together some highlights. I know this isn't everything, but its something.</p>
+	<h3>Thank you</h3>
+	<p>Erin, Mom, Dad, Rachel, Shawn, Andrew, Bobbie, Dan, Mary, Caitlin, Pap, Butch, Bill, Gina, Billy, Matt, Joni, Nathan, Micah and Arin for being the most important people in any year.</p>
+	<h3>Music</h3>
+	<p>Four songs are part of this video: <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FHallelujah%2Fdp%2FB001PYW46S&tag=shoein-20&linkCode=ur2&camp=1789&creative=9325">Hallelujah</a><img src="http://www.assoc-amazon.com/e/ir?t=Hallelujah-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+	 by Rufus Wainwright, 	<a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdp%2FB0029EF64U%2F&tag=shoein-20&linkCode=ur2&camp=1789&creative=9325">Snowfall Music</a><img src="http://www.assoc-amazon.com/e/ir?t=shoein-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+	 by Carbon Leaf, <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB002PNSFO8%2F&tag=shoein-20&linkCode=ur2&camp=1789&creative=9325">Head Full Of Doubt/Road Full Of Promise</a><img src="http://www.assoc-amazon.com/e/ir?t=shoein-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+	 by the Avett Brothers and <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB000QW2SP2&tag=shoein-20&linkCode=ur2&camp=1789&creative=9325">Peg &amp; Awl</a><img src="http://www.assoc-amazon.com/e/ir?t=shoein-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> by Growling Old Men</p>
+	<h3>Photos</h3>
+	<p>Some of the photos are my own, some were taking by others and uploaded to Facebook, so technically Facebook owns them, others to Flickr. I put the first draft together to late at night to think about crediting everyone.</p>
+</div>
+<style>.wrapper {padding: 2%}</style>

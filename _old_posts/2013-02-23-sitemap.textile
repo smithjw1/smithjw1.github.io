@@ -1,0 +1,88 @@
+---
+layout: post
+title: Sitemap
+tags: []
+---
+<a href="#edit" id="edit-mode">Go into Edit Mode</a>
+	<h1>Small Church</h1>
+<ul id="primary-nav">
+	<li>About Us
+		<ul>
+			<li class="Form">Contact Us</li>
+			<li>Worship Times</li>
+			<li>For the Community</li>
+			<li>History</li>
+			<li class="Application">Donate</li>
+		</ul>
+	</li>
+	<li>Events
+		<ul>
+			<li class="Calendar">Calendar</li>
+			<li class="Blog">Announcements</li>
+		</ul>
+	</li>
+	<li>Ministries
+		<ul>
+			<li>Children's Ministry</li>
+			<li>Youth and Family Ministry</li>
+			<li>Single's Ministry</li>
+		</ul>
+	</li>
+	<li>Service Opportunities
+		<ul class="two-line">
+			<li>Committees</li>
+			<li>Teaching</li>
+			<li>Worship</li>
+		</ul>
+	</li>
+	<li>Home</li>
+</ul>
+<ul id="utility-nav"></ul>
+<br style="clear:both" />
+<ul id="legend"></ul>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js"></script>
+<script>
+$(document).ready(function() {
+	var legendList = new Array();
+	legendList.push('Page');
+	$('.wrapper li').each(function(){
+	 	if($(this).attr('className')){
+			legendList.push($(this).attr('className'));
+		}
+	});
+	legendList.push('Content');
+	
+	$('ul#legend').append('<li class="title">Legend</li>');
+	jQuery.each(legendList, function(){
+		$('ul#legend').append('<li class="'+this+'">'+this.replace('-',' ')+'</li>');
+	});
+	
+ 	$('.wrapper li:first').siblings().andSelf().each(function(){
+		if($(this).attr('className') != "") {
+			$(this).prepend('<span class="'+$(this).attr('className')+'"></span>');	
+		}
+		$(this).addClass('primary');
+	});
+	$('.wrapper li li').addClass('secondary');
+	$('.wrapper li li li').addClass('tertiary').removeClass('secondary');
+	$('div#wrapper').css("padding-bottom", $('ul#legend').outerHeight()+50);
+	
+	$('a#edit-mode').click(function(){
+		if ($(this).html() == 'Exit Edit Mode') {
+			$('ul#primary-nav').sortable('destroy');
+			$('ul#primary-nav li ul').sortable('destroy');
+			$(this).html('Go into Edit Mode');
+		}
+		else {
+			$('ul#primary-nav').sortable();
+			$('ul#primary-nav li ul').sortable({
+				connectWith: '.primary ul',
+				placeholder: 'drop-position'
+			});
+			$(this).html('Exit Edit Mode');
+		}
+		$('body').toggleClass('edit');
+		return false;
+	});
+});
+</script>

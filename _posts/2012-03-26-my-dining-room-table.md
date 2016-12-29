@@ -1,0 +1,48 @@
+---
+layout: post
+title: My Dining Room Table
+tags: []
+---
+
+<p>
+<div class='p_embed p_image_embed'>
+<img alt="Photo" height="375" src="/images/39371507-photo.jpg" width="500" />
+
+</div>
+</p>
+<p>
+This table has been my table since I was three years old. It went from Laura Acres to The House with Pink Shutters to Springfield to the Lutheran Theological Seminary at Gettysburg to New Castle to Seattle.
+
+</p>
+<p>
+I've sat around it with my family, my friends, people I didn't know yet and people about whom I knew everything. I did homework there and played quarters there.
+
+</p>
+<p>
+We are unsure how a pressboard table has made it all this way, but it has. Sadly the table has left the family.
+
+</p>
+<p>
+As you can see it didn't fit well in my dining area and the legs wobbled and one of the chairs was somewhat broken and the other three weren't that far away. It's had a good long 18 year run.
+
+</p>
+<p>
+Yesterday I took the table to the Goodwill in Ballard, so that it can continue on its journey.
+
+</p>
+<p>
+Whoever buys it will have no idea what it measn to me or my family. They will have no idea the few tears, generous laughter and caring words that were spoken over it. They won't know the hands of cards, science projects and fists pounded in frustration on it.
+
+</p>
+<p>
+A powerful, gentle reminder that all that we have isn't ours to begin with. That table served the Smith's well for nearly twenty years and it will serve another family now.
+
+</p>
+<p>
+It's only a table, but it was mine. Right now I can look at my life as being full of beginings or full of endings. I choose to not ignore either side of that coin. That I can every day clothe myself in new life is a great joy, but in order for that new life to take root I must die every evening.
+
+</p>
+<p>
+As many lenten journeys draw to a close, maybe a simple dining room table will remind me what it means to be reborn.
+
+</p>

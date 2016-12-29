@@ -1,0 +1,74 @@
+---
+layout: post
+title: Marketing to Millennials, Hipster Christianity and The Joneses
+tags: []
+---
+
+<p>
+Thanks <a href="http://twitter.com/dgoodmanson/status/21076579946">Drew</a> for pointing me to <a href="http://online.wsj.com/article/SB10001424052748704111704575355311122648100.html">The Perils of Hipster Christianity</a>. One paragraph caught my eye:
+
+</p>
+<blockquote class="posterous_medium_quote">
+<p>
+"And the further irony," he adds, "is that the younger generations who are less impressed by whiz-bang technology, who often see through what is slick and glitzy, and who have been on the receiving end of enough marketing to nauseate them, are as likely to walk away from these oh-so-relevant churches as to walk into them."
+
+</p>
+</blockquote>
+<p>
+I've been telling clients for years that my generation has been marketed to since we were toddlers. Many of us were sat in front of the TV from an early age. I often tell a story about my wife Erin buying a Malibu Barbie Hot Dog stand only to be stunned when sand and palm trees didn't come pouring out of the box.
+
+</p>
+<p>
+Erin says that is when she stopped trusting marketing, she was five.
+
+</p>
+<p>
+Match that with the new to me movie <a href="http://www.imdb.com/title/tt1285309/">The Joneses</a>. I know this movie is a year old, but they showed on the plane back home on Friday. Most movies are just background noise as I, ahem, "work" on the plane, but this one kept my attention.
+
+</p>
+<p>
+I am <strong>about to ruin</strong> the first 20 minutes of the movie if you haven't heard the "twist" already.
+
+</p>
+<p>
+The Joneses are a created family positioned and supplied by major brands to introduce products to people personally. Each family member has markets and products to push, but it is all rather under the radar.
+
+</p>
+<p>
+In a recent conversation with a high school student about what they read online, her biggest factor was the number of friends that had recommended it and how close she was to those friends. The closer the friend, the more the recommendation meant.
+
+</p>
+<p>
+Personal recommendations are the most important thing a nonprofit or a brand can have.
+
+</p>
+<p>
+Does that mean traditional mass marketing is dead? Certainly not. A personal recommendation means more if the product or charity is already firmly lodged into your memory.
+
+</p>
+<p>
+How do you create personal recommendations? My three rules without any research backing them up:
+
+</p>
+<ol>
+<li>
+Provide exceptional, obsessive customer service. 
+
+</li>
+<li>
+Have a strong, unapologetic story.
+
+</li>
+<li>
+Have an enemy.
+
+</li>
+</ol>
+<p>
+Most will have no problems with the first two, but the third that's a tough pill to swallow; especially in the Christian nonprofit market I work in. You shouldn't define yourself as the anti- anything: that's why it is important to have a strong story. But I do think it is good to look at another brand in your space and create a zero-sum game with that brand. For every customer/donor they get, it means you loose one.
+
+</p>
+<p>
+Then get out there and tell your story so well that people forget about your enemy.
+
+</p>
