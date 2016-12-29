@@ -17,3 +17,15 @@
  margin-top: 0.5em;
  text-align: right;
 }
+.blog-homepage {
+	h2 time {
+		font-size: 0.8em;
+		color: lighten(#595959, 10%);
+	}
+	article {
+		padding-bottom: 1em;
+		margin-bottom: 2em;
+		border-bottom: 1px solid #CCC;
+		&:last-child {border-bottom:none}
+	}
+}

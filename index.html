@@ -38,10 +38,11 @@ layout: default
 <div class="blog-homepage">
   <h1>Latest posts from the blog</h1>
   {% for post in site.posts %}
-  <article role="article" itemscope itemtype="http://schema.org/Article" class="">
-    <h2 itemprop="name"><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url">{{ post.title }}</a></h2>
+  <article role="article" itemscope itemtype="http://schema.org/Article">
+    <h2><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url"><span itemprop="name">{{ post.title }}</span></a> <time itemprop="datePublished" content="{{post.date}}" datetime="{{post.date}}">{{post.date | date: "%b %e, %Y" }}</time></h2>
     <div itemprop="articleBody">
-      {{post.content}}
+      {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+			<a href="">More &hellip;</a>
     </div>
   </article>
   {% endfor %}

@@ -66,7 +66,7 @@ input[type=button]{padding: 8px;}
 /*-------------------------------------------------------------------------------------------*/
 /*--- Links ---*/
 a{color: #F85931;}
-a:hover{color: #000; text-decoration: none;}
+a:hover{text-decoration: none;}
 .cta {
  font-size: 1.2em;
  line-height: 1.3em;
@@ -84,7 +84,7 @@ header {padding: 20px 0px 20px; background: #2F3035; border-bottom: 1px solid #0
 .container {
  max-width: 800px;
  margin: 10px 0 10px 4%;
- padding-bottom: 100px;
+ padding-bottom: 200px;
 }
 
 footer {
@@ -123,11 +123,6 @@ nav li a:hover {color: #fff; background: #F85931;}
 .container h1 a{color: #333; text-decoration: none}
 .container h1 a:hover{color: #F85931;}
 .container h2 {font-size:1.2em;margin-bottom: 0; color: #333}
-.listing article {
- border-bottom: 3px solid #CCC;
- margin-bottom: 1em;
-}
-.listing :last-child {border-bottom: none}
 /*-------------------------------------------------------------------------------------------*/
 /*- FOOTER ----------------------------------------------------------------------------------*/
 /*-------------------------------------------------------------------------------------------*/

@@ -6,9 +6,30 @@
 </description>
     <link>http://shoeinthedoor.com/</link>
     <atom:link href="http://shoeinthedoor.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 Jan 2016 16:26:17 -0800</pubDate>
-    <lastBuildDate>Sat, 30 Jan 2016 16:26:17 -0800</lastBuildDate>
-    <generator>Jekyll v3.1.1</generator>
+    <pubDate>Wed, 28 Dec 2016 20:50:38 -0800</pubDate>
+    <lastBuildDate>Wed, 28 Dec 2016 20:50:38 -0800</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Garbage Day</title>
+        <description>&lt;p&gt;Having a dog in your life means picking up shit, there are no two ways around that. However, the distance you carry it is not always equal. Garbage day is the shortest carrying time.&lt;/p&gt;
+
+&lt;p&gt;Every other day your trash can is off limits. Even if it’s on the curb, even if there are other feces filled bags in there, that’s your trash and I will not trespass.&lt;/p&gt;
+
+&lt;p&gt;Communal dumpsters are another mater. When they are far away from the apartment building and not near overflowing, I feel like they are fair game. Part of this is from when I lived in such a building and often had to navigate the horrible smell when dumping my trash. But it’s a communal dumpster and the upstair’s neighbors rotting Top Ramen could be just as likely a culprit.&lt;/p&gt;
+
+&lt;p&gt;But on garbage day, with your can on the curb, I feel like it’s fine to deposit my bag. But only &lt;em&gt;before&lt;/em&gt; the garbage truck has come by. There are few worse feelings then hauling a can back into your house only to find a lonely, soggy bag of shit at the bottom.&lt;/p&gt;
+
+&lt;p&gt;I don’t know why it’s soggy, but it always is. It’s probably better that I do not know.&lt;/p&gt;
+
+&lt;p&gt;So if you see me dropping a bag of shit into your garbage can or dumpster, know that I have thought long and hard about the moral implications of my actions.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 Dec 2016 20:42:59 -0800</pubDate>
+        <link>http://shoeinthedoor.com/2016/12/28/garbage-day.html</link>
+        <guid isPermaLink="true">http://shoeinthedoor.com/2016/12/28/garbage-day.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Now Brought to you by Jekyll</title>
@@ -112,7 +133,7 @@ and the world is about to turn!&lt;/p&gt;
       </item>
     
       <item>
-        <title>There&#39;s ... someone on the wing ... some thing</title>
+        <title>There's ... someone on the wing ... some thing</title>
         <description>&lt;p&gt;I&amp;#8217;m a reasonable nervous flier. By that I mean I understand the fact that riding my bike in the city is more likely to get me hurt than flying. But I also know that it&amp;#8217;s an engineering masterpiece that is keeping me up there.&lt;/p&gt;
 &lt;p&gt;A British Company has proposed a &lt;a href=&quot;http://www.fastcodesign.com/3037709/in-this-airplane-redesign-no-one-and-everyone-gets-a-window-seat&quot;&gt;plane without windows&lt;/a&gt;, instead the whole fuselage is covered in OLEDs and is a giant screen.&lt;/p&gt;
 &lt;p&gt;This will mean the plane can be lighter with more interior space, saving fuel costs. The question is will people fly in it? The plane is no less safe than it was, but does it feel more like a flying death tube when you loose visual contact with the outside world?&lt;/p&gt;
@@ -162,19 +183,6 @@ and the world is about to turn!&lt;/p&gt;
         <pubDate>Thu, 02 Oct 2014 00:00:00 -0700</pubDate>
         <link>http://shoeinthedoor.com/2014/10/02/dollar-a-day.html</link>
         <guid isPermaLink="true">http://shoeinthedoor.com/2014/10/02/dollar-a-day.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>What I like about Craft</title>
-        <description>&lt;p&gt;My friend Doug first introduced me to &lt;a href=&quot;https://buildwithcraft.com/&quot;&gt;Craft&lt;/a&gt;. Doug works at the very excellent Viget Labs who just published an equally excellent post about &lt;a href=&quot;http://viget.com/extend/craft-vs.-wordpress-the-good-the-bad-and-the-ugly-data#When:13:00&quot;&gt;Craft vs. Wordpress&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I am a WordPress guy. I&amp;#8217;ve recommended it dozens of times, built personal and business sites with it, written a plugin&amp;#8230; I&amp;#8217;m a WordPress guy. But I really like Craft.&lt;/p&gt;
-&lt;p&gt;The post speaks to the biggest reason: native, admin driven custom post types. Megan Zlock, the author of the post, mentions this functionality is possible with a WordPress plugin, but when it&amp;#8217;s not baked into the &lt;span class=&quot;caps&quot;&gt;CMS&lt;/span&gt; you are bound for trouble.&lt;/p&gt;
-&lt;p&gt;I haven&amp;#8217;t quite figured out how to sell folks on the $300 price tag, but if you are a WordPress developer, spend some time to take a look at Craft.&lt;/p&gt;</description>
-        <pubDate>Wed, 01 Oct 2014 00:00:00 -0700</pubDate>
-        <link>http://shoeinthedoor.com/2014/10/01/what-i-like-about-craft.html</link>
-        <guid isPermaLink="true">http://shoeinthedoor.com/2014/10/01/what-i-like-about-craft.html</guid>
         
         
       </item>
