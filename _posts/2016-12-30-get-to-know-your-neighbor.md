@@ -1,3 +1,10 @@
+---
+layout: post
+title: Get to Know Your Neighbor
+comments: true
+tags: []
+---
+
 This fall my church, Phinney Ridge Lutheran Church, has hosted a series of classes on Islam. It has been exciting to learn know how uninformed I was about Islam. 
 
 At the most recent session the Ph.D. that is teaching used a Muslim children's book's to share a story from the Quran. That is perhaps the best way to show where we are all at in our understanding.
