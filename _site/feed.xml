@@ -5,9 +5,28 @@
     <description>Helping organizations tell their story and expand their reach.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Feb 2018 16:16:40 -0800</pubDate>
-    <lastBuildDate>Thu, 22 Feb 2018 16:16:40 -0800</lastBuildDate>
+    <pubDate>Thu, 22 Feb 2018 16:24:04 -0800</pubDate>
+    <lastBuildDate>Thu, 22 Feb 2018 16:24:04 -0800</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
+    
+      <item>
+        <title>Volunteer Retirement</title>
+        <description>&lt;p&gt;It’s hard to retire as a volunteer, usually it feels like you just get fired. After serving the ELCA Youth Gathering in a planning capacity since 1998, I not on a planning team for the 2018 gathering.&lt;/p&gt;
+
+&lt;p&gt;I was looking for the poetic feel of serving this event for 20 years, but I will have to settle for 17. Truthfully it hurt a lot when I realized I wouldn’t be back in the same capacity. But I shouldn’t have been surprised. There was a change in leadership and new folks have been asked to serve. This is exactly how I originally got the chance.&lt;/p&gt;
+
+&lt;p&gt;It took me months to realize there was someone just like me in 1998 who I didn’t think or care about at the time. And I’m very excited by the new folks in charge of the Gathering, I know it’s going to be a great event.&lt;/p&gt;
+
+&lt;p&gt;Looking back on the 17 years I served the Gathering there are so many relationships and experiences that I just couldn’t replace. I hi-fived Bishop Desmond Tutu and met &lt;a href=&quot;https://revtifc.wordpress.com&quot;&gt;Tiffany Chaney&lt;/a&gt;. If you aren’t listening to Tiffany’s voice, you aren’t listening to the church.&lt;/p&gt;
+
+&lt;p&gt;Serving the ELCA Youth Gathering has been the greatest honor of my life. I’m excited to see it continue to grow and change and be the vibrant ministry it was before I was a part and will continue after me.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 13 Jan 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2017/01/13/voulenteer-retierment.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/01/13/voulenteer-retierment.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Roasted Vegetables</title>
@@ -203,29 +222,6 @@
         <pubDate>Fri, 06 Feb 2015 00:00:00 -0800</pubDate>
         <link>http://localhost:4000/2015/02/06/a-brave-new.html</link>
         <guid isPermaLink="true">http://localhost:4000/2015/02/06/a-brave-new.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Great Security Washington State Ferries</title>
-        <description>&lt;p&gt;Since I don’t take the ferry nearly as much as I used to, I just got around to turning off email alerts for ferry delays.&lt;/p&gt;
-
-&lt;p&gt;To do so, I needed a password I had long forgot so I sent for a password reset. Here’s the email I received:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/15t.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;You’ll see the password is redacted, because it was my actual password. I recognized it because I often use a password across a number of accounts that I don’t care about. Password reuse is a security no-no, but it’s quite common and when we are talking about my Washington State Ferry account which holds no personal info beyond an outdated address, I’m not terribly concerned about it.&lt;/p&gt;
-
-&lt;p&gt;That is when the password is properly secured. The fact that they could send me my actual password means they are either storing it in plain text or a reversible encryption algorithm. Either way it’s at significantly more risk than it should be.&lt;/p&gt;
-
-&lt;p&gt;Passwords should always be stored using a &lt;a href=&quot;https://crackstation.net/hashing-security.htm&quot;&gt;salted one way encryption scheme&lt;/a&gt;. That way if your database is ever compromised (from inside or outside) only the most common passwords will be compromised.&lt;/p&gt;
-
-&lt;p&gt;It is truly lazy programming to be able to spit back a users password and then to send it via email is downright irresponsible.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 21 Jan 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2015/01/21/great-security-wsf.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/01/21/great-security-wsf.html</guid>
         
         
       </item>
