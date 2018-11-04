@@ -1,0 +1,10 @@
+{
+    "short_name": "SitD",
+    "name": "Shoe in the Door",
+    "description": "Personal website of Jacob Wayne Smith",
+    "start_url": "./?utm_source=web_app_manifest",
+    "display": "standalone",
+    "orientation": "portrait",
+    "theme_color": "#F34126",
+    "background_color": "#232428"
+}
