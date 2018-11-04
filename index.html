@@ -38,10 +38,18 @@ layout: default
 	  <h1>Latest posts from the blog</h1>
 	  {% for post in paginator.posts %}
 	  <article role="article" itemscope itemtype="http://schema.org/Article">
+      {% if post.link %}
+      <h2><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url" rel="nofollow"><span itemprop="name">{{ post.title }}</span></a> <time itemprop="datePublished" content="{{post.date}}" datetime="{{post.date}}">{{post.date | date: "%b %e, %Y" }}</time></h2>
+      {% else %}
 	    <h2><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url"><span itemprop="name">{{ post.title }}</span></a> <time itemprop="datePublished" content="{{post.date}}" datetime="{{post.date}}">{{post.date | date: "%b %e, %Y" }}</time></h2>
+      {% endif %}
 	    <div itemprop="articleBody">
 	      {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
-				<a href="{{ post.url | prepend: site.baseurl }}">More &hellip;</a>
+        {% if post.link %}
+				<a href="{{ post.url | prepend: site.baseurl }}" rel="nofollow">More &hellip;</a>
+        {% else %}
+        <a href="{{ post.url | prepend: site.baseurl }}">More &hellip;</a>
+        {% endif %}
 	    </div>
 	  </article>
 	  {% endfor %}

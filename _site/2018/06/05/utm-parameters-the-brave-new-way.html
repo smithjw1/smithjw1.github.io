@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en-us" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta charset="utf-8">
+	<title>Jacob Wayne Smith</title>
+	<meta name="description" content="If you have never heard of UTM Parameters you are not alone. If you are thinking you know all there is to know, you are equally in good company. We’ve put to...">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta property="fb:admins" content="522899971"/>
+	<link rel="shortcut icon" href="/favicon.ico" />
+  <link rel="alternate" type="application/rss+xml" title="Shoe in the Door" href="http://localhost:4000/feed.xml">
+	
+	<link rel="canonical" href="https://blog.abravenew.com/utm-parameters-the-brave-new-way">
+	<meta name="robots" content="noindex">
+	
+
+	<link href="http://fonts.googleapis.com/css?family=Lobster&subset=latin" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="/css/main.css">
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<!--[if lt IE 9]>
+		<script src="/js/html5shiv.js"></script>
+		<script src="/js/css3-mediaqueries.js"></script>
+	<![endif]-->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-50166-3', 'auto');
+    ga('send', 'pageview');
+  </script>
+</head>
+
+<body>
+  <header role="banner">
+  <hgroup>
+    <h1><a rel="home" href="http://shoeinthedoor.com/">Jacob Wayne Smith</a></h1>
+    <h3>Experienced Technologist</h3>
+  </hgroup>
+</header>
+
+<!-- navigation -->
+
+
+  <div class="container clearfix listing">
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+
+    <h1 class="post-title" itemprop="name headline">UTM Parameters the Brave New Way</h1>
+
+  <div class="post-content" itemprop="articleBody">
+    <p>If you have never heard of UTM Parameters you are not alone. If you are thinking you know all there is to know, you are equally in good company. We’ve put together simple, proven steps to a healthy Google Analytics setup. This post synthesizes the combined knowledge of dozens of years of experience and hundreds of campaigns.</p>
+
+<p>UTM parameters are extra strings added to a URL. You can read about them <a href="https://support.google.com/analytics/answer/1033863#parameters">specifically here</a>. There are dozens of blog posts on how to set them up, but none that detail how we do it. We think our setup works well across a bunch of different campaigns, so please do steal away.</p>
+
+<p>We aren’t going to cover the basics, so if this is all new to you, the <a href="https://en.wikipedia.org/wiki/UTM_parameters">Wikipedia article</a> is a good primer.</p>
+
+<h2 id="general-dos-and-donts">General Do’s and Dont’s</h2>
+
+<ul>
+  <li><strong>DO</strong> use utm_source, utm_medium, and utm_campaign. It’s important to use all three.</li>
+  <li><strong>DON’T</strong> use utm_keyword for anything but keywords. Some people use it for other bits of data, but it gets confusing.</li>
+  <li><strong>DO</strong> add utm parameters to outbound email links, social advertising, organic social, bing, just about anything.</li>
+  <li><strong>DON’T</strong> add utm parameters to AdWords (Google does it automatically) or links on your website (this will result in over counting some stats and undercounting others, it’s a bad scene).</li>
+  <li><strong>DO</strong> use a consistent naming convention. More on that below.</li>
+  <li><strong>DON’T</strong> use spaces or special characters.</li>
+  <li><strong>DO</strong> keep track of your parameters. In a sheet <a href="https://docs.google.com/spreadsheets/d/1n8zVZUPFK88ELGm8UCUQWq0A65FIKjNbULt821gZebs/edit?usp=sharing">like this</a> one.</li>
+</ul>
+
+<h2 id="utm_medium">utm_medium</h2>
+
+<p>We look at medium as the biggest funnel. Here are the mediums we generally use:</p>
+
+<ul>
+  <li><strong>social</strong> - for <em>organic</em> social posts</li>
+  <li><strong>email</strong> - for email, both automated and traditional</li>
+  <li><strong>cpc</strong> - for non-AdWords paid search</li>
+  <li><strong>cpp</strong> - for paid Social</li>
+  <li><strong>display</strong> - for non-AdWords display</li>
+  <li><strong>affiliate</strong> - for link shares, guest blog posts, etc.</li>
+</ul>
+
+<p>We use these mediums to fit into Google’s <a href="https://support.google.com/analytics/answer/3297892?hl=en">default channel definitions</a>. It makes reporting in Google Analytics (where all this data ends up) much cleaner.</p>
+
+<p>The only interesting one is cpp for paid Social. We chose that to direct that traffic into the “Other Advertising” channel. We have no idea what cpp stands for, so we aren’t worried about data collisions with other mediums.</p>
+
+<p>We could have kept the medium “social,” but we were finding it was difficult to differentiate paid efforts when we had an integrated campaign.</p>
+
+<h2 id="utm_source">utm_source</h2>
+
+<p>The middle of the funnel is source. This one gets more specialized by client and medium. In social (both paid and organic) we use the name of the network. Same thing with ad networks.</p>
+
+<p>In email, we often use an audience name for traditional one-to-many emails and a more generic type for automated one-to-one emails.</p>
+
+<p>For example if you send a monthly email to all customers, we might use “customers” as the source. If we have a follow up email stream after a white paper download, we would use “whitepaper” or “resource.” New donor steams might use “welcome.”</p>
+
+<p>Remember, you have one more level with utm_campaign. Think about how you would want to roll up your reporting and group similar emails with utm_source.</p>
+
+<h2 id="utm_campaign">utm_campaign</h2>
+
+<p>The most granular level is campaign. This should clearly identify the individual effort and be shared across sources and mediums. That’s the real power of utm_parameters. To be able to both report by campaign and by channel and in combination.</p>
+
+<p>These are very client specific. We’ve used “newcustomer” “deardonor” “may2018” to name just a few. You do have a decision here if your campaigns are run annually or even several times a year.</p>
+
+<p>Say you have an annual campaign called “Power of One.” That campaign name could be “powerofone” or “powerofone2018.” We wouldn’t suggest “powerofone18” as it’s not immediately clear that 18 is a year.</p>
+
+<p>By adding the year you make it easy to report on annual results regardless of the timeframe selected, but more difficult to report across years. We do it both ways, but our preference is to not include the year.</p>
+
+<h2 id="utm_content">utm_content</h2>
+
+<p>Remember when I said that utm_campaign was the most granular? Well not exactly. We use utm_content in a few specific situations.</p>
+
+<ol>
+  <li>When we are running a test to differentiate test panels</li>
+  <li>When we have a multi-email automated stream to differentiate between messages</li>
+</ol>
+
+<p>That’s it, we don’t use it often, but it can come in handy.</p>
+
+<h2 id="a-word-about-testing">A Word About Testing</h2>
+
+<p>It’s important to test your utm parameters to make sure they are set up properly. Fortunately, Google Analytic’s real time reporting includes a report by campaign. There’s a <a href="https://www.youtube.com/watch?v=2vSIisd_ZvM">great video</a> on how to do this. Please excuse the intro music and the use of a delta as an “A”.</p>
+
+<h2 id="train-the-team">Train the Team</h2>
+
+<p>Last, but not least, you have to train your team (and maybe a partner or two) on your conventions and rules. Without shared understanding about how things are done, you can get into hot water fast.</p>
+
+<p>We have come round to these methods after years of learning. But we know there are smart people reading this, so share your favorite utm tip or trick in the comments.</p>
+
+<p>Originally Posted on <a href="https://blog.abravenew.com/utm-parameters-the-brave-new-way">A Brave New</a></p>
+
+  </div>
+	
+</article>
+
+  </div> <!-- /.container -->
+
+  <footer role="contentinfo">
+   <ul class="three-column clearfix">
+          <li class="column clearfix">
+              <p>Passionate about helping you tell your story and expand your reach.</p>
+          </li>
+          <li class="column clearfix">
+<p class="cta">If you want to work together,<br>you can <a href="mailto:jake@shoeinthedoor.com">get in touch</a>.</p>
+
+<p class="cta smaller">You should follow me on twitter <a href="http://twitter.com/j8ke">here</a>.</p>
+        </div>
+          </li>
+          <li class="column clearfix">
+             <p><strong>Why shoe in the door?</strong> It's a <a href="http://www.gcc.edu">Grove City College</a> thing.</p>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/3.0/us/80x15.png" /></a>
+
+          </li>
+      </ul>
+</footer>
+
+  <script src="/js/site.js"></script>
+</body>
+</html>
