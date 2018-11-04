@@ -10,7 +10,7 @@ title: Shoe in the Door
 email: jake@shoeinthedoor.com
 description: Helping organizations tell their story and expand their reach.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://shoeinthedoor.com" # the base hostname & protocol for your site
+url: "https://shoeinthedoor.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
