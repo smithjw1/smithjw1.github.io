@@ -73,8 +73,12 @@ h1, h2, h3, h4, h5, h6 {
 p {
   margin: 0px 0px 1em; }
 
-ul {
+ul, ol {
   margin-bottom: 1em; }
+
+table {
+  width: 90%;
+  margin: 0 auto 1em auto; }
 
 blockquote {
   margin: 0 3% 1em 3%;
@@ -90,6 +94,9 @@ textarea, input {
 
 input[type=button] {
   padding: 8px; }
+
+strong {
+  font-weight: 700; }
 
 /*-------------------------------------------------------------------------------------------*/
 /*- GLOBAL CLASSES --------------------------------------------------------------------------*/

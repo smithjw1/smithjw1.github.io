@@ -54,10 +54,30 @@ Advocate for [Algorithmia](https://algorithmia.com/), which does Machine Learnin
 
 This talked walked a fine line between pitch and information. I think it ended up fairly pitchy, but the service looks helpful, so I care a bit less.
 
-{% comment %}
+
 Taylor Waldon - Making Content Part of Company Culture
 -------------------------------------------------------
+Taylor has been doing content since college working at a food service company.
 
++ Basic permission marketing thinking create: relevant, timely, expected
++ If you are creating the content out of the final publishing medium, you need to re-edit
++ Content Matrix
+
+   | **Hooks** | **Persona 1** | **Persona 2** |
+   | Value | Key Message | Key Message |
+
++ Blog Post Template
+  + title
+  + author
+  + category
+  + image direction
+  + target audience
+  + offer/value
+  + keyword
+  + hook/meta description
++ Schedule, free Google calendar if you need more [CoSchedule](https://coschedule.com/)
+
+{% comment %}
 Bob Dunn - How to Repurpose a Single Piece of Content Into a Lot of Content
 ----------------------------------------------------------------------------
 
