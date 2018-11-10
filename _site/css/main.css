@@ -73,6 +73,9 @@ h1, h2, h3, h4, h5, h6 {
 p {
   margin: 0px 0px 1em; }
 
+ul {
+  margin-bottom: 1em; }
+
 blockquote {
   margin: 0 3% 1em 3%;
   font-style: italic; }

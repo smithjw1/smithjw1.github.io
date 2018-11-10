@@ -5,8 +5,8 @@
     <description>Helping organizations tell their story and expand their reach.</description>
     <link>http://localhost:4001/</link>
     <atom:link href="http://localhost:4001/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Nov 2018 09:43:41 -0800</pubDate>
-    <lastBuildDate>Sat, 10 Nov 2018 09:43:41 -0800</lastBuildDate>
+    <pubDate>Sat, 10 Nov 2018 12:17:15 -0800</pubDate>
+    <lastBuildDate>Sat, 10 Nov 2018 12:17:15 -0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -47,20 +47,34 @@
 &lt;p&gt;I know that may come as a surprise, based on how Christianity is practiced in the United States today, but for me, and my community it’s true.&lt;/p&gt;
 
 &lt;h2 id=&quot;andrew-taylor---the-benefits-of-testing-and-automation&quot;&gt;Andrew Taylor - The Benefits of Testing and Automation&lt;/h2&gt;
+&lt;p&gt;He is a maintainer of websites. We pick up projects and we have to keep them going over time.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Maybe there is a better way than shoving everything on a staging site&lt;/li&gt;
+  &lt;li&gt;Instead if you test continuously, after every change less messes to detangle&lt;/li&gt;
+  &lt;li&gt;Checking things you didn’t work on is boring, time consuming, and hard to bill&lt;/li&gt;
+  &lt;li&gt;Automated testing is the road less traveled&lt;/li&gt;
+  &lt;li&gt;Visual regression as baseline - &lt;a href=&quot;https://github.com/garris/BackstopJ&quot;&gt;Backstop JS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Examining performance - &lt;a href=&quot;https://developers.google.com/web/tools/lighthouse/&quot;&gt;Lighthouse&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Automated testing is important in WordPress, but even more important with the work I’m doing at &lt;a href=&quot;http;//webconnex.com&quot;&gt;WebConnex&lt;/a&gt;. Implementing visual regression testing is on my list to get started on day 1, the performance testing will actually be a bit easier to implement.&lt;/p&gt;
 
 &lt;h2 id=&quot;jonathan-peck---the-other-wpml-machine-learning--ai-in-wordpress&quot;&gt;Jonathan Peck - The other WPML: Machine Learning / Ai in WordPress&lt;/h2&gt;
+&lt;p&gt;Advocate for &lt;a href=&quot;https://algorithmia.com/&quot;&gt;Algorithmia&lt;/a&gt;, which does Machine Learning hosting. What follows are ideas for how we could use this at WebConnex.&lt;/p&gt;
 
-&lt;h2 id=&quot;taylor-waldon---making-content-part-of-company-culture&quot;&gt;Taylor Waldon - Making Content Part of Company Culture&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Recommender engine - show the right race length&lt;/li&gt;
+  &lt;li&gt;AI based, dynamic ambassador discount&lt;/li&gt;
+  &lt;li&gt;Use tweet sentiment to figure out how people feel about the event&lt;/li&gt;
+  &lt;li&gt;Team name/GroupRev suggestion based on past performance&lt;/li&gt;
+  &lt;li&gt;Suggestion on fields to add/remove based on performance&lt;/li&gt;
+  &lt;li&gt;Object detection for alt tags of images&lt;/li&gt;
+  &lt;li&gt;Text summarization for meta descriptions&lt;/li&gt;
+  &lt;li&gt;Automated statement images for social media (Cloudinary)&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h2 id=&quot;bob-dunn---how-to-repurpose-a-single-piece-of-content-into-a-lot-of-content&quot;&gt;Bob Dunn - How to Repurpose a Single Piece of Content Into a Lot of Content&lt;/h2&gt;
-
-&lt;h2 id=&quot;devin-walker---if-you-build-it-right-they-will-come--creating-truly-valuable-wordpress-products-and-services&quot;&gt;Devin Walker - If You Build It (Right), They Will Come – Creating Truly Valuable WordPress Products and Services&lt;/h2&gt;
-
-&lt;h2 id=&quot;andrea-zoellner---storytelling-with-gutenberg-how-to-use-the-new-editor-to-boost-your-blog&quot;&gt;Andrea Zoellner - Storytelling with Gutenberg: How to Use the New Editor to Boost Your Blog&lt;/h2&gt;
-
-&lt;h2 id=&quot;robert-nissenbaum---a-hypothesis-on-the-future-impact-of-gutenberg-on-seo&quot;&gt;Robert Nissenbaum - A Hypothesis on the Future Impact of Gutenberg on SEO&lt;/h2&gt;
-
-&lt;h2 id=&quot;jocelyn-mozak---clone-yourself-through-automation&quot;&gt;Jocelyn Mozak - Clone Yourself Through Automation&lt;/h2&gt;
+&lt;p&gt;This talked walked a fine line between pitch and information. I think it ended up fairly pitchy, but the service looks helpful, so I care a bit less.&lt;/p&gt;
 
 &lt;h2 id=&quot;jacob-smith---from-developer-to-entrepreneur&quot;&gt;Jacob Smith - From Developer to Entrepreneur&lt;/h2&gt;
 &lt;p&gt;Oh wait that’s me.&lt;/p&gt;

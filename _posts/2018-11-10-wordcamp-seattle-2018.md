@@ -28,13 +28,33 @@ I know that may come as a surprise, based on how Christianity is practiced in th
 
 Andrew Taylor - The Benefits of Testing and Automation
 --------------------------------------------------------------
+He is a maintainer of websites. We pick up projects and we have to keep them going over time.
 
++ Maybe there is a better way than shoving everything on a staging site
++ Instead if you test continuously, after every change less messes to detangle
++ Checking things you didn't work on is boring, time consuming, and hard to bill
++ Automated testing is the road less traveled
++ Visual regression as baseline - [Backstop JS](https://github.com/garris/BackstopJ)
++ Examining performance - [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 
+Automated testing is important in WordPress, but even more important with the work I'm doing at [WebConnex](http;//webconnex.com). Implementing visual regression testing is on my list to get started on day 1, the performance testing will actually be a bit easier to implement.
 
 Jonathan Peck - The other WPML: Machine Learning / Ai in WordPress
 -------------------------------------------------------------------
+Advocate for [Algorithmia](https://algorithmia.com/), which does Machine Learning hosting. What follows are ideas for how we could use this at WebConnex.
 
++ Recommender engine - show the right race length
++ AI based, dynamic ambassador discount
++ Use tweet sentiment to figure out how people feel about the event
++ Team name/GroupRev suggestion based on past performance
++ Suggestion on fields to add/remove based on performance
++ Object detection for alt tags of images
++ Text summarization for meta descriptions
++ Automated statement images for social media (Cloudinary)
 
+This talked walked a fine line between pitch and information. I think it ended up fairly pitchy, but the service looks helpful, so I care a bit less.
+
+{% comment %}
 Taylor Waldon - Making Content Part of Company Culture
 -------------------------------------------------------
 
@@ -53,6 +73,8 @@ Robert Nissenbaum - A Hypothesis on the Future Impact of Gutenberg on SEO
 
 Jocelyn Mozak - Clone Yourself Through Automation
 -------------------------------------------------
+
+{% endcomment %}
 
 Jacob Smith - From Developer to Entrepreneur
 --------------------------------------------
