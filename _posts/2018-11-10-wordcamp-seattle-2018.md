@@ -77,11 +77,32 @@ Taylor has been doing content since college working at a food service company.
   + hook/meta description
 + Schedule, free Google calendar if you need more [CoSchedule](https://coschedule.com/)
 
-{% comment %}
+This talk was done in 20 minutes. It was actually a significantly dense introduction to content management. As someone immersed in that world for years it was helpful. If I were brand new, I don't think I would have gotten as much out of it.
+
 Bob Dunn - How to Repurpose a Single Piece of Content Into a Lot of Content
 ----------------------------------------------------------------------------
+I turned a camera on for this session and counted people there were 90 people +/- 5 at this session.
 
++ Internal links give Google a roadmap for your website, basically pillar pages
++ Updating content is the biggest way he grows his traffic
+  + Tweaks: add content, links to newer posts, but all in context
+  + Turns: revive or bury posts, deleting is the easy way with redirect, harder way is to rethink
+  + Twists: save as draft, rewrite, and schedule
++ Set up links as post title (no dates in URL)
++ Use audio and video (duh), turn audio into videoless video, less duh
++ [Amazon Polly](https://aws.amazon.com/polly/) to transcribe text posts to audio
++ Extractions: Inverviews, tips, lists
++ One post serves all
+  + Monday: email list
+  + Tuesday: blog
+  + Wednesday: talking head video
+  + Thursday: podcast
++ When re-using content make sure to use canonical URLs for your extractions
++ He's tried time and again to make money from his most popular blog post, but he just can't - he just makes people happy
 
+It's a good reminder to look at content after it's published and re-link it to more modern content.
+
+{% comment %}
 Devin Walker - If You Build It (Right), They Will Come – Creating Truly Valuable WordPress Products and Services
 -----------------------------------------------------------------------------------------------------------------
 

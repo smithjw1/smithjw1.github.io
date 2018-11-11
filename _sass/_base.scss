@@ -36,13 +36,14 @@ blockquote, q {quotes: "" "";}
 
 body{
  background: #f5f5f5;
- font-family: "Avro", Arial, Helvetica, sans-serif;
+ font-family: "Arvo", serif;
  font-size: 18px;
  color: #595959;
  line-height: 1.6em;
 }
 
-h1, h2, h3, h4, h5, h6{margin: 0px 0px 5px; padding: 0px 0px 5px; color: #999; font-weight: lighter; font-family: "Avro", Arial, Helvetica, sans-serif;}
+h1, h2, h3, h4, h5, h6{
+  margin: 0px 0px 5px; padding: 0px 0px 5px; color: #999; font-weight: lighter; font-family: "Arvo", serif}
 p {margin: 0px 0px 1em}
 ul, ol {margin-bottom: 1em}
 table {
@@ -58,7 +59,7 @@ article ul {
  margin-left: 5%;
 }
 
-textarea, input{font-family: "Avro", Arial, Helvetica, sans-serif; font-size: 13px;}
+textarea, input{font-family: "Arvo", serif; font-size: 13px;}
 
 input[type=button]{padding: 8px;}
 
@@ -122,8 +123,7 @@ nav li a:hover {color: #fff; background: #F85931;}
 /*-------------------------*/
 /*- TITLES ----------------*/
 
-.container h1 {clear: both; margin: 40px 0px 30px; line-height: 1em; font-size: 47px; text-transform: uppercase; color: #333;
-			font-family: "LeagueGothicRegular", "Avro", Arial, Helvetica, sans-serif;}
+.container h1 {clear: both; margin: 40px 0px 30px; line-height: 1em; font-size: 47px; text-transform: uppercase; color: #333;}
 .container h1 a{color: #333; text-decoration: none}
 .container h1 a:hover{color: #F85931;}
 .container h2 {font-size:1.2em;margin-bottom: 0; color: #333}

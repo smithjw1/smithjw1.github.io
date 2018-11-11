@@ -58,7 +58,7 @@ blockquote, q {
 /*-------------------------------------------------------------------------------------------*/
 body {
   background: #f5f5f5;
-  font-family: "Avro", Arial, Helvetica, sans-serif;
+  font-family: "Arvo", serif;
   font-size: 18px;
   color: #595959;
   line-height: 1.6em; }
@@ -68,7 +68,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0px 0px 5px;
   color: #999;
   font-weight: lighter;
-  font-family: "Avro", Arial, Helvetica, sans-serif; }
+  font-family: "Arvo", serif; }
 
 p {
   margin: 0px 0px 1em; }
@@ -89,7 +89,7 @@ article ul {
   margin-left: 5%; }
 
 textarea, input {
-  font-family: "Avro", Arial, Helvetica, sans-serif;
+  font-family: "Arvo", serif;
   font-size: 13px; }
 
 input[type=button] {
@@ -204,8 +204,7 @@ nav li a:hover {
   line-height: 1em;
   font-size: 47px;
   text-transform: uppercase;
-  color: #333;
-  font-family: "LeagueGothicRegular", "Avro", Arial, Helvetica, sans-serif; }
+  color: #333; }
 
 .container h1 a {
   color: #333;
