@@ -157,11 +157,19 @@ I can see why Google would want to go this way. If we allow Google to serve indi
 
 I do agree that thinking this way will get you better content, so it's sensible on its own.
 
-{% comment %}
 Jocelyn Mozak - Clone Yourself Through Automation
 -------------------------------------------------
+Jocelyn is an agency owner and she talked about how she worked on automation in her own business. Specifically looking at how she uses automation in the sales process and onboarding process
 
-{% endcomment %}
+> Automation is a mindset.
+
++ Replies to requests for a website with a questionnaire and a link to schedule a meeting
++ At each step she is sending people to her email marketing and tagging people based on actions and sending automated emails
++ Can't automate the sales call and proposal, but can automate getting the proposal signed
++ Follow-ups through while the proposal is about
++ Once signed, automated email and then back to scheduler
++ Using Gravity forms and Zapier to auto create accounts in multiple software platfoms (Slack, accounting, etc.)
++ After the project, tag the client to automatically ask for testimonials or sell maintenance plan
 
 Jacob Smith - From Developer to Entrepreneur
 --------------------------------------------
