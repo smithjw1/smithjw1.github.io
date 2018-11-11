@@ -116,13 +116,48 @@ Devin works for Give WP. He started his talk going through a bunch of different 
 
 I'm not sure how true the "If you build it they will come" message is for WordPress tools. The overall, measured, systematic approach to starting a business Devin set out does mean success is more likely, but not assured.
 
-{% comment %}
+
 Andrea Zoellner - Storytelling with Gutenberg: How to Use the New Editor to Boost Your Blog
 -------------------------------------------------------------------------------------------
+Andrea is an end user, so she focused on content creation and is excited about Gutenberg as was Taylor, another content creator. It's probably a good sign for WordPress. There are way more content creators using WordPress than developers. Developers are likely much louder voices, but the creators will win out.
+
++ Referencing [Snowfall](http://www.nytimes.com/projects/2012/snow-fall/index.html#/?part=tunnel-creek)
++ Nearly 1/3 of visitors to page were new to the NY Times
++ "With Gutenberg anyone can Snowfall"
+
+Gutenberg tips
+
+1. Add styles to your text
+1. Diversify your images - use gallery to display 3- or 4-up feature
+1. Integrate other post types, Adding shortcodes is easier, but still not as easy as if the shortcode became a block
+1. Add multi-media
+1. Add breathing room, much better than adding a bunch of empty spaces
+1. Add in a call to action, button blocks
+1. Simplify your workflow, re-usable blocks
+
+It's very clear that for 95 percent of things you don't need commercial themes anymore. I've long been an advocate of lean, performant custom themes, but Gutenberg makes that argument that much more compelling.
+
 
 Robert Nissenbaum - A Hypothesis on the Future Impact of Gutenberg on SEO
 -------------------------------------------------------------------------
+He's not a developer. So all this hullabaloo doesn't matter as much to him. His theory as to "Why Gutenberg?" How we consume content is changing.
 
++ Mobile is continuing to increase both as a percentage of traffic and time on site
++ If how content is consumed changes, how we publish has to change as well
++ We've done it at the macro level, now we have to think about the micro-content level
++ The web and WordPress isn't going to be about pages, it's about blocks
++ If Yoast (our default SEO tool) thinks about pages, how do we make it think about blocks?
++ What if we did SEO on individual blocks?
++ Perhaps the media library is a cue as to a future content block library
++ Maybe this can be a way to avoid duplicate content, so that Google understands the atomic pieces of content are re-used but the particular composition is unique
+
+This is an interesting theory, but I'm not sold. Google can't figure out what a "block" is, unless it's served as part of a sitemap.xml somehow. It would seem a very large shift from Google to not think about the document as the base unit of the internet. Especially since that's how individuals consume content.
+
+I can see why Google would want to go this way. If we allow Google to serve individual blocks, out of context, then people are using Google not our sites. It's like the worst of AMP.
+
+I do agree that thinking this way will get you better content, so it's sensible on its own.
+
+{% comment %}
 Jocelyn Mozak - Clone Yourself Through Automation
 -------------------------------------------------
 
@@ -131,3 +166,5 @@ Jocelyn Mozak - Clone Yourself Through Automation
 Jacob Smith - From Developer to Entrepreneur
 --------------------------------------------
 Oh wait that's me.
+
+[Here are the slides](https://shoeinthedoor.com/files/WordCamp-Seattle-2018-JacobWSmith-Presentation.pdf)
