@@ -3,22 +3,11 @@
   <channel>
     <title>Shoe in the Door</title>
     <description>Helping organizations tell their story and expand their reach.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 11 Nov 2018 13:31:21 -0800</pubDate>
-    <lastBuildDate>Sun, 11 Nov 2018 13:31:21 -0800</lastBuildDate>
+    <link>https://shoeinthedoor.com/</link>
+    <atom:link href="https://shoeinthedoor.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 11 Nov 2018 13:41:30 -0800</pubDate>
+    <lastBuildDate>Sun, 11 Nov 2018 13:41:30 -0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
-    
-      <item>
-        <title>Developer as Electrician</title>
-        <description>&lt;p&gt;Here is some content&lt;/p&gt;
-</description>
-        <pubDate>Sat, 10 Nov 2018 08:25:50 -0800</pubDate>
-        <link>http://localhost:4000/2018/11/10/developer-as-electician.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/11/10/developer-as-electician.html</guid>
-        
-        
-      </item>
     
       <item>
         <title>WordCamp Seattle 2018</title>
@@ -202,14 +191,16 @@
 
 &lt;p&gt;I can see why Google would want to go this way. If we allow Google to serve individual blocks, out of context, then people are using Google not our sites. It’s like the worst of AMP.&lt;/p&gt;
 
+&lt;p&gt;I do agree that thinking this way will get you better content, so it’s sensible on its own.&lt;/p&gt;
+
 &lt;h2 id=&quot;jacob-smith---from-developer-to-entrepreneur&quot;&gt;Jacob Smith - From Developer to Entrepreneur&lt;/h2&gt;
 &lt;p&gt;Oh wait that’s me.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://shoeinthedoor.com/files/WordCamp-Seattle-2018-JacobWSmith-Presentation.pdf&quot;&gt;Here are the slides&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 10 Nov 2018 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2018/11/10/wordcamp-seattle-2018.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/11/10/wordcamp-seattle-2018.html</guid>
+        <link>https://shoeinthedoor.com/2018/11/10/wordcamp-seattle-2018.html</link>
+        <guid isPermaLink="true">https://shoeinthedoor.com/2018/11/10/wordcamp-seattle-2018.html</guid>
         
         
       </item>
@@ -258,8 +249,8 @@
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/adults-prefer-the-box-too&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 24 Sep 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2018/09/24/adults-prefer-the-box-too.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/09/24/adults-prefer-the-box-too.html</guid>
+        <link>https://shoeinthedoor.com/2018/09/24/adults-prefer-the-box-too.html</link>
+        <guid isPermaLink="true">https://shoeinthedoor.com/2018/09/24/adults-prefer-the-box-too.html</guid>
         
         
       </item>
@@ -291,8 +282,8 @@
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/get-honesty-by-being-negative&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 30 Aug 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2018/08/30/get-honesty-by-being-negative.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/08/30/get-honesty-by-being-negative.html</guid>
+        <link>https://shoeinthedoor.com/2018/08/30/get-honesty-by-being-negative.html</link>
+        <guid isPermaLink="true">https://shoeinthedoor.com/2018/08/30/get-honesty-by-being-negative.html</guid>
         
         
       </item>
@@ -327,8 +318,8 @@
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/eye-tracking-the-abstract&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 31 Jul 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2018/07/31/eye-tracking-the-abstract.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/07/31/eye-tracking-the-abstract.html</guid>
+        <link>https://shoeinthedoor.com/2018/07/31/eye-tracking-the-abstract.html</link>
+        <guid isPermaLink="true">https://shoeinthedoor.com/2018/07/31/eye-tracking-the-abstract.html</guid>
         
         
       </item>
@@ -376,8 +367,8 @@
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/blog-software-hubspot-vs.-wordpress&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 17 Jul 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2018/07/17/blog-software-hubspot-vs.-wordpress.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/07/17/blog-software-hubspot-vs.-wordpress.html</guid>
+        <link>https://shoeinthedoor.com/2018/07/17/blog-software-hubspot-vs.-wordpress.html</link>
+        <guid isPermaLink="true">https://shoeinthedoor.com/2018/07/17/blog-software-hubspot-vs.-wordpress.html</guid>
         
         
       </item>
@@ -437,8 +428,8 @@ Do you need to sell your product on Amazon? Do your hours need to show up in Yel
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/round-up-your-users&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 20 Jun 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2018/06/20/round-up-your-users.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/06/20/round-up-your-users.html</guid>
+        <link>https://shoeinthedoor.com/2018/06/20/round-up-your-users.html</link>
+        <guid isPermaLink="true">https://shoeinthedoor.com/2018/06/20/round-up-your-users.html</guid>
         
         
       </item>
@@ -452,8 +443,8 @@ Do you need to sell your product on Amazon? Do your hours need to show up in Yel
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/get-off-your-phone&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Jun 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2018/06/13/get-off-your-phone.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/06/13/get-off-your-phone.html</guid>
+        <link>https://shoeinthedoor.com/2018/06/13/get-off-your-phone.html</link>
+        <guid isPermaLink="true">https://shoeinthedoor.com/2018/06/13/get-off-your-phone.html</guid>
         
         
       </item>
@@ -541,8 +532,8 @@ Do you need to sell your product on Amazon? Do your hours need to show up in Yel
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/utm-parameters-the-brave-new-way&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 05 Jun 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2018/06/05/utm-parameters-the-brave-new-way.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/06/05/utm-parameters-the-brave-new-way.html</guid>
+        <link>https://shoeinthedoor.com/2018/06/05/utm-parameters-the-brave-new-way.html</link>
+        <guid isPermaLink="true">https://shoeinthedoor.com/2018/06/05/utm-parameters-the-brave-new-way.html</guid>
         
         
       </item>
@@ -612,8 +603,101 @@ Do you need to sell your product on Amazon? Do your hours need to show up in Yel
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/be-unpredictable-and-be-loved&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 09 May 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2018/05/09/be-unpredictable-and-be-loved.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/05/09/be-unpredictable-and-be-loved.html</guid>
+        <link>https://shoeinthedoor.com/2018/05/09/be-unpredictable-and-be-loved.html</link>
+        <guid isPermaLink="true">https://shoeinthedoor.com/2018/05/09/be-unpredictable-and-be-loved.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Custom vs. Comercial WordPress Themes</title>
+        <description>&lt;p&gt;WordPress themes control more than just how your site looks. They contain specific customizer values to help you control your site, bits of logic on how posts work, custom post type and meta definitions. In other words, your theme is what makes your website yours.&lt;/p&gt;
+
+&lt;p&gt;We build WordPress themes custom for each project. This isn’t necessarily the norm. Many shops start with a commercial theme or framework and build from there.&lt;/p&gt;
+
+&lt;p&gt;We don’t start from scratch, that would be silly and wasteful. We take the 1,000 hour headstart &lt;a href=&quot;https://underscores.me/&quot;&gt;_s&lt;/a&gt; gets us. Underscores ( _s, get it ) is built by the team that makes WordPress and has all the basic components of a great theme.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-cheescake-factory-vs-hisa-franco&quot;&gt;The Cheescake Factory vs. Hisa Franco&lt;/h2&gt;
+
+&lt;p&gt;If you will indulge an extended culinary analogy, commercial themes are to T&lt;a href=&quot;https://www.thecheesecakefactory.com/&quot;&gt;he Cheescake Factory&lt;/a&gt; as custom themes are to &lt;a href=&quot;http://www.hisafranko.com/en/&quot;&gt;Hiša Franco&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Do not read in restaurant snobbery here. You can have a great meal at either restaurant. And functionally you will leave with a full belly. They are both dining experiences.&lt;/p&gt;
+
+&lt;p&gt;Hiša Franco is a small restaurant in Slovenia. It was featured on the Netflix series &lt;em&gt;Chef’s Table&lt;/em&gt;. Also my wife and I ate and stayed there on our honeymoon. It was a great meal. I haven’t eaten at The Cheescake Factory, but people love the place. To the tune of &lt;a href=&quot;https://www.marketwatch.com/investing/stock/cake/financials&quot;&gt;$2.28 billion&lt;/a&gt; in revenue in 2017.&lt;/p&gt;
+
+&lt;p&gt;The Cheescake Factory has more than 250 items on its menu.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn2.hubspot.net/hub/501409/hubfs/Screen%20Shot%202018-05-04%20at%204.04.17%20PM.png?t=1540416452600&amp;amp;width=300&amp;amp;name=Screen%20Shot%202018-05-04%20at%204.04.17%20PM.png&quot; alt=&quot;Screen Shot 2018-05-04 at 4.04.17 PM&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As you can see in just four menu items we go from Shanghai to Louisiana with a stop in Italy and Evelyn’s house. The menu has something for everyone all the time. There isn’t a single cuisine.&lt;/p&gt;
+
+&lt;p&gt;You don’t have to know what you are hungry for when you walk in, because they have everything.&lt;/p&gt;
+
+&lt;p&gt;Imagine how many ingredients need to be stocked in the kitchen at The Cheescake Factory. Think about training cooks to be able to make all these different dishes.&lt;/p&gt;
+
+&lt;p&gt;Commercial themes have something for everyone. They often have multiple header and footer options, a few potential blog layouts, and one one or two homepage designs. The mix and match plugins to provide features. They load multiple JavaScript libraries to enable all the possible functionality, even if you aren’t using it.&lt;/p&gt;
+
+&lt;p&gt;Hiša Franco has two menu items. Everyone at the table has to make the same choice. It’s a tasting menu so you either choose eight or eleven courses.&lt;/p&gt;
+
+&lt;p&gt;If you have an allergy or dislike an item, they may be able to accommodate you, but they may not. The menu changes constantly based on what’s available. You can count on a few ingredients from the region, but good luck getting your favorite dish from last visit.&lt;/p&gt;
+
+&lt;p&gt;You don’t go to Hiša Franco to eat a specific dish. You go because you trust the chef to give you the best food from that region for that season. It’s a unique experience.&lt;/p&gt;
+
+&lt;p&gt;Custom themes do limit your choices, but they are designed for your particular needs. They focus on performance, giving you only the components you need. They enable a very specific vision of your site to be realized with a bespoke back-end interface.&lt;/p&gt;
+
+&lt;h2 id=&quot;weapon-of-choice&quot;&gt;Weapon of Choice&lt;/h2&gt;
+
+&lt;p&gt;There isn’t a “right” answer here. There are choices and implications. Here are some reasons to choose each.&lt;/p&gt;
+
+&lt;h3 id=&quot;commercial-theme&quot;&gt;Commercial Theme&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;You want the ability to change site layout often (monthly)&lt;/li&gt;
+  &lt;li&gt;You aren’t exactly sure what your content will look like&lt;/li&gt;
+  &lt;li&gt;You need to launch your website in the next two weeks&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;custom-theme&quot;&gt;Custom Theme&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;You want specific functionality or content types beyond pages and posts&lt;/li&gt;
+  &lt;li&gt;Website speed is of the highest importance&lt;/li&gt;
+  &lt;li&gt;You plan to keep overall site layout consistent over time (two years or more)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And some important implications to keep in mind:&lt;/p&gt;
+
+&lt;h3 id=&quot;commercial-theme-1&quot;&gt;Commercial Theme&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Page speed is a ranking factor for Google search&lt;/li&gt;
+  &lt;li&gt;Your conversion rate drops seven percent per second of page load time&lt;/li&gt;
+  &lt;li&gt;We will need to manage a dozen or more plugin updates that can cause conflicts&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;custom-theme-1&quot;&gt;Custom Theme&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Development will take at least a few weeks&lt;/li&gt;
+  &lt;li&gt;Changes to the overall layout may require developer time&lt;/li&gt;
+  &lt;li&gt;You need a clear picture of your site content before development&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;our-take&quot;&gt;Our Take&lt;/h2&gt;
+
+&lt;p&gt;We prefer the custom theme. Our website design process focuses on what makes your organization unique. We want that to continue into the development of your website.&lt;/p&gt;
+
+&lt;p&gt;Commercial themes are square and round pegs. But we find that most organizations aren’t square or circular holes. They are twisty and have their own shape that requires a custom solution.&lt;/p&gt;
+
+&lt;p&gt;We think commercial themes have a place and we have used them on a project or two where it made sense. But the performance hit is just too big. When we can deliver the same content nearly twice as fast it’s worth the additional time and money to develop a custom theme.&lt;/p&gt;
+
+&lt;p&gt;We certainly don’t think everyone will agree, but that’s what our decade of experience has taught us.&lt;/p&gt;
+
+&lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/custom-vs.-comercial-wordpress-themes&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 May 2018 00:00:00 -0700</pubDate>
+        <link>https://shoeinthedoor.com/2018/05/04/custom-vs.-comercial-wordpress-themes.html</link>
+        <guid isPermaLink="true">https://shoeinthedoor.com/2018/05/04/custom-vs.-comercial-wordpress-themes.html</guid>
         
         
       </item>
