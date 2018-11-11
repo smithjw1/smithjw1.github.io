@@ -102,10 +102,21 @@ I turned a camera on for this session and counted people there were 90 people +/
 
 It's a good reminder to look at content after it's published and re-link it to more modern content.
 
-{% comment %}
+
 Devin Walker - If You Build It (Right), They Will Come – Creating Truly Valuable WordPress Products and Services
 -----------------------------------------------------------------------------------------------------------------
+Devin works for Give WP. He started his talk going through a bunch of different business models from freelancer to large company.
 
++ Thinking about Why first [Start with Why](https://startwithwhy.com/)
++ GiveWP's mission is to democratize generosity, so you don't have to pay a SaaS provider
++ There are both product and service opportunities on top of WordPress
++ GiveWP started as a services company that was building nonprofit sites and was hacking together a donation solution
++ Advocating functional specs, I'm not a fan, I say build the thing ala 37Signals.
++ If your idea is a car, don't start with a wheel, start with a scooter
+
+I'm not sure how true the "If you build it they will come" message is for WordPress tools. The overall, measured, systematic approach to starting a business Devin set out does mean success is more likely, but not assured.
+
+{% comment %}
 Andrea Zoellner - Storytelling with Gutenberg: How to Use the New Editor to Boost Your Blog
 -------------------------------------------------------------------------------------------
 

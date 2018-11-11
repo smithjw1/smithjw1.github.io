@@ -5,8 +5,8 @@
     <description>Helping organizations tell their story and expand their reach.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 11 Nov 2018 09:15:04 -0800</pubDate>
-    <lastBuildDate>Sun, 11 Nov 2018 09:15:04 -0800</lastBuildDate>
+    <pubDate>Sun, 11 Nov 2018 10:40:09 -0800</pubDate>
+    <lastBuildDate>Sun, 11 Nov 2018 10:40:09 -0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -146,6 +146,20 @@
 &lt;/ul&gt;
 
 &lt;p&gt;It’s a good reminder to look at content after it’s published and re-link it to more modern content.&lt;/p&gt;
+
+&lt;h2 id=&quot;devin-walker---if-you-build-it-right-they-will-come--creating-truly-valuable-wordpress-products-and-services&quot;&gt;Devin Walker - If You Build It (Right), They Will Come – Creating Truly Valuable WordPress Products and Services&lt;/h2&gt;
+&lt;p&gt;Devin works for Give WP. He started his talk going through a bunch of different business models from freelancer to large company.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Thinking about Why first &lt;a href=&quot;https://startwithwhy.com/&quot;&gt;Start with Why&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;GiveWP’s mission is to democratize generosity, so you don’t have to pay a SaaS provider&lt;/li&gt;
+  &lt;li&gt;There are both product and service opportunities on top of WordPress&lt;/li&gt;
+  &lt;li&gt;GiveWP started as a services company that was building nonprofit sites and was hacking together a donation solution&lt;/li&gt;
+  &lt;li&gt;Advocating functional specs, I’m not a fan, I say build the thing ala 37Signals.&lt;/li&gt;
+  &lt;li&gt;If your idea is a car, don’t start with a wheel, start with a scooter&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’m not sure how true the “If you build it they will come” message is for WordPress tools. The overall, measured, systematic approach to starting a business Devin set out does mean success is more likely, but not assured.&lt;/p&gt;
 
 &lt;h2 id=&quot;jacob-smith---from-developer-to-entrepreneur&quot;&gt;Jacob Smith - From Developer to Entrepreneur&lt;/h2&gt;
 &lt;p&gt;Oh wait that’s me.&lt;/p&gt;
