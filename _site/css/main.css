@@ -32,7 +32,8 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 
 body {
   color: black;
-  background: white; }
+  background: white;
+  margin: 0; }
 
 ol, ul {
   list-style: none; }
