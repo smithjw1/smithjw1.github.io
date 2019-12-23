@@ -8,515 +8,300 @@ Author URI: http://www.obox-design.com/
 /*--------------------------------------------------------------------------------------------------------------------------*/
 /*- RESET - Courtesy of Eric Meyer's CSS Reset Awesomeness: http://meyerweb.com/eric/thoughts/2007/05/01/reset-reloaded/ ---*/
 /*--------------------------------------------------------------------------------------------------------------------------*/
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, font, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  outline: 0;
-  font-weight: inherit;
-  font-style: inherit;
-  font-size: 100%;
-  font-family: inherit;
-  vertical-align: baseline; }
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td { margin: 0; padding: 0; border: 0; outline: 0; font-weight: inherit; font-style: inherit; font-size: 100%; font-family: inherit; vertical-align: baseline; }
 
 /* remember to define focus styles! */
-:focus {
-  outline: 0; }
+:focus { outline: 0; }
 
-body {
-  color: black;
-  background: white; }
+body { color: black; background: white; }
 
-ol, ul {
-  list-style: none; }
+ol, ul { list-style: none; }
 
 /* tables still need 'cellspacing="0"' in the markup */
-table {
-  border-collapse: separate;
-  border-spacing: 0; }
+table { border-collapse: separate; border-spacing: 0; }
 
-caption, th, td {
-  text-align: left;
-  font-weight: normal; }
+caption, th, td { text-align: left; font-weight: normal; }
 
-blockquote:before, blockquote:after,
-q:before, q:after {
-  content: ""; }
+blockquote:before, blockquote:after, q:before, q:after { content: ""; }
 
-blockquote, q {
-  quotes: "" ""; }
+blockquote, q { quotes: "" ""; }
 
 /*-------------------------------------------------------------------------------------------*/
 /*- SETUP STD CLASSES -----------------------------------------------------------------------*/
 /*-------------------------------------------------------------------------------------------*/
-body {
-  background: #f5f5f5;
-  font-family: "Arvo", serif;
-  font-size: 18px;
-  color: #595959;
-  line-height: 1.6em; }
+body { background: #f5f5f5; font-family: "Arvo", serif; font-size: 18px; color: #595959; line-height: 1.6em; }
 
-h1, h2, h3, h4, h5, h6 {
-  margin: 0px 0px 5px;
-  padding: 0px 0px 5px;
-  color: #999;
-  font-weight: lighter;
-  font-family: "Arvo", serif; }
+h1, h2, h3, h4, h5, h6 { margin: 0px 0px 5px; padding: 0px 0px 5px; color: #999; font-weight: lighter; font-family: "Arvo", serif; }
 
-p {
-  margin: 0px 0px 1em; }
+p { margin: 0px 0px 1em; }
 
-ul, ol {
-  margin-bottom: 1em; }
+ul, ol { margin-bottom: 1em; }
 
-table {
-  width: 90%;
-  margin: 0 auto 1em auto; }
+table { width: 90%; margin: 0 auto 1em auto; }
 
-blockquote {
-  margin: 0 3% 1em 3%;
-  font-style: italic; }
+blockquote { margin: 0 3% 1em 3%; font-style: italic; }
 
-article ul {
-  list-style: square;
-  margin-left: 5%; }
+article ul { list-style: square; margin-left: 5%; }
 
-article ol {
-  list-style: decimal;
-  margin-left: 5%; }
+article ol { list-style: decimal; margin-left: 5%; }
 
-textarea, input {
-  font-family: "Arvo", serif;
-  font-size: 13px; }
+textarea, input { font-family: "Arvo", serif; font-size: 13px; }
 
-input[type=button] {
-  padding: 8px; }
+input[type=button] { padding: 8px; }
 
-strong {
-  font-weight: 700; }
+strong { font-weight: 700; }
 
 /*-------------------------------------------------------------------------------------------*/
 /*- GLOBAL CLASSES --------------------------------------------------------------------------*/
 /*-------------------------------------------------------------------------------------------*/
 /*--- Links ---*/
-a {
-  color: #F85931; }
+a { color: #F85931; }
 
-a:hover {
-  text-decoration: none; }
+a:hover { text-decoration: none; }
 
-.cta {
-  font-size: 1.2em;
-  line-height: 1.3em; }
+.cta { font-size: 1.2em; line-height: 1.3em; }
 
-.cta smaller {
-  font-size: 0.8em; }
+.cta smaller { font-size: 0.8em; }
 
-.cta a {
-  border-bottom: 2px solid #FF0000;
-  text-decoration: none; }
+.cta a { border-bottom: 2px solid #FF0000; text-decoration: none; }
 
 /*-------------------------------------------------------------------------------------------*/
 /*- GENERAL LAYOUT --------------------------------------------------------------------------*/
 /*-------------------------------------------------------------------------------------------*/
-header {
-  padding: 20px 0px 20px;
-  background: #2F3035;
-  border-bottom: 1px solid #000; }
+header { padding: 20px 0px 20px; background: #2F3035; border-bottom: 1px solid #000; }
 
-.container {
-  max-width: 800px;
-  margin: 10px 0 10px 4%;
-  padding-bottom: 200px; }
+.container { max-width: 800px; margin: 10px 0 10px 4%; padding-bottom: 200px; }
 
-footer {
-  padding: 20px 0px 5px 0;
-  background: #2F3035;
-  border-top: 1px solid #000;
-  position: fixed;
-  bottom: 0;
-  width: 100%; }
+footer { padding: 20px 0px 5px 0; background: #2F3035; border-top: 1px solid #000; position: fixed; bottom: 0; width: 100%; }
 
 /*-------------------------------------------------------------------------------------------*/
 /*- HEADER ----------------------------------------------------------------------------------*/
 /*-------------------------------------------------------------------------------------------*/
-hgroup {
-  margin-left: 4%; }
+hgroup { margin-left: 4%; }
 
-header h1 {
-  padding: 0px;
-  margin: 0px 0px 10px;
-  font-size: 40px;
-  line-height: 40px;
-  font-family: "Lobster", arial, serif;
-  position: relative; }
+header h1 { padding: 0px; margin: 0px 0px 10px; font-size: 40px; line-height: 40px; font-family: "Lobster", arial, serif; position: relative; }
 
-header h1 a, header h1 a:hover {
-  color: #fff;
-  position: relative;
-  text-decoration: none; }
+header h1 a, header h1 a:hover { color: #fff; position: relative; text-decoration: none; }
 
-header h3 {
-  font-size: 15px;
-  line-height: 1.4em;
-  color: #999; }
+header h3 { font-size: 15px; line-height: 1.4em; color: #999; }
 
 /*---------------------*/
 /*- PAGES (MENU) ------*/
-nav {
-  padding: 10px 0px;
-  background: #fff;
-  border-bottom: 1px solid #ccc;
-  overflow: auto; }
+nav { padding: 10px 0px; background: #fff; border-bottom: 1px solid #ccc; overflow: auto; }
 
-nav ul {
-  margin-left: 4%; }
+nav ul { margin-left: 4%; }
 
-nav ul, nav li {
-  list-style: none !important;
-  font-size: 12px;
-  line-height: 20px; }
+nav ul, nav li { list-style: none !important; font-size: 12px; line-height: 20px; }
 
-nav li {
-  float: left;
-  margin: 0px 10px 0px 0px; }
+nav li { float: left; margin: 0px 10px 0px 0px; }
 
-nav li a {
-  color: #595959;
-  padding: 5px 8px;
-  -moz-border-radius: 5px;
-  -webkit-border-radius: 5px;
-  border-radius: 5px;
-  text-decoration: none; }
+nav li a { color: #595959; padding: 5px 8px; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; text-decoration: none; }
 
-nav li a:hover {
-  color: #fff;
-  background: #F85931; }
+nav li a:hover { color: #fff; background: #F85931; }
 
 /*-------------------------*/
 /*- TITLES ----------------*/
-.container h1 {
-  clear: both;
-  margin: 40px 0px 30px;
-  line-height: 1em;
-  font-size: 47px;
-  text-transform: uppercase;
-  color: #333; }
+.container h1 { clear: both; margin: 40px 0px 30px; line-height: 1em; font-size: 47px; text-transform: uppercase; color: #333; }
 
-.container h1 a {
-  color: #333;
-  text-decoration: none; }
+.container h1 a { color: #333; text-decoration: none; }
 
-.container h1 a:hover {
-  color: #F85931; }
+.container h1 a:hover { color: #F85931; }
 
-.container h2 {
-  font-size: 1.2em;
-  margin-bottom: 0;
-  color: #333; }
+.container h2 { font-size: 1.2em; margin-bottom: 0; color: #333; }
 
 /*-------------------------------------------------------------------------------------------*/
 /*- FOOTER ----------------------------------------------------------------------------------*/
 /*-------------------------------------------------------------------------------------------*/
-.three-column {
-  clear: both;
-  padding: 0px;
-  margin: 0 0 0 4%;
-  color: #999;
-  font-size: 14px; }
+.three-column { clear: both; padding: 0px; margin: 0 0 0 4%; color: #999; font-size: 14px; }
 
-.three-column li.column {
-  float: left;
-  display: block;
-  width: 30%;
-  margin-right: 4%; }
+.three-column li.column { float: left; display: block; width: 30%; margin-right: 4%; }
 
-.three-column li.column:last-child {
-  margin-right: 0px; }
+.three-column li.column:last-child { margin-right: 0px; }
 
-.three-column .column h4, .three-column .column h4 a {
-  margin-bottom: 5px;
-  padding-bottom: 0px;
-  color: #fff;
-  font-weight: bold; }
+.three-column .column h4, .three-column .column h4 a { margin-bottom: 5px; padding-bottom: 0px; color: #fff; font-weight: bold; }
 
-.three-column .column h4 a:hover {
-  color: #009989; }
+.three-column .column h4 a:hover { color: #009989; }
 
-.three-column li.column ul {
-  margin: 5px 0px 10px; }
+.three-column li.column ul { margin: 5px 0px 10px; }
 
-.three-column li.column ul li {
-  clear: both;
-  padding: 3px 0px;
-  border-bottom: 1px dotted #444; }
+.three-column li.column ul li { clear: both; padding: 3px 0px; border-bottom: 1px dotted #444; }
 
-.three-column li.column a {
-  color: #ccc; }
+.three-column li.column a { color: #ccc; }
 
-.three-column li.column a:hover {
-  color: #fff; }
+.three-column li.column a:hover { color: #fff; }
 
 /*-------------------------------------------------------------------------------------------*/
 /*- PAGINATION -------------------------------------------------------------------------------*/
 /*-------------------------------------------------------------------------------------------*/
-.pagination li {
-  float: left;
-  margin-right: 10px; }
+.pagination li { float: left; margin-right: 10px; }
 
-.pagination li a {
-  text-decoration: none; }
+.pagination li a { text-decoration: none; }
 
 /*-------------------------------------------------------------------------------------------*/
 /*- RESPONSIVE ------------------------------------------------------------------------------*/
 /*-------------------------------------------------------------------------------------------*/
-@media screen and (max-width: 1145px) {
-  .three-column li.column {
-    width: 48%;
-    margin-right: 2%; }
+@media screen and (max-width: 1145px) { .three-column li.column { width: 48%; margin-right: 2%; }
+  .three-column li.column:last-child { display: none; } }
 
-  .three-column li.column:last-child {
-    display: none; } }
-@media screen and (max-width: 685px) {
-  .three-column li.column {
-    width: 100%; }
+@media screen and (max-width: 685px) { .three-column li.column { width: 100%; }
+  .three-column li.column:first-child { display: none; }
+  header { padding: 5px 0; }
+  header h1 { font-size: 20px; margin-bottom: 0; }
+  header h3 { font-size: 14px; }
+  article img { max-width: 80%; } }
 
-  .three-column li.column:first-child {
-    display: none; }
-
-  header {
-    padding: 5px 0; }
-
-  header h1 {
-    font-size: 20px;
-    margin-bottom: 0; }
-
-  header h3 {
-    font-size: 14px; }
-
-  article img {
-    max-width: 80%; } }
 /*-----------------------------------------------------------------------------------------------------------------------------------*/
 /*- CLEARFIX --- * I prefer not to touch this code, I don't recommend you do so either, it works... so don't fix whats working ;) * -*/
 /*-----------------------------------------------------------------------------------------------------------------------------------*/
 /* http://sonspring.com/journal/clearing-floats */
-html body * span.clear,
-html body * div.clear,
-html body * li.clear,
-html body * dd.clear {
-  background: none;
-  border: 0;
-  clear: both;
-  display: block;
-  float: none;
-  font-size: 0;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  visibility: hidden;
-  width: 0;
-  height: 0; }
+html body * span.clear, html body * div.clear, html body * li.clear, html body * dd.clear { background: none; border: 0; clear: both; display: block; float: none; font-size: 0; list-style: none; margin: 0; padding: 0; overflow: hidden; visibility: hidden; width: 0; height: 0; }
 
 /* http://www.positioniseverything.net/easyclearing.html */
-.clearfix:after {
-  clear: both;
-  content: '.';
-  display: block;
-  visibility: hidden;
-  height: 0; }
+.clearfix:after { clear: both; content: '.'; display: block; visibility: hidden; height: 0; }
 
-.clearfix {
-  display: inline-block; }
+.clearfix { display: inline-block; }
 
-* hxtml .clearfix {
-  height: 1%; }
+* hxtml .clearfix { height: 1%; }
 
-.clearfix {
-  display: block; }
+.clearfix { display: block; }
 
-.testimonials {
-  height: 200px;
-  overflow: hidden;
-  margin: 1em 0; }
+.testimonials { height: 200px; overflow: hidden; margin: 1em 0; }
 
-.testimonials blockquote {
-  font-style: normal;
-  display: none;
-  font-size: 1.8em;
-  line-height: 1.2em; }
+.testimonials blockquote { font-style: normal; display: none; font-size: 1.8em; line-height: 1.2em; }
 
-.testimonials blockquote strong {
-  font-weight: bold;
-  color: #000;
-  font-size: 0.8em;
-  display: block;
-  margin-top: 0.5em;
-  text-align: right; }
+.testimonials blockquote strong { font-weight: bold; color: #000; font-size: 0.8em; display: block; margin-top: 0.5em; text-align: right; }
 
-.blog-homepage h2 time {
-  font-size: 0.8em;
-  color: #737373; }
-.blog-homepage article {
-  padding-bottom: 1em;
-  margin-bottom: 2em;
-  border-bottom: 1px solid #CCC;
-  clear: both; }
-  .blog-homepage article:last-child {
-    border-bottom: none; }
-  .blog-homepage article:after {
-    clear: both;
-    content: '.';
-    display: block;
-    visibility: hidden;
-    height: 0; }
-.blog-homepage .pagination {
-  text-align: right; }
+.blog-homepage h2 time { font-size: 0.8em; color: #737373; }
 
-/**
- * Syntax highlighting styles
- */
-.highlight {
-  background: #fff; }
-  .highlighter-rouge .highlight {
-    background: #eef; }
-  .highlight .c {
-    color: #998;
-    font-style: italic; }
-  .highlight .err {
-    color: #a61717;
-    background-color: #e3d2d2; }
-  .highlight .k {
-    font-weight: bold; }
-  .highlight .o {
-    font-weight: bold; }
-  .highlight .cm {
-    color: #998;
-    font-style: italic; }
-  .highlight .cp {
-    color: #999;
-    font-weight: bold; }
-  .highlight .c1 {
-    color: #998;
-    font-style: italic; }
-  .highlight .cs {
-    color: #999;
-    font-weight: bold;
-    font-style: italic; }
-  .highlight .gd {
-    color: #000;
-    background-color: #fdd; }
-  .highlight .gd .x {
-    color: #000;
-    background-color: #faa; }
-  .highlight .ge {
-    font-style: italic; }
-  .highlight .gr {
-    color: #a00; }
-  .highlight .gh {
-    color: #999; }
-  .highlight .gi {
-    color: #000;
-    background-color: #dfd; }
-  .highlight .gi .x {
-    color: #000;
-    background-color: #afa; }
-  .highlight .go {
-    color: #888; }
-  .highlight .gp {
-    color: #555; }
-  .highlight .gs {
-    font-weight: bold; }
-  .highlight .gu {
-    color: #aaa; }
-  .highlight .gt {
-    color: #a00; }
-  .highlight .kc {
-    font-weight: bold; }
-  .highlight .kd {
-    font-weight: bold; }
-  .highlight .kp {
-    font-weight: bold; }
-  .highlight .kr {
-    font-weight: bold; }
-  .highlight .kt {
-    color: #458;
-    font-weight: bold; }
-  .highlight .m {
-    color: #099; }
-  .highlight .s {
-    color: #d14; }
-  .highlight .na {
-    color: #008080; }
-  .highlight .nb {
-    color: #0086B3; }
-  .highlight .nc {
-    color: #458;
-    font-weight: bold; }
-  .highlight .no {
-    color: #008080; }
-  .highlight .ni {
-    color: #800080; }
-  .highlight .ne {
-    color: #900;
-    font-weight: bold; }
-  .highlight .nf {
-    color: #900;
-    font-weight: bold; }
-  .highlight .nn {
-    color: #555; }
-  .highlight .nt {
-    color: #000080; }
-  .highlight .nv {
-    color: #008080; }
-  .highlight .ow {
-    font-weight: bold; }
-  .highlight .w {
-    color: #bbb; }
-  .highlight .mf {
-    color: #099; }
-  .highlight .mh {
-    color: #099; }
-  .highlight .mi {
-    color: #099; }
-  .highlight .mo {
-    color: #099; }
-  .highlight .sb {
-    color: #d14; }
-  .highlight .sc {
-    color: #d14; }
-  .highlight .sd {
-    color: #d14; }
-  .highlight .s2 {
-    color: #d14; }
-  .highlight .se {
-    color: #d14; }
-  .highlight .sh {
-    color: #d14; }
-  .highlight .si {
-    color: #d14; }
-  .highlight .sx {
-    color: #d14; }
-  .highlight .sr {
-    color: #009926; }
-  .highlight .s1 {
-    color: #d14; }
-  .highlight .ss {
-    color: #990073; }
-  .highlight .bp {
-    color: #999; }
-  .highlight .vc {
-    color: #008080; }
-  .highlight .vg {
-    color: #008080; }
-  .highlight .vi {
-    color: #008080; }
-  .highlight .il {
-    color: #099; }
+.blog-homepage article { padding-bottom: 1em; margin-bottom: 2em; border-bottom: 1px solid #CCC; clear: both; }
+
+.blog-homepage article:last-child { border-bottom: none; }
+
+.blog-homepage article:after { clear: both; content: '.'; display: block; visibility: hidden; height: 0; }
+
+.blog-homepage .pagination { text-align: right; }
+
+/** Syntax highlighting styles */
+.highlight { background: #fff; }
+
+.highlighter-rouge .highlight { background: #eef; }
+
+.highlight .c { color: #998; font-style: italic; }
+
+.highlight .err { color: #a61717; background-color: #e3d2d2; }
+
+.highlight .k { font-weight: bold; }
+
+.highlight .o { font-weight: bold; }
+
+.highlight .cm { color: #998; font-style: italic; }
+
+.highlight .cp { color: #999; font-weight: bold; }
+
+.highlight .c1 { color: #998; font-style: italic; }
+
+.highlight .cs { color: #999; font-weight: bold; font-style: italic; }
+
+.highlight .gd { color: #000; background-color: #fdd; }
+
+.highlight .gd .x { color: #000; background-color: #faa; }
+
+.highlight .ge { font-style: italic; }
+
+.highlight .gr { color: #a00; }
+
+.highlight .gh { color: #999; }
+
+.highlight .gi { color: #000; background-color: #dfd; }
+
+.highlight .gi .x { color: #000; background-color: #afa; }
+
+.highlight .go { color: #888; }
+
+.highlight .gp { color: #555; }
+
+.highlight .gs { font-weight: bold; }
+
+.highlight .gu { color: #aaa; }
+
+.highlight .gt { color: #a00; }
+
+.highlight .kc { font-weight: bold; }
+
+.highlight .kd { font-weight: bold; }
+
+.highlight .kp { font-weight: bold; }
+
+.highlight .kr { font-weight: bold; }
+
+.highlight .kt { color: #458; font-weight: bold; }
+
+.highlight .m { color: #099; }
+
+.highlight .s { color: #d14; }
+
+.highlight .na { color: #008080; }
+
+.highlight .nb { color: #0086B3; }
+
+.highlight .nc { color: #458; font-weight: bold; }
+
+.highlight .no { color: #008080; }
+
+.highlight .ni { color: #800080; }
+
+.highlight .ne { color: #900; font-weight: bold; }
+
+.highlight .nf { color: #900; font-weight: bold; }
+
+.highlight .nn { color: #555; }
+
+.highlight .nt { color: #000080; }
+
+.highlight .nv { color: #008080; }
+
+.highlight .ow { font-weight: bold; }
+
+.highlight .w { color: #bbb; }
+
+.highlight .mf { color: #099; }
+
+.highlight .mh { color: #099; }
+
+.highlight .mi { color: #099; }
+
+.highlight .mo { color: #099; }
+
+.highlight .sb { color: #d14; }
+
+.highlight .sc { color: #d14; }
+
+.highlight .sd { color: #d14; }
+
+.highlight .s2 { color: #d14; }
+
+.highlight .se { color: #d14; }
+
+.highlight .sh { color: #d14; }
+
+.highlight .si { color: #d14; }
+
+.highlight .sx { color: #d14; }
+
+.highlight .sr { color: #009926; }
+
+.highlight .s1 { color: #d14; }
+
+.highlight .ss { color: #990073; }
+
+.highlight .bp { color: #999; }
+
+.highlight .vc { color: #008080; }
+
+.highlight .vg { color: #008080; }
+
+.highlight .vi { color: #008080; }
+
+.highlight .il { color: #099; }
+
+/*# sourceMappingURL=main.css.map */

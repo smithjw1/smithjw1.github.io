@@ -3,11 +3,11 @@
   <channel>
     <title>Shoe in the Door</title>
     <description>Helping organizations tell their story and expand their reach.</description>
-    <link>https://shoeinthedoor.com/</link>
-    <atom:link href="https://shoeinthedoor.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Jan 2019 17:02:09 -0500</pubDate>
-    <lastBuildDate>Thu, 24 Jan 2019 17:02:09 -0500</lastBuildDate>
-    <generator>Jekyll v3.7.2</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 22 Dec 2019 19:56:06 -0800</pubDate>
+    <lastBuildDate>Sun, 22 Dec 2019 19:56:06 -0800</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
     
       <item>
         <title>WordCamp Seattle 2018</title>
@@ -215,9 +215,9 @@
 
 &lt;p&gt;&lt;a href=&quot;https://shoeinthedoor.com/files/WordCamp-Seattle-2018-JacobWSmith-Presentation.pdf&quot;&gt;Here are the slides&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 10 Nov 2018 00:00:00 -0500</pubDate>
-        <link>https://shoeinthedoor.com/2018/11/10/wordcamp-seattle-2018.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2018/11/10/wordcamp-seattle-2018.html</guid>
+        <pubDate>Sat, 10 Nov 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2018/11/10/wordcamp-seattle-2018.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/11/10/wordcamp-seattle-2018.html</guid>
         
         
       </item>
@@ -265,9 +265,9 @@
 
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/adults-prefer-the-box-too&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 24 Sep 2018 00:00:00 -0400</pubDate>
-        <link>https://shoeinthedoor.com/2018/09/24/adults-prefer-the-box-too.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2018/09/24/adults-prefer-the-box-too.html</guid>
+        <pubDate>Mon, 24 Sep 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2018/09/24/adults-prefer-the-box-too.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/24/adults-prefer-the-box-too.html</guid>
         
         
       </item>
@@ -298,9 +298,9 @@
 
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/get-honesty-by-being-negative&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 30 Aug 2018 00:00:00 -0400</pubDate>
-        <link>https://shoeinthedoor.com/2018/08/30/get-honesty-by-being-negative.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2018/08/30/get-honesty-by-being-negative.html</guid>
+        <pubDate>Thu, 30 Aug 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2018/08/30/get-honesty-by-being-negative.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/08/30/get-honesty-by-being-negative.html</guid>
         
         
       </item>
@@ -334,9 +334,9 @@
 
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/eye-tracking-the-abstract&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 31 Jul 2018 00:00:00 -0400</pubDate>
-        <link>https://shoeinthedoor.com/2018/07/31/eye-tracking-the-abstract.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2018/07/31/eye-tracking-the-abstract.html</guid>
+        <pubDate>Tue, 31 Jul 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2018/07/31/eye-tracking-the-abstract.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/07/31/eye-tracking-the-abstract.html</guid>
         
         
       </item>
@@ -383,9 +383,9 @@
 
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/blog-software-hubspot-vs.-wordpress&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
-        <link>https://shoeinthedoor.com/2018/07/17/blog-software-hubspot-vs.-wordpress.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2018/07/17/blog-software-hubspot-vs.-wordpress.html</guid>
+        <pubDate>Tue, 17 Jul 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2018/07/17/blog-software-hubspot-vs.-wordpress.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/07/17/blog-software-hubspot-vs.-wordpress.html</guid>
         
         
       </item>
@@ -444,9 +444,9 @@ Do you need to sell your product on Amazon? Do your hours need to show up in Yel
 
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/round-up-your-users&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 20 Jun 2018 00:00:00 -0400</pubDate>
-        <link>https://shoeinthedoor.com/2018/06/20/round-up-your-users.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2018/06/20/round-up-your-users.html</guid>
+        <pubDate>Wed, 20 Jun 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2018/06/20/round-up-your-users.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/06/20/round-up-your-users.html</guid>
         
         
       </item>
@@ -459,9 +459,9 @@ Do you need to sell your product on Amazon? Do your hours need to show up in Yel
 
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/get-off-your-phone&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 13 Jun 2018 00:00:00 -0400</pubDate>
-        <link>https://shoeinthedoor.com/2018/06/13/get-off-your-phone.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2018/06/13/get-off-your-phone.html</guid>
+        <pubDate>Wed, 13 Jun 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2018/06/13/get-off-your-phone.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/06/13/get-off-your-phone.html</guid>
         
         
       </item>
@@ -548,9 +548,9 @@ Do you need to sell your product on Amazon? Do your hours need to show up in Yel
 
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/utm-parameters-the-brave-new-way&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 05 Jun 2018 00:00:00 -0400</pubDate>
-        <link>https://shoeinthedoor.com/2018/06/05/utm-parameters-the-brave-new-way.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2018/06/05/utm-parameters-the-brave-new-way.html</guid>
+        <pubDate>Tue, 05 Jun 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2018/06/05/utm-parameters-the-brave-new-way.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/06/05/utm-parameters-the-brave-new-way.html</guid>
         
         
       </item>
@@ -619,9 +619,9 @@ Do you need to sell your product on Amazon? Do your hours need to show up in Yel
 
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/be-unpredictable-and-be-loved&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 09 May 2018 00:00:00 -0400</pubDate>
-        <link>https://shoeinthedoor.com/2018/05/09/be-unpredictable-and-be-loved.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2018/05/09/be-unpredictable-and-be-loved.html</guid>
+        <pubDate>Wed, 09 May 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2018/05/09/be-unpredictable-and-be-loved.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/05/09/be-unpredictable-and-be-loved.html</guid>
         
         
       </item>
@@ -712,9 +712,9 @@ Do you need to sell your product on Amazon? Do your hours need to show up in Yel
 
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/custom-vs.-comercial-wordpress-themes&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 04 May 2018 00:00:00 -0400</pubDate>
-        <link>https://shoeinthedoor.com/2018/05/04/custom-vs.-comercial-wordpress-themes.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2018/05/04/custom-vs.-comercial-wordpress-themes.html</guid>
+        <pubDate>Fri, 04 May 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2018/05/04/custom-vs.-comercial-wordpress-themes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/05/04/custom-vs.-comercial-wordpress-themes.html</guid>
         
         
       </item>
