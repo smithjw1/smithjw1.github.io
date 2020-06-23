@@ -3,11 +3,67 @@
   <channel>
     <title>Shoe in the Door</title>
     <description>Helping organizations tell their story and expand their reach.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 23 Jun 2020 12:56:53 -0700</pubDate>
-    <lastBuildDate>Tue, 23 Jun 2020 12:56:53 -0700</lastBuildDate>
+    <link>https://shoeinthedoor.com/</link>
+    <atom:link href="https://shoeinthedoor.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 23 Jun 2020 14:52:28 -0700</pubDate>
+    <lastBuildDate>Tue, 23 Jun 2020 14:52:28 -0700</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Webconnex is Awesome</title>
+        <description>&lt;p&gt;Five minutes after I knew I was going to be leaving A Brave New, I sent &lt;a href=&quot;https://github.com/nanno77&quot;&gt;Nanno&lt;/a&gt; at &lt;a href=&quot;https://www.webconnex.com/&quot;&gt;Webconnex&lt;/a&gt; a message, asking if they had any openings.&lt;/p&gt;
+
+&lt;p&gt;Thank goodness they never removed me from Slack!&lt;/p&gt;
+
+&lt;p&gt;By the end of the week I had an offer. Webconnex, in many ways, saved our family in a really tough spot. And they never stopped showing up. I can’t say enough about how amazing everyone is. It is the best culture of any place I’ve worked. And I don’t expect any place to live up to its legacy.&lt;/p&gt;
+
+&lt;p&gt;I am excited to be moving on to &lt;a href=&quot;/2020/06/23/WP-VIP.html&quot;&gt;WordPress VIP&lt;/a&gt;, but I wanted to take some time to plug Webconnex’s awesome products. The people are great, but the software is just ridiculous.&lt;/p&gt;
+
+&lt;p&gt;I know we are in Pandemic times, but if you run events you can’t find a more cost-effective, flexible, customizable solution. If you are using EventBrite you could be saving $10,000 a year or more with Webconnnex.&lt;/p&gt;
+
+&lt;p&gt;But, Jacob, I need virtual events. No problem. The current virtual event system will get you started, but take it from me, in the next month they are going to blow that way with a brand new offering. Think zoom, but in the browser. No zoom bombing, full control, moderation and chat. And that’s just the beginning. This was my last project and it’s something the team can be super proud of.&lt;/p&gt;
+
+&lt;p&gt;And behind all this amazing software it the best support team — ever. They are so good Webconnex doesn’t even call them support, they call them solutions. Having trouble on a Saturday? Brandon will call you and walk you through updating your app. Feeling stressed from your event? Maci will put together a care package that will take your mind off everything.&lt;/p&gt;
+
+&lt;p&gt;Seriously, their satisfaction ratings are off the charts. If you have a problem with the software I guarantee that the human on the other end of the chat will make it their problem until it’s fixed or you have a workaround.&lt;/p&gt;
+
+&lt;p&gt;I didn’t even talk about online giving for nonprofits, or reserved seating, or time-slot ticketing. Or the ability to add your own custom logic to hide/show form fields, adjust pricing, basically whatever you need.&lt;/p&gt;
+
+&lt;p&gt;If you need ticketing, event registration, or online giving you need to take a look at &lt;a href=&quot;https://www.webconnex.com/&quot;&gt;Webconnex&lt;/a&gt;. If you aren’t dialing &lt;a href=&quot;tel:+18889583729&quot;&gt;(888) 958-3729&lt;/a&gt; right now, then &lt;a href=&quot;mailto:jake@shoeinthedoor.com&quot;&gt;email me&lt;/a&gt; and I’ll convince you.&lt;/p&gt;
+
+&lt;p&gt;I didn’t say it enough when I worked there, because some part of me felt like it was wrong to promote my own company. But you heard it here folks, Webconnex is the best. PERIOD.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 23 Jun 2020 00:00:00 -0700</pubDate>
+        <link>https://shoeinthedoor.com/2020/06/23/Webconnex.html</link>
+        <guid isPermaLink="true">https://shoeinthedoor.com/2020/06/23/Webconnex.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Welcome to WordPress VIP</title>
+        <description>&lt;p&gt;I’m excited announce that next week I’m starting at &lt;a href=&quot;https://wpvip.com/&quot;&gt;WordPress VIP&lt;/a&gt;. I’ve been a WordPress and Automattic fan since the early 2000’s. I’ve built dozen of sites using &lt;a href=&quot;https://wordpress.org/&quot;&gt;WordPress.org&lt;/a&gt; over the years and spoken at two WordCamps Seattle.&lt;/p&gt;
+
+&lt;p&gt;There’s all kinds of reason I’m making this change, but one of them is the amazing WordPress community. I wanted to take this moment to thank some members of that community that have helped me along the way.&lt;/p&gt;
+
+&lt;p&gt;First is the person who introduced me to WordPress: Joe Tan. Ironically, and inexplicable, Joe does not have a website. Whenever I have a technical problem I can’t solve, WordPress or otherwise. Joe is my first call.&lt;/p&gt;
+
+&lt;p&gt;I can’t talk about Joe without talking about &lt;a href=&quot;https://openbox9.com&quot;&gt;Michael Schafer&lt;/a&gt;. Michael was Joe and my boss and Creative Directory at Silas Partners. No website there either because our wonderful start-up got acquired by a company to which I simply will not link.&lt;/p&gt;
+
+&lt;p&gt;I can wholeheartedly endorse Michael’s design studio &lt;a href=&quot;https://openbox9.com&quot;&gt;openbox9&lt;/a&gt;. If you are a non-profit, and if no one else can help, and if you can find them (not hard just click the link), these lovely people really are the A-Team.&lt;/p&gt;
+
+&lt;p&gt;Similarly a lot of love goes to &lt;a href=&quot;https://www.abravenew.com/&quot;&gt;A Brave New&lt;/a&gt;. When Josh, Polly, and I started our little digital agency, who would know what it would become. I was able to lead the technical side of some amazing WordPress projects there. If you are a for-profit, look no futher.&lt;/p&gt;
+
+&lt;p&gt;Three last community member mentions. &lt;a href=&quot;https://www.eriktdesign.com/&quot;&gt;Erik Teichman&lt;/a&gt; for introducing me to Metabox.io. &lt;a href=&quot;http://tracyappsdesign.com/&quot;&gt;Tracy Apps&lt;/a&gt; for being the oldest WP G. I know. And &lt;a href=&quot;https://jillbinder.com/&quot;&gt;Jill Binder&lt;/a&gt; who is doing amazing work making sure the community is hearing from everyone.&lt;/p&gt;
+
+&lt;p&gt;I hope to be writing more in this space as I dive into Automattic and WordPress VIP. It’s been a hard saying goodbye to Webconnex, but that’s a subject for the &lt;a href=&quot;/2020/06/23/Webconnex.html&quot;&gt;next post&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 23 Jun 2020 00:00:00 -0700</pubDate>
+        <link>https://shoeinthedoor.com/2020/06/23/WP-VIP.html</link>
+        <guid isPermaLink="true">https://shoeinthedoor.com/2020/06/23/WP-VIP.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>WordCamp Seattle 2018</title>
@@ -216,8 +272,8 @@
 &lt;p&gt;&lt;a href=&quot;https://shoeinthedoor.com/files/WordCamp-Seattle-2018-JacobWSmith-Presentation.pdf&quot;&gt;Here are the slides&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 10 Nov 2018 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2018/11/10/wordcamp-seattle-2018.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/11/10/wordcamp-seattle-2018.html</guid>
+        <link>https://shoeinthedoor.com/2018/11/10/wordcamp-seattle-2018.html</link>
+        <guid isPermaLink="true">https://shoeinthedoor.com/2018/11/10/wordcamp-seattle-2018.html</guid>
         
         
       </item>
@@ -266,8 +322,8 @@
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/adults-prefer-the-box-too&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 24 Sep 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2018/09/24/adults-prefer-the-box-too.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/09/24/adults-prefer-the-box-too.html</guid>
+        <link>https://shoeinthedoor.com/2018/09/24/adults-prefer-the-box-too.html</link>
+        <guid isPermaLink="true">https://shoeinthedoor.com/2018/09/24/adults-prefer-the-box-too.html</guid>
         
         
       </item>
@@ -299,8 +355,8 @@
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/get-honesty-by-being-negative&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 30 Aug 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2018/08/30/get-honesty-by-being-negative.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/08/30/get-honesty-by-being-negative.html</guid>
+        <link>https://shoeinthedoor.com/2018/08/30/get-honesty-by-being-negative.html</link>
+        <guid isPermaLink="true">https://shoeinthedoor.com/2018/08/30/get-honesty-by-being-negative.html</guid>
         
         
       </item>
@@ -335,8 +391,8 @@
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/eye-tracking-the-abstract&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 31 Jul 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2018/07/31/eye-tracking-the-abstract.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/07/31/eye-tracking-the-abstract.html</guid>
+        <link>https://shoeinthedoor.com/2018/07/31/eye-tracking-the-abstract.html</link>
+        <guid isPermaLink="true">https://shoeinthedoor.com/2018/07/31/eye-tracking-the-abstract.html</guid>
         
         
       </item>
@@ -384,8 +440,8 @@
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/blog-software-hubspot-vs.-wordpress&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 17 Jul 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2018/07/17/blog-software-hubspot-vs.-wordpress.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/07/17/blog-software-hubspot-vs.-wordpress.html</guid>
+        <link>https://shoeinthedoor.com/2018/07/17/blog-software-hubspot-vs.-wordpress.html</link>
+        <guid isPermaLink="true">https://shoeinthedoor.com/2018/07/17/blog-software-hubspot-vs.-wordpress.html</guid>
         
         
       </item>
@@ -445,8 +501,8 @@ Do you need to sell your product on Amazon? Do your hours need to show up in Yel
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/round-up-your-users&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 20 Jun 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2018/06/20/round-up-your-users.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/06/20/round-up-your-users.html</guid>
+        <link>https://shoeinthedoor.com/2018/06/20/round-up-your-users.html</link>
+        <guid isPermaLink="true">https://shoeinthedoor.com/2018/06/20/round-up-your-users.html</guid>
         
         
       </item>
@@ -460,8 +516,8 @@ Do you need to sell your product on Amazon? Do your hours need to show up in Yel
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/get-off-your-phone&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Jun 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2018/06/13/get-off-your-phone.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/06/13/get-off-your-phone.html</guid>
+        <link>https://shoeinthedoor.com/2018/06/13/get-off-your-phone.html</link>
+        <guid isPermaLink="true">https://shoeinthedoor.com/2018/06/13/get-off-your-phone.html</guid>
         
         
       </item>
@@ -549,172 +605,8 @@ Do you need to sell your product on Amazon? Do your hours need to show up in Yel
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/utm-parameters-the-brave-new-way&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 05 Jun 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2018/06/05/utm-parameters-the-brave-new-way.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/06/05/utm-parameters-the-brave-new-way.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Be Unpredictable And Be Loved</title>
-        <description>&lt;p&gt;In a recent conversation about sleep training, my sister mentioned that going in to her kids’ rooms sometimes and not others is a form of random reinforcement that has can prove to be the most effective at encouraging them to cry to get your attention.&lt;/p&gt;
-
-&lt;p&gt;It’s an odd finding. You would think going in every time would make them cry to get you in there, but it’s not. You can look up B.F. Skinners &lt;a href=&quot;https://www.simplypsychology.org/operant-conditioning.html&quot;&gt;original research&lt;/a&gt; or any number of &lt;a href=&quot;https://www.psychologytoday.com/us/blog/brain-wise/201311/use-unpredictable-rewards-keep-behavior-going&quot;&gt;blog posts&lt;/a&gt; on the topic.&lt;/p&gt;
-
-&lt;p&gt;And if you want to see the dark side of the topic, read about &lt;a href=&quot;http://news.mit.edu/2009/vegas-tt0520&quot;&gt;slot machines&lt;/a&gt;. They program players to play until they run out of money.&lt;/p&gt;
-
-&lt;p&gt;Needless to say, our brains are very “hackable.” We predictably respond to rewards and certain reward schedules are better at establishing and maintaining behavior.&lt;/p&gt;
-
-&lt;p&gt;Far too often in our customer (or donor) appreciation programs we do the same thing every time. It’s easier to manage programs if they are standardized across everyone. But the research shows we should be doing four things.&lt;/p&gt;
-
-&lt;h3 id=&quot;1-keep-doing-the-basics&quot;&gt;1. Keep Doing the Basics&lt;/h3&gt;
-
-&lt;p&gt;You still need to be sending receipts and and thank-you’s after every transaction. You want a baseline of interaction that people can expect. That doesn’t mean the default language that comes out of your software is good enough.&lt;/p&gt;
-
-&lt;p&gt;These messages are important brand communicators. Take time to audit your receipt email. Does it sound like your organization? Are the special benefits of being a customer highlighted? Are you genuinely thankful?&lt;/p&gt;
-
-&lt;p&gt;This is especially important for nonprofits. You simply have to thank donors after every transaction. It should be immediate and personal.&lt;/p&gt;
-
-&lt;h3 id=&quot;2-add-in-the-random&quot;&gt;2. Add in the Random&lt;/h3&gt;
-
-&lt;p&gt;Next, create five to six random rewards to sprinkle in. These could be phone calls, coupons, special extras in shipments, social media shout outs. It’s another great chance to align to your brand.&lt;/p&gt;
-
-&lt;p&gt;The difficult part is systematizing this randomness. The Skinner experiments used a variable ratio of rewards to actions. In other words, you reward people on average every three transactions, but not every third transaction.&lt;/p&gt;
-
-&lt;p&gt;So after 9 transactions someone should have 3 rewards, but they may have gotten them after transactions 2, 3 and 7. But wait, that schedule rewards two reactions in a row? Yes - in fact, &lt;a href=&quot;http://numbergenerator.org/pick3randomnumbers#!numbers=3&amp;amp;low=1&amp;amp;high=9&amp;amp;unique=true&amp;amp;start=false&quot;&gt;random numbers&lt;/a&gt; sometimes don’t appear random.&lt;/p&gt;
-
-&lt;p&gt;How can you do this at scale? Don’t worry about being exact. Pick a day of the week that is reward day. Each reward day select a random sample of transactions to give the reward for that week. Next week, move the reward day forward a day, and pick a new reward.&lt;/p&gt;
-
-&lt;p&gt;How big of a sample do you need? It depends on the reward. Pick a sample size as large as you can actually execute. Easy rewards, like a coupon code, can go to a larger set, more personal rewards, a smaller set.&lt;/p&gt;
-
-&lt;p&gt;Don’t worry about any transaction to reward ratio at this point. Without data, you have no idea where to start.&lt;/p&gt;
-
-&lt;h3 id=&quot;3-make-people-think-they-just-missed-the-jackpot&quot;&gt;3. Make People Think They Just Missed the Jackpot&lt;/h3&gt;
-
-&lt;p&gt;Here’s another lesson from slot machines. For the unfamiliar, slot machines used to have a number of wheels with icons on them. The wheels would spin and you could stop them and try to line up similar icons on the pay line. The pay line was a physical line on the glass of the machine.&lt;/p&gt;
-
-&lt;p&gt;Video slots keep all these visual ideas, but without those pesky physical wheels. The machine can easily make it look like you just “missed” the jackpot. Of course it’s fiction. The machine selects the pay line icons and then assigns the others. It could randomly assign them, but why would you do that when you can make people think they just missed a huge payout?&lt;/p&gt;
-
-&lt;p&gt;You also see this in shipping minimums on ecommerce. You are so close to free shipping, if you just add $3 to your cart. Good luck finding a $3 item. After you have added that $12 pair of socks to your cart you can save the $5 shipping charge. Don’t do the math, it isn’t pretty.&lt;/p&gt;
-
-&lt;p&gt;This is an area where social communities really come in handy. When you are dropping something special in the mail, tag the customer in a tweet or Facebook post. Letting the whole community know about who is receiving rewards makes people wonder how they might get the same.&lt;/p&gt;
-
-&lt;h3 id=&quot;4-start-tracking&quot;&gt;4. Start Tracking&lt;/h3&gt;
-
-&lt;p&gt;Buzzkill. Handing out goodies is great, but you need to start tracking right away. You need to know which customers have been rewarded and with what rewards. After a few months you can look at the data and see if those customers are more valuable. Be brutal, if it isn’t working be ready to switch it up.&lt;/p&gt;
-
-&lt;p&gt;You should also be able to calculate the most efficient reward to transaction ratio. Now you can get a bit more systemized about your reward selection. Say you find that the average ratio of your most valuable customers is one reward per five transactions.&lt;/p&gt;
-
-&lt;p&gt;You would export all transactions in the last week of anyone who has between 2 and 7 total transactions and no rewards, as well as anyone who has one reward and between 5 and 12 transactions, and so on. That’s your universe and you can then apply your rewards to make sure you cover everyone.&lt;/p&gt;
-
-&lt;p&gt;You should also be able to see if particular rewards are better performing. But don’t standardize, the whole point is they are random. Drop the lowest performing two and create variations of the best. We aren’t going for pure efficiency here. You need a large number of possible rewards if you are going to make it feel random to customers.&lt;/p&gt;
-
-&lt;h3 id=&quot;dont-be-evil&quot;&gt;Don’t Be Evil&lt;/h3&gt;
-
-&lt;p&gt;In interviews, slots players have said they choose dark pants so they don’t have to stop playing to walk to the bathroom. That’s how far a random rewards system can bend behavior.&lt;/p&gt;
-
-&lt;p&gt;If your rewards program reinforces your brand and is customer (or donor) centric, it has a higher likelihood of long-term success.&lt;/p&gt;
-
-&lt;p&gt;Get in your constituents’ shoes and figure out what will surprise and delight them.&lt;/p&gt;
-
-&lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/be-unpredictable-and-be-loved&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 09 May 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2018/05/09/be-unpredictable-and-be-loved.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/05/09/be-unpredictable-and-be-loved.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Custom vs. Comercial WordPress Themes</title>
-        <description>&lt;p&gt;WordPress themes control more than just how your site looks. They contain specific customizer values to help you control your site, bits of logic on how posts work, custom post type and meta definitions. In other words, your theme is what makes your website yours.&lt;/p&gt;
-
-&lt;p&gt;We build WordPress themes custom for each project. This isn’t necessarily the norm. Many shops start with a commercial theme or framework and build from there.&lt;/p&gt;
-
-&lt;p&gt;We don’t start from scratch, that would be silly and wasteful. We take the 1,000 hour headstart &lt;a href=&quot;https://underscores.me/&quot;&gt;_s&lt;/a&gt; gets us. Underscores ( _s, get it ) is built by the team that makes WordPress and has all the basic components of a great theme.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-cheescake-factory-vs-hisa-franco&quot;&gt;The Cheescake Factory vs. Hisa Franco&lt;/h2&gt;
-
-&lt;p&gt;If you will indulge an extended culinary analogy, commercial themes are to T&lt;a href=&quot;https://www.thecheesecakefactory.com/&quot;&gt;he Cheescake Factory&lt;/a&gt; as custom themes are to &lt;a href=&quot;http://www.hisafranko.com/en/&quot;&gt;Hiša Franco&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Do not read in restaurant snobbery here. You can have a great meal at either restaurant. And functionally you will leave with a full belly. They are both dining experiences.&lt;/p&gt;
-
-&lt;p&gt;Hiša Franco is a small restaurant in Slovenia. It was featured on the Netflix series &lt;em&gt;Chef’s Table&lt;/em&gt;. Also my wife and I ate and stayed there on our honeymoon. It was a great meal. I haven’t eaten at The Cheescake Factory, but people love the place. To the tune of &lt;a href=&quot;https://www.marketwatch.com/investing/stock/cake/financials&quot;&gt;$2.28 billion&lt;/a&gt; in revenue in 2017.&lt;/p&gt;
-
-&lt;p&gt;The Cheescake Factory has more than 250 items on its menu.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn2.hubspot.net/hub/501409/hubfs/Screen%20Shot%202018-05-04%20at%204.04.17%20PM.png?t=1540416452600&amp;amp;width=300&amp;amp;name=Screen%20Shot%202018-05-04%20at%204.04.17%20PM.png&quot; alt=&quot;Screen Shot 2018-05-04 at 4.04.17 PM&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;As you can see in just four menu items we go from Shanghai to Louisiana with a stop in Italy and Evelyn’s house. The menu has something for everyone all the time. There isn’t a single cuisine.&lt;/p&gt;
-
-&lt;p&gt;You don’t have to know what you are hungry for when you walk in, because they have everything.&lt;/p&gt;
-
-&lt;p&gt;Imagine how many ingredients need to be stocked in the kitchen at The Cheescake Factory. Think about training cooks to be able to make all these different dishes.&lt;/p&gt;
-
-&lt;p&gt;Commercial themes have something for everyone. They often have multiple header and footer options, a few potential blog layouts, and one one or two homepage designs. The mix and match plugins to provide features. They load multiple JavaScript libraries to enable all the possible functionality, even if you aren’t using it.&lt;/p&gt;
-
-&lt;p&gt;Hiša Franco has two menu items. Everyone at the table has to make the same choice. It’s a tasting menu so you either choose eight or eleven courses.&lt;/p&gt;
-
-&lt;p&gt;If you have an allergy or dislike an item, they may be able to accommodate you, but they may not. The menu changes constantly based on what’s available. You can count on a few ingredients from the region, but good luck getting your favorite dish from last visit.&lt;/p&gt;
-
-&lt;p&gt;You don’t go to Hiša Franco to eat a specific dish. You go because you trust the chef to give you the best food from that region for that season. It’s a unique experience.&lt;/p&gt;
-
-&lt;p&gt;Custom themes do limit your choices, but they are designed for your particular needs. They focus on performance, giving you only the components you need. They enable a very specific vision of your site to be realized with a bespoke back-end interface.&lt;/p&gt;
-
-&lt;h2 id=&quot;weapon-of-choice&quot;&gt;Weapon of Choice&lt;/h2&gt;
-
-&lt;p&gt;There isn’t a “right” answer here. There are choices and implications. Here are some reasons to choose each.&lt;/p&gt;
-
-&lt;h3 id=&quot;commercial-theme&quot;&gt;Commercial Theme&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;You want the ability to change site layout often (monthly)&lt;/li&gt;
-  &lt;li&gt;You aren’t exactly sure what your content will look like&lt;/li&gt;
-  &lt;li&gt;You need to launch your website in the next two weeks&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;custom-theme&quot;&gt;Custom Theme&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;You want specific functionality or content types beyond pages and posts&lt;/li&gt;
-  &lt;li&gt;Website speed is of the highest importance&lt;/li&gt;
-  &lt;li&gt;You plan to keep overall site layout consistent over time (two years or more)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;And some important implications to keep in mind:&lt;/p&gt;
-
-&lt;h3 id=&quot;commercial-theme-1&quot;&gt;Commercial Theme&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Page speed is a ranking factor for Google search&lt;/li&gt;
-  &lt;li&gt;Your conversion rate drops seven percent per second of page load time&lt;/li&gt;
-  &lt;li&gt;We will need to manage a dozen or more plugin updates that can cause conflicts&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;custom-theme-1&quot;&gt;Custom Theme&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Development will take at least a few weeks&lt;/li&gt;
-  &lt;li&gt;Changes to the overall layout may require developer time&lt;/li&gt;
-  &lt;li&gt;You need a clear picture of your site content before development&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;our-take&quot;&gt;Our Take&lt;/h2&gt;
-
-&lt;p&gt;We prefer the custom theme. Our website design process focuses on what makes your organization unique. We want that to continue into the development of your website.&lt;/p&gt;
-
-&lt;p&gt;Commercial themes are square and round pegs. But we find that most organizations aren’t square or circular holes. They are twisty and have their own shape that requires a custom solution.&lt;/p&gt;
-
-&lt;p&gt;We think commercial themes have a place and we have used them on a project or two where it made sense. But the performance hit is just too big. When we can deliver the same content nearly twice as fast it’s worth the additional time and money to develop a custom theme.&lt;/p&gt;
-
-&lt;p&gt;We certainly don’t think everyone will agree, but that’s what our decade of experience has taught us.&lt;/p&gt;
-
-&lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/custom-vs.-comercial-wordpress-themes&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 04 May 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2018/05/04/custom-vs.-comercial-wordpress-themes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/05/04/custom-vs.-comercial-wordpress-themes.html</guid>
+        <link>https://shoeinthedoor.com/2018/06/05/utm-parameters-the-brave-new-way.html</link>
+        <guid isPermaLink="true">https://shoeinthedoor.com/2018/06/05/utm-parameters-the-brave-new-way.html</guid>
         
         
       </item>
