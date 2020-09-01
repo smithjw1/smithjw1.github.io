@@ -3,11 +3,78 @@
   <channel>
     <title>Shoe in the Door</title>
     <description>Helping organizations tell their story and expand their reach.</description>
-    <link>https://shoeinthedoor.com/</link>
-    <atom:link href="https://shoeinthedoor.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Aug 2020 21:36:19 -0700</pubDate>
-    <lastBuildDate>Tue, 11 Aug 2020 21:36:19 -0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 31 Aug 2020 23:29:43 -0700</pubDate>
+    <lastBuildDate>Mon, 31 Aug 2020 23:29:43 -0700</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Volume 1-5</title>
+        <description>&lt;h2 id=&quot;bryce&quot;&gt;Bryce&lt;/h2&gt;
+
+&lt;p&gt;We survived him. Another Black Knight has fallen and now we have the phylactery, whatever that is. I’m not even sure if the Knight thing was alive before it stopped moving, but we once again have ended something’s existence.&lt;/p&gt;
+
+&lt;p&gt;This isn’t my path. I have been bouncing from inn to inn, battle, to negotiation, to battle, but for what? I don’t seek fortune or fame. I have no grudge with these people.&lt;/p&gt;
+
+&lt;p&gt;But what I do have now is an object of immense power and value. And I know that the object is desired by someone in the court at Rausten&lt;/p&gt;
+
+&lt;p&gt;I’m planning and plotting as Kirrix and I walk back in the library to be greeted by 20 crossbowman, a priest, and some Rudainian high nobel.&lt;/p&gt;
+
+&lt;p&gt;Looks like the law has caught up to us. We dash back into the sanctuary of the Library and fling the door shut.&lt;/p&gt;
+
+&lt;p&gt;Fortunately the key I picked up in the library seems to lock the doors with some arcane magic so we have tome to think.&lt;/p&gt;
+
+&lt;p&gt;But we have no ideas, there is no way out of this room, and while we may be able to bottle them up in the door, eventually we will be overwhelmed.&lt;/p&gt;
+
+&lt;p&gt;We do have the lockbox. We have no idea what’s in it, but we know that the combination was found in a book about demonic planar binding. That doesn’t bode well.&lt;/p&gt;
+
+&lt;p&gt;We set the lockbox in front of the threshold and wait for the door to fling open. After his dip in the black starry ooze, Kirrix, has some new abilities and dials the combination from across the room as the door flings open.&lt;/p&gt;
+
+&lt;p&gt;But instead of a demon appearing a simple tune plays. I lower my bow. I know this.&lt;/p&gt;
+
+&lt;p&gt;It’s a memory that is familiar and foreign all at the same time. Like something that was willed into my memory. But the memory is so caring. I feel so safe, so loved. More loved than I have since I was thrust out of the chapel back in Vestygg.&lt;/p&gt;
+
+&lt;p&gt;As the tune ends too soon a deep rumble begins and the floor shifts under my feet. The black ooze is bubbling and expanding. Without a word, we all know it’s time to leave. I follow my companions out the door and see chaos on the other side.&lt;/p&gt;
+
+&lt;p&gt;I take the time to pick up the box and take a look back at where the statue of Silvertree once stood.&lt;/p&gt;
+
+&lt;p&gt;That pompous priest of Pelor is encouraging his brethren to continue the fight. I hop on the table with him and humbly suggest that neither Pelor nor the Lady will be getting anyone out of this mess.&lt;/p&gt;
+
+&lt;p&gt;As I run down the table and get to the door, I see Walter stumbling. We left him behind. My stomach sinks as the Lady gives my voice strength to tell Walter to jump on the table.&lt;/p&gt;
+
+&lt;p&gt;He does and the damned priest tries to stop him. These Divine Brotherhood bastards don’t know when to quit. As Walter tries to free himself from the priest grasp they both tumble into the abyss.&lt;/p&gt;
+
+&lt;p&gt;As the Library continues to collapse around us I don’t have time to think more about our lost friend. We clamber back up into the tall tower and everything feels more stable.&lt;/p&gt;
+
+&lt;p&gt;We choose to go through the door that we think takes us to the North. We step into the snow, wrap our cloaks around us and begin to trudge to some smoke we see.&lt;/p&gt;
+
+&lt;p&gt;We are on the run. Most who know of us are dead, but not all. We have an object powerful enough to take life with a touch. Desired by other worldly Knights and members of the royal court.&lt;/p&gt;
+
+&lt;p&gt;I’ve seen merchants toss dozens of coins into my offering plate asking for the Lady to bring them fortune. But not even toss a copper to the beggars on their way out the door.&lt;/p&gt;
+
+&lt;p&gt;The Lady doesn’t make the rich. Anymore than Beshaba makes the poor.&lt;/p&gt;
+
+&lt;p&gt;Luck is sewn throughout the World without much care. What we do with that fortune is the thing.&lt;/p&gt;
+
+&lt;p&gt;And I have some fortune. The Lady favors the bold. Maybe we can turn the world on its head.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Volume 1-4 was skipped because it was just combat. Not the most fun to write about.&lt;/p&gt;
+
+&lt;p&gt;I’m currently playing through a campaign DM’d by the indomitable &lt;a href=&quot;http://erikmaxwell.co/&quot;&gt;Erik Maxwell&lt;/a&gt;. As a writing exercise I’m giving myself 30 minutes to recap our weekly adventures.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 31 Aug 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2020/08/31/d-and-d-volume-1-5.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/08/31/d-and-d-volume-1-5.html</guid>
+        
+        <category>d&amp;d</category>
+        
+        <category>fiction</category>
+        
+        
+      </item>
     
       <item>
         <title>Volume 1-3</title>
@@ -48,8 +115,8 @@
 &lt;p&gt;I’m currently playing through a campaign DM’d by the indomitable &lt;a href=&quot;http://erikmaxwell.co/&quot;&gt;Erik Maxwell&lt;/a&gt;. As a writing exercise I’m giving myself 30 minutes to recap our weekly adventures.&lt;/p&gt;
 </description>
         <pubDate>Sun, 09 Aug 2020 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2020/08/09/d-and-d-volume-1-3.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2020/08/09/d-and-d-volume-1-3.html</guid>
+        <link>http://localhost:4000/2020/08/09/d-and-d-volume-1-3.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/08/09/d-and-d-volume-1-3.html</guid>
         
         <category>d&amp;d</category>
         
@@ -99,8 +166,8 @@
 &lt;p&gt;I’m currently playing through a campaign DM’d by the indomitable &lt;a href=&quot;http://erikmaxwell.co/&quot;&gt;Erik Maxwell&lt;/a&gt;. As a writing exercise I’m giving myself 30 minutes to recap our weekly adventures.&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 Aug 2020 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2020/08/04/d-and-d-vol-1-2.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2020/08/04/d-and-d-vol-1-2.html</guid>
+        <link>http://localhost:4000/2020/08/04/d-and-d-vol-1-2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/08/04/d-and-d-vol-1-2.html</guid>
         
         <category>d&amp;d</category>
         
@@ -146,8 +213,8 @@
 &lt;p&gt;I’m currently playing through a campaign DM’d by the indominable &lt;a href=&quot;http://erikmaxwell.co/&quot;&gt;Erik Maxwell&lt;/a&gt;. As a writing exercise I’m giving myself 30 minutes to recap our weekly adventures.&lt;/p&gt;
 </description>
         <pubDate>Mon, 27 Jul 2020 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2020/07/27/d-and-d-vol-1-1.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2020/07/27/d-and-d-vol-1-1.html</guid>
+        <link>http://localhost:4000/2020/07/27/d-and-d-vol-1-1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/07/27/d-and-d-vol-1-1.html</guid>
         
         <category>d&amp;d</category>
         
@@ -181,8 +248,8 @@
 &lt;p&gt;I didn’t say it enough when I worked there, because some part of me felt like it was wrong to promote my own company. But you heard it here folks, Webconnex is the best. PERIOD.&lt;/p&gt;
 </description>
         <pubDate>Tue, 23 Jun 2020 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2020/06/23/Webconnex.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2020/06/23/Webconnex.html</guid>
+        <link>http://localhost:4000/2020/06/23/Webconnex.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/06/23/Webconnex.html</guid>
         
         
       </item>
@@ -206,8 +273,8 @@
 &lt;p&gt;I hope to be writing more in this space as I dive into Automattic and WordPress VIP. It’s been a hard saying goodbye to Webconnex, but that’s a subject for the &lt;a href=&quot;/2020/06/23/Webconnex.html&quot;&gt;next post&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 23 Jun 2020 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2020/06/23/WP-VIP.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2020/06/23/WP-VIP.html</guid>
+        <link>http://localhost:4000/2020/06/23/WP-VIP.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/06/23/WP-VIP.html</guid>
         
         
       </item>
@@ -419,8 +486,8 @@
 &lt;p&gt;&lt;a href=&quot;https://shoeinthedoor.com/files/WordCamp-Seattle-2018-JacobWSmith-Presentation.pdf&quot;&gt;Here are the slides&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 10 Nov 2018 00:00:00 -0800</pubDate>
-        <link>https://shoeinthedoor.com/2018/11/10/wordcamp-seattle-2018.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2018/11/10/wordcamp-seattle-2018.html</guid>
+        <link>http://localhost:4000/2018/11/10/wordcamp-seattle-2018.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/11/10/wordcamp-seattle-2018.html</guid>
         
         
       </item>
@@ -469,8 +536,8 @@
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/adults-prefer-the-box-too&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 24 Sep 2018 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2018/09/24/adults-prefer-the-box-too.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2018/09/24/adults-prefer-the-box-too.html</guid>
+        <link>http://localhost:4000/2018/09/24/adults-prefer-the-box-too.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/24/adults-prefer-the-box-too.html</guid>
         
         
       </item>
@@ -502,8 +569,8 @@
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/get-honesty-by-being-negative&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 30 Aug 2018 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2018/08/30/get-honesty-by-being-negative.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2018/08/30/get-honesty-by-being-negative.html</guid>
+        <link>http://localhost:4000/2018/08/30/get-honesty-by-being-negative.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/08/30/get-honesty-by-being-negative.html</guid>
         
         
       </item>
@@ -538,57 +605,8 @@
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/eye-tracking-the-abstract&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 31 Jul 2018 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2018/07/31/eye-tracking-the-abstract.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2018/07/31/eye-tracking-the-abstract.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Blog Software HubSpot vs. WordPress</title>
-        <description>&lt;p&gt;It should come as no surprise that we think WordPress is the greatest. Why then, have we migrated this blog and those of our clients to HubSpot?&lt;/p&gt;
-
-&lt;p&gt;HubSpot is the best inbound marketing platform. The tools it has around lead capture and marketing automation are second to none. Your blog is a vital part of your inbound strategy and it makes sense to house it all in one place.&lt;/p&gt;
-
-&lt;p&gt;It’s not all sunshine and roses, but it is the right choice for most our clients. Here are our thoughts on HubSpot’s blog software.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-good&quot;&gt;The Good&lt;/h2&gt;
-
-&lt;p&gt;The content creation process is better out of the box on HubSpot. You can create draft posts and send a link to reviewers to be able to comment, no log in necessary. This is possible with plugins on WordPress, but not nearly as easy.&lt;/p&gt;
-
-&lt;p&gt;The other boon is integrated reporting. You can see how your blog contributes to site traffic and lead generation all in a single spot. What gets measured gets managed and integrated reporting is key for properly managing your program.&lt;/p&gt;
-
-&lt;p&gt;We wouldn’t feel comfortable compromising on design. The HubSpot templating language can take some getting used to, but it does the job. We can implement the same high quality designs on either platform.&lt;/p&gt;
-
-&lt;p&gt;Finally, HubSpot offers dead simple RSS to email subscriptions: no plugins, no API connects to troubleshoot. And HubSpot allows people to subscribe daily, weekly, and monthly. By allowing users to decide how often they get emails, you increase engagement and retention.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-bad&quot;&gt;The Bad&lt;/h2&gt;
-
-&lt;p&gt;HubSpot only offers tags for taxonomy. There is no ability for hierarchy. For many blogs this isn’t an issue. But if you had hundreds of posts, allowing for filtering on multiple fronts could be necessary.&lt;/p&gt;
-
-&lt;p&gt;The only export option is CSV. That’s not the greatest, but it’s better than nothing.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-ugly&quot;&gt;The Ugly&lt;/h2&gt;
-
-&lt;p&gt;Blog search is still in Beta. It’s a bit baffling that search isn’t something that was a version 1.0 feature, but it wasn’t. We’ve been using the Beta search with a few clients and it works well, but still is a bit of a pain to set up.&lt;/p&gt;
-
-&lt;p&gt;WordPress search has it’s own foibles, but you get a lot of points for showing up.&lt;/p&gt;
-
-&lt;p&gt;You do have to host the blog on a subdomain. This really should go into “The Indifferent” category. It used to be that you would lose domain authority by having your blog on a subdomain. Current wisdom holds that search engines are smart enough to know there isn’t much of a difference between blog.abravenew.com and abravenew.com/blog.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-best-choice-for-you&quot;&gt;The Best Choice For You&lt;/h2&gt;
-
-&lt;p&gt;Moving your blog to HubSpot isn’t always going to be the best choice. But if you looking to run a highly functioning inbound program on HubSpot it probably is.&lt;/p&gt;
-
-&lt;p&gt;You do have to be smart about migration and setting up proper redirects. You can expect to see a dip in your page rank, but the long term gains you will see with a more robust content program will be worth it.&lt;/p&gt;
-
-&lt;p&gt;As with most technology decisions, the right choice for your company requires taking the time really dig into how you will be using the technology. Our rule of thumb: if you are using HubSpot, your blog should be on HubSpot.&lt;/p&gt;
-
-&lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/blog-software-hubspot-vs.-wordpress&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 17 Jul 2018 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2018/07/17/blog-software-hubspot-vs.-wordpress.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2018/07/17/blog-software-hubspot-vs.-wordpress.html</guid>
+        <link>http://localhost:4000/2018/07/31/eye-tracking-the-abstract.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/07/31/eye-tracking-the-abstract.html</guid>
         
         
       </item>
