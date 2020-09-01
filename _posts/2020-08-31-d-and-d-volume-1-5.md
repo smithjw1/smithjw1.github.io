@@ -31,7 +31,7 @@ It's a memory that is familiar and foreign all at the same time. Like something 
 
 As the tune ends too soon a deep rumble begins and the floor shifts under my feet. The black ooze is bubbling and expanding. Without a word, we all know it's time to leave. I follow my companions out the door and see chaos on the other side.
 
-I take the time to pick up the box and take a look back at where the statue of Silvertree once stood.
+I take the time to pick up the box and take a look back at where the statue of Sariel Silvertree once stood.
 
 That pompous priest of Pelor is encouraging his brethren to continue the fight. I hop on the table with him and humbly suggest that neither Pelor nor the Lady will be getting anyone out of this mess.
 
