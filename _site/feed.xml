@@ -3,11 +3,50 @@
   <channel>
     <title>Shoe in the Door</title>
     <description>Helping organizations tell their story and expand their reach.</description>
-    <link>https://shoeinthedoor.com/</link>
-    <atom:link href="https://shoeinthedoor.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 31 Aug 2020 23:37:27 -0700</pubDate>
-    <lastBuildDate>Mon, 31 Aug 2020 23:37:27 -0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 21 Sep 2020 21:23:05 -0700</pubDate>
+    <lastBuildDate>Mon, 21 Sep 2020 21:23:05 -0700</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Volume 1-6</title>
+        <description>&lt;h2 id=&quot;bryce&quot;&gt;Bryce&lt;/h2&gt;
+
+&lt;p&gt;I realize I have never been cold. When you grow up sharing a monk’s cell, even a small oil lamp will keep you warm.&lt;/p&gt;
+
+&lt;p&gt;In the fall, my father and I hunted for the deer that would keep us fed through the winter. Leaving before first light I could often see my breath, but I wasn’t cold. I was free. We would stay in the woods all day, butchering anything we would take, and wrapping it in paper so we could smuggle it back in after dark.&lt;/p&gt;
+
+&lt;p&gt;Those were long days, but not cold days.&lt;/p&gt;
+
+&lt;p&gt;I know cold now. As we trudge towards the village, the the stinging salt spray quickly coats my robes. If this place doesn’t give us shelter, we won’t make it through the day, let alone the night.&lt;/p&gt;
+
+&lt;p&gt;I’ve heard of these islands of the far north, isolated, just the way the elves like it. Fortunately Kirrix and Elros speak elvish and secure us freedom to enter the village.&lt;/p&gt;
+
+&lt;p&gt;We bargain for cloaks, but the reality is I would have given the coin from my forehead for the warmth these cloaks provide. Lady forgive me.&lt;/p&gt;
+
+&lt;p&gt;Frankly the next hour is a blur, we trudge up to see the leader of this village, tell him our lie, tell him the truth, and he doesn’t slit our throats. That is enough.&lt;/p&gt;
+
+&lt;p&gt;Finally, as I lay down in their infirmary I feel some measure of warmth. As I see the others fall off to sleep, I pull out the lockbox we found in the temple. I want desperately to hear that tune again, but I have on idea if opening the box here wil make the entire structure collapse around us. And I’m too tired to find out.&lt;/p&gt;
+
+&lt;p&gt;I awaken to the chief telling us that few will stay and fight, and that blurry hour comes back to me. We’ve agreed to help this village fend off Lady Sky’s enforcers.&lt;/p&gt;
+
+&lt;p&gt;I’m wanted in Ostia and Rudainia, why not add Kaldygg to the list! I have no more home, and Lady Sky is a tyrant. Let’s see what luck the true Lady can bring this village at the icy end of the world.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I’m currently playing through a campaign DM’d by the indomitable &lt;a href=&quot;http://erikmaxwell.co/&quot;&gt;Erik Maxwell&lt;/a&gt;. As a writing exercise I’m giving myself 30 minutes to recap our weekly adventures.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 21 Sep 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2020/09/21/d-and-d-volume-1-6.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/21/d-and-d-volume-1-6.html</guid>
+        
+        <category>d&amp;d</category>
+        
+        <category>fiction</category>
+        
+        
+      </item>
     
       <item>
         <title>Volume 1-5</title>
@@ -66,8 +105,8 @@
 &lt;p&gt;I’m currently playing through a campaign DM’d by the indomitable &lt;a href=&quot;http://erikmaxwell.co/&quot;&gt;Erik Maxwell&lt;/a&gt;. As a writing exercise I’m giving myself 30 minutes to recap our weekly adventures.&lt;/p&gt;
 </description>
         <pubDate>Mon, 31 Aug 2020 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2020/08/31/d-and-d-volume-1-5.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2020/08/31/d-and-d-volume-1-5.html</guid>
+        <link>http://localhost:4000/2020/08/31/d-and-d-volume-1-5.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/08/31/d-and-d-volume-1-5.html</guid>
         
         <category>d&amp;d</category>
         
@@ -115,8 +154,8 @@
 &lt;p&gt;I’m currently playing through a campaign DM’d by the indomitable &lt;a href=&quot;http://erikmaxwell.co/&quot;&gt;Erik Maxwell&lt;/a&gt;. As a writing exercise I’m giving myself 30 minutes to recap our weekly adventures.&lt;/p&gt;
 </description>
         <pubDate>Sun, 09 Aug 2020 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2020/08/09/d-and-d-volume-1-3.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2020/08/09/d-and-d-volume-1-3.html</guid>
+        <link>http://localhost:4000/2020/08/09/d-and-d-volume-1-3.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/08/09/d-and-d-volume-1-3.html</guid>
         
         <category>d&amp;d</category>
         
@@ -166,8 +205,8 @@
 &lt;p&gt;I’m currently playing through a campaign DM’d by the indomitable &lt;a href=&quot;http://erikmaxwell.co/&quot;&gt;Erik Maxwell&lt;/a&gt;. As a writing exercise I’m giving myself 30 minutes to recap our weekly adventures.&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 Aug 2020 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2020/08/04/d-and-d-vol-1-2.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2020/08/04/d-and-d-vol-1-2.html</guid>
+        <link>http://localhost:4000/2020/08/04/d-and-d-vol-1-2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/08/04/d-and-d-vol-1-2.html</guid>
         
         <category>d&amp;d</category>
         
@@ -213,8 +252,8 @@
 &lt;p&gt;I’m currently playing through a campaign DM’d by the indominable &lt;a href=&quot;http://erikmaxwell.co/&quot;&gt;Erik Maxwell&lt;/a&gt;. As a writing exercise I’m giving myself 30 minutes to recap our weekly adventures.&lt;/p&gt;
 </description>
         <pubDate>Mon, 27 Jul 2020 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2020/07/27/d-and-d-vol-1-1.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2020/07/27/d-and-d-vol-1-1.html</guid>
+        <link>http://localhost:4000/2020/07/27/d-and-d-vol-1-1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/07/27/d-and-d-vol-1-1.html</guid>
         
         <category>d&amp;d</category>
         
@@ -248,8 +287,8 @@
 &lt;p&gt;I didn’t say it enough when I worked there, because some part of me felt like it was wrong to promote my own company. But you heard it here folks, Webconnex is the best. PERIOD.&lt;/p&gt;
 </description>
         <pubDate>Tue, 23 Jun 2020 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2020/06/23/Webconnex.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2020/06/23/Webconnex.html</guid>
+        <link>http://localhost:4000/2020/06/23/Webconnex.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/06/23/Webconnex.html</guid>
         
         
       </item>
@@ -273,8 +312,8 @@
 &lt;p&gt;I hope to be writing more in this space as I dive into Automattic and WordPress VIP. It’s been a hard saying goodbye to Webconnex, but that’s a subject for the &lt;a href=&quot;/2020/06/23/Webconnex.html&quot;&gt;next post&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 23 Jun 2020 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2020/06/23/WP-VIP.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2020/06/23/WP-VIP.html</guid>
+        <link>http://localhost:4000/2020/06/23/WP-VIP.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/06/23/WP-VIP.html</guid>
         
         
       </item>
@@ -486,8 +525,8 @@
 &lt;p&gt;&lt;a href=&quot;https://shoeinthedoor.com/files/WordCamp-Seattle-2018-JacobWSmith-Presentation.pdf&quot;&gt;Here are the slides&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 10 Nov 2018 00:00:00 -0800</pubDate>
-        <link>https://shoeinthedoor.com/2018/11/10/wordcamp-seattle-2018.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2018/11/10/wordcamp-seattle-2018.html</guid>
+        <link>http://localhost:4000/2018/11/10/wordcamp-seattle-2018.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/11/10/wordcamp-seattle-2018.html</guid>
         
         
       </item>
@@ -536,8 +575,8 @@
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/adults-prefer-the-box-too&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 24 Sep 2018 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2018/09/24/adults-prefer-the-box-too.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2018/09/24/adults-prefer-the-box-too.html</guid>
+        <link>http://localhost:4000/2018/09/24/adults-prefer-the-box-too.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/24/adults-prefer-the-box-too.html</guid>
         
         
       </item>
@@ -569,44 +608,8 @@
 &lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/get-honesty-by-being-negative&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 30 Aug 2018 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2018/08/30/get-honesty-by-being-negative.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2018/08/30/get-honesty-by-being-negative.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Eye-tracking the Abstract</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;“Artwork is inherently emotional and the emotional reactions that are elicited by abstract artwork might lead participants to focus their attention within the upper-right quadrant to better engage emotional processing”&lt;br /&gt;
-— Nicole Thomas and Ali Simpson, &lt;a href=&quot;https://www.researchgate.net/publication/322581891_Neuroticism_schizotypy_and_scale_anchors_influence_eye_movement_behaviour_in_the_visual_exploration_of_abstract_art_An_exploratory_study&quot;&gt;Acta Psychologica&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I found this article in Fast Company and was fascinated. We have used mouse tracking (a cheap alternative) on usability testing, but the thought of eye tracking in abstract art is new to me.&lt;/p&gt;
-
-&lt;p&gt;One of the pieces that was used was &lt;a href=&quot;https://nestortoro.com/sold-faces-blue-abstract-art-los-angeles/&quot;&gt;Faces of Blue&lt;/a&gt; by Nestor Toro. We used it for our feature image. I have no idea if Toro wanted to create a focal point or not, but I can see how different people may take it in differently.&lt;/p&gt;
-
-&lt;p&gt;The classic rule of thumb for web usability is that people scan from left to right in an “F” pattern. Two horizontal passes at the top of the page and then a longer vertical pass down the page.&lt;/p&gt;
-
-&lt;p&gt;This study found a very different pattern. People started in the top right and moved around the painting in a clockwise motion.&lt;/p&gt;
-
-&lt;p&gt;More interestingly they found people who where more neurotic focused more on the left side of the art. Nueroticsm is one of the “big five” personality traits and is defined this way by &lt;a href=&quot;https://www.psychologistworld.com/personality/neuroticism-personality-trait&quot;&gt;Psychologist World&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A neurotic personality is characterised by persistent, often disproportionate, worrying and anxiety. A person may strive to be a perfectionist during their everyday activities, and experience stress as a result of events that are beyond their control.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The authors theorize that neuroticism causes people to focus inward and engage less with visual stimuli so they might not engage with the entire piece of art.&lt;/p&gt;
-
-&lt;p&gt;We could think more about user’s emotional states more. We are working on a website for a humane society currently. It makes me think we need to consider how the emotional state of having to surrender an animal impacts design and user interaction.&lt;/p&gt;
-
-&lt;p&gt;Where else does emotion come into play in design?&lt;/p&gt;
-
-&lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/eye-tracking-the-abstract&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 31 Jul 2018 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2018/07/31/eye-tracking-the-abstract.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2018/07/31/eye-tracking-the-abstract.html</guid>
+        <link>http://localhost:4000/2018/08/30/get-honesty-by-being-negative.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/08/30/get-honesty-by-being-negative.html</guid>
         
         
       </item>
