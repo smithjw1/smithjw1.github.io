@@ -140,15 +140,9 @@ nav li a:hover { color: #fff; background: #F85931; }
 /*-------------------------------------------------------------------------------------------*/
 /*- RESPONSIVE ------------------------------------------------------------------------------*/
 /*-------------------------------------------------------------------------------------------*/
-@media screen and (max-width: 1145px) { .three-column li.column { width: 48%; margin-right: 2%; }
-  .three-column li.column:last-child { display: none; } }
+@media screen and (max-width: 1145px) { .three-column li.column { width: 48%; margin-right: 2%; } .three-column li.column:last-child { display: none; } }
 
-@media screen and (max-width: 685px) { .three-column li.column { width: 100%; }
-  .three-column li.column:first-child { display: none; }
-  header { padding: 5px 0; }
-  header h1 { font-size: 20px; margin-bottom: 0; }
-  header h3 { font-size: 14px; }
-  article img { max-width: 80%; } }
+@media screen and (max-width: 685px) { .three-column li.column { width: 100%; } .three-column li.column:first-child { display: none; } header { padding: 5px 0; } header h1 { font-size: 20px; margin-bottom: 0; } header h3 { font-size: 14px; } article img { max-width: 80%; } }
 
 /*-----------------------------------------------------------------------------------------------------------------------------------*/
 /*- CLEARFIX --- * I prefer not to touch this code, I don't recommend you do so either, it works... so don't fix whats working ;) * -*/
