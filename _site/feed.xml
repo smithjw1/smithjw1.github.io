@@ -3,11 +3,42 @@
   <channel>
     <title>Shoe in the Door</title>
     <description>Helping organizations tell their story and expand their reach.</description>
-    <link>https://shoeinthedoor.com/</link>
-    <atom:link href="https://shoeinthedoor.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Sep 2020 21:21:52 -0700</pubDate>
-    <lastBuildDate>Mon, 28 Sep 2020 21:21:52 -0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 01 Nov 2020 21:31:58 -0800</pubDate>
+    <lastBuildDate>Sun, 01 Nov 2020 21:31:58 -0800</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Dear Pennsylvania</title>
+        <description>&lt;p&gt;First and foremost, Vote. Especially if you live in Pennsylvania. If you are registered in Pennsylvania, you should vote in person. You can &lt;a href=&quot;https://www.votespa.com/Voting-in-PA/Pages/Voting-at-a-Polling-Place.aspx&quot;&gt;find a polling place here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you need help getting to the your polling place, call someone. If you are registered with a political party, call your county office. They want you to vote and will help.&lt;/p&gt;
+
+&lt;p&gt;Pennsylvanians may decide this election and every vote cast in Pennsylvania matters and should be counted.&lt;/p&gt;
+
+&lt;p&gt;Second, I think you should vote for Joe Biden for President. I did. Ths is the first time I’ve supported a Democrat for President. I worked for &lt;a href=&quot;https://justfacts.votesmart.org/candidate/evaluations/27054/rick-santorum&quot;&gt;Senator Rick Santorum&lt;/a&gt;. I interned at the &lt;a href=&quot;https://www.heritage.org/about-heritage/mission&quot;&gt;Heritage Foundation&lt;/a&gt; and the &lt;a href=&quot;https://www.commonwealthfoundation.org/about/&quot;&gt;Commonwealth Foundation&lt;/a&gt;. I went to Grove &lt;a href=&quot;http://www.gcc.edu/Home/Our-Story/Faith-Freedom&quot;&gt;City College&lt;/a&gt;. I am not a socialist.&lt;/p&gt;
+
+&lt;p&gt;On July 25, 2020, &lt;a href=&quot;https://www.foxnews.com/politics/trumps-ukraine-call-transcript-read-the-document&quot;&gt;President Trump had a phone call with the President of Ukraine&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“There’s a lot of talk about Biden’s son, that Biden stopped the prosecution and a lot of people want to find out about that. So whatever you can do with the Attorney General would be great. Biden went around bragging that he stopped the prosecution so if you can look into it…It sounds horrible to me.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The President of the United States asked a foreign leader to investigate his most likely (and eventual) opponent. This is not acceptable behavior.&lt;/p&gt;
+
+&lt;p&gt;Imagine if your kid, or niece, told you they asked some kids from the next town over to dig up dirt on the person they were running against for Class President. Would you be excited about that?&lt;/p&gt;
+
+&lt;p&gt;I expect more from the President of the United States. I think you should as well.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Nov 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2020/11/01/vote.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/01/vote.html</guid>
+        
+        <category>vote</category>
+        
+        
+      </item>
     
       <item>
         <title>Volume 1-7</title>
@@ -54,8 +85,8 @@
 &lt;p&gt;I’m currently playing through a campaign DM’d by the indomitable &lt;a href=&quot;http://erikmaxwell.co/&quot;&gt;Erik Maxwell&lt;/a&gt;. As a writing exercise I’m giving myself 30 minutes to recap our weekly adventures.&lt;/p&gt;
 </description>
         <pubDate>Mon, 28 Sep 2020 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2020/09/28/d-and-d-volume-1-7.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2020/09/28/d-and-d-volume-1-7.html</guid>
+        <link>http://localhost:4000/2020/09/28/d-and-d-volume-1-7.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/28/d-and-d-volume-1-7.html</guid>
         
         <category>d&amp;d</category>
         
@@ -93,8 +124,8 @@
 &lt;p&gt;I’m currently playing through a campaign DM’d by the indomitable &lt;a href=&quot;http://erikmaxwell.co/&quot;&gt;Erik Maxwell&lt;/a&gt;. As a writing exercise I’m giving myself 30 minutes to recap our weekly adventures.&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Sep 2020 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2020/09/21/d-and-d-volume-1-6.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2020/09/21/d-and-d-volume-1-6.html</guid>
+        <link>http://localhost:4000/2020/09/21/d-and-d-volume-1-6.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/21/d-and-d-volume-1-6.html</guid>
         
         <category>d&amp;d</category>
         
@@ -160,8 +191,8 @@
 &lt;p&gt;I’m currently playing through a campaign DM’d by the indomitable &lt;a href=&quot;http://erikmaxwell.co/&quot;&gt;Erik Maxwell&lt;/a&gt;. As a writing exercise I’m giving myself 30 minutes to recap our weekly adventures.&lt;/p&gt;
 </description>
         <pubDate>Mon, 31 Aug 2020 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2020/08/31/d-and-d-volume-1-5.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2020/08/31/d-and-d-volume-1-5.html</guid>
+        <link>http://localhost:4000/2020/08/31/d-and-d-volume-1-5.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/08/31/d-and-d-volume-1-5.html</guid>
         
         <category>d&amp;d</category>
         
@@ -209,8 +240,8 @@
 &lt;p&gt;I’m currently playing through a campaign DM’d by the indomitable &lt;a href=&quot;http://erikmaxwell.co/&quot;&gt;Erik Maxwell&lt;/a&gt;. As a writing exercise I’m giving myself 30 minutes to recap our weekly adventures.&lt;/p&gt;
 </description>
         <pubDate>Sun, 09 Aug 2020 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2020/08/09/d-and-d-volume-1-3.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2020/08/09/d-and-d-volume-1-3.html</guid>
+        <link>http://localhost:4000/2020/08/09/d-and-d-volume-1-3.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/08/09/d-and-d-volume-1-3.html</guid>
         
         <category>d&amp;d</category>
         
@@ -260,8 +291,8 @@
 &lt;p&gt;I’m currently playing through a campaign DM’d by the indomitable &lt;a href=&quot;http://erikmaxwell.co/&quot;&gt;Erik Maxwell&lt;/a&gt;. As a writing exercise I’m giving myself 30 minutes to recap our weekly adventures.&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 Aug 2020 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2020/08/04/d-and-d-vol-1-2.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2020/08/04/d-and-d-vol-1-2.html</guid>
+        <link>http://localhost:4000/2020/08/04/d-and-d-vol-1-2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/08/04/d-and-d-vol-1-2.html</guid>
         
         <category>d&amp;d</category>
         
@@ -307,8 +338,8 @@
 &lt;p&gt;I’m currently playing through a campaign DM’d by the indominable &lt;a href=&quot;http://erikmaxwell.co/&quot;&gt;Erik Maxwell&lt;/a&gt;. As a writing exercise I’m giving myself 30 minutes to recap our weekly adventures.&lt;/p&gt;
 </description>
         <pubDate>Mon, 27 Jul 2020 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2020/07/27/d-and-d-vol-1-1.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2020/07/27/d-and-d-vol-1-1.html</guid>
+        <link>http://localhost:4000/2020/07/27/d-and-d-vol-1-1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/07/27/d-and-d-vol-1-1.html</guid>
         
         <category>d&amp;d</category>
         
@@ -342,8 +373,8 @@
 &lt;p&gt;I didn’t say it enough when I worked there, because some part of me felt like it was wrong to promote my own company. But you heard it here folks, Webconnex is the best. PERIOD.&lt;/p&gt;
 </description>
         <pubDate>Tue, 23 Jun 2020 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2020/06/23/Webconnex.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2020/06/23/Webconnex.html</guid>
+        <link>http://localhost:4000/2020/06/23/Webconnex.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/06/23/Webconnex.html</guid>
         
         
       </item>
@@ -367,8 +398,8 @@
 &lt;p&gt;I hope to be writing more in this space as I dive into Automattic and WordPress VIP. It’s been a hard saying goodbye to Webconnex, but that’s a subject for the &lt;a href=&quot;/2020/06/23/Webconnex.html&quot;&gt;next post&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 23 Jun 2020 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2020/06/23/WP-VIP.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2020/06/23/WP-VIP.html</guid>
+        <link>http://localhost:4000/2020/06/23/WP-VIP.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/06/23/WP-VIP.html</guid>
         
         
       </item>
@@ -580,58 +611,8 @@
 &lt;p&gt;&lt;a href=&quot;https://shoeinthedoor.com/files/WordCamp-Seattle-2018-JacobWSmith-Presentation.pdf&quot;&gt;Here are the slides&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 10 Nov 2018 00:00:00 -0800</pubDate>
-        <link>https://shoeinthedoor.com/2018/11/10/wordcamp-seattle-2018.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2018/11/10/wordcamp-seattle-2018.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Adults Prefer The Box Too</title>
-        <description>&lt;p&gt;It’s cliche to say that kids prefer to play in the box the fancy thing came in. But it’s true. A quick bit of internet searching turns up no academic papers on the subject. So as an armchair psychologist and expert struggling learning parent of a 7-month old, I have some thoughts.&lt;/p&gt;
-
-&lt;h2 id=&quot;boxes-are-familiar&quot;&gt;Boxes are FAMILIAR&lt;/h2&gt;
-
-&lt;p&gt;Your kid has been sleeping in a box their whole life. In fact, the very first object they were placed in, was very boxlike. They know how the box works, they know how to interact with it, and they know it’s safe.&lt;/p&gt;
-
-&lt;p&gt;If fits tidily into their growing mental model of the world.&lt;/p&gt;
-
-&lt;p&gt;If you think this changes as you grow up, you are sadly mistaken. In his recent book &lt;em&gt;&lt;a href=&quot;http://www.worldcat.org/title/unpersuadables-adventures-with-the-enemies-of-science/oclc/852222088/&quot;&gt;The Unpersuadables: Adventures with the Enemies of Science&lt;/a&gt;,&lt;/em&gt; Will Storr talks with young earth creationists, holocaust deniers, and homeopathic medicine advocates. He finds they all exhibit similar symptoms of confirmation bias. &lt;/p&gt;
-
-&lt;p&gt;Confirmation bias is the tendency to cherry pick facts that support your previously held beliefs and ignore facts that are problematic.&lt;/p&gt;
-
-&lt;p&gt;And if you are thinking this is a problem for other people, Storr has some other thoughts. He claims we all do this. And it’s a survival tactic. He uses the phrase &lt;em&gt;superabundance of information&lt;/em&gt; to describe the vast amount of information out there. Our brains have evolved to filter out extraneous information. When you are being chased by a lion, your brain doesn’t need to be distracted wondering what type of flower you just stepped on.&lt;/p&gt;
-
-&lt;p&gt;So for both your toddler and you, the familiar, the objects, concepts, opinions, and ideas that fit nicely into your current narrative are the most attractive. And by magnitudes we strengthen that narrative, making it harder for new information to break in.&lt;/p&gt;
-
-&lt;h2 id=&quot;boxes-are-open-ended&quot;&gt;Boxes are open ended&lt;/h2&gt;
-
-&lt;p&gt;The toy inside the box has some opinions about how you use it. If you immediately turn it upside down, a well meaning parent is going to “fix” it for you. But when you flip the box, it just went from a car to a tent.&lt;/p&gt;
-
-&lt;p&gt;I can still remember reading the manual when I bought the original Sim City. Gather round and hear about when you went to &lt;a href=&quot;https://en.wikipedia.org/wiki/EB_Games&quot;&gt;Electronics Boutique&lt;/a&gt; and purchased software that came in a box. Back then, it also came with a manual and the manual for Sim City did not call it a computer “game,” it called it a  computer “toy.” &lt;/p&gt;
-
-&lt;p&gt;The manual went on to say a ball is a toy, it can be used in any number of games, just like Sim City. Want to be an urban planner extraordinaire, go right ahead. Want to put that nuclear power plant right next to a park, sounds great. Want to rebuild 1961 Tokyo after a &lt;a href=&quot;http://simcity.wikia.com/wiki/Tokyo,_1961&quot;&gt;monster attack&lt;/a&gt;?&lt;/p&gt;
-
-&lt;p&gt;In _The Unpersuadables&lt;strong&gt;, &lt;/strong&gt;_Storr also posits that we all want to be the hero of our own story. Open ended interactions let you write the story with you at its center. Not so with a flashing, beeping, attention-grabbing toy.&lt;/p&gt;
-
-&lt;h2 id=&quot;and-this-applies-to-marketing-how&quot;&gt;And this applies to marketing How?&lt;/h2&gt;
-
-&lt;p&gt;Perhaps you are saying, “Fascinating, musings, really blue-sky solutioneering here, but I have a TPS report cover sheet that needs attention.”&lt;/p&gt;
-
-&lt;p&gt;As you think about the content you are creating, consider these two questions:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Does this fit into my audience’s established mode of thinking?&lt;/li&gt;
-  &lt;li&gt;Does this allow my audience to be the hero of the story?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;If the answer to either of those questions is no, your content isn’t going to find the traction you are hoping for.&lt;/p&gt;
-
-&lt;p&gt;Originally Posted on &lt;a href=&quot;https://blog.abravenew.com/adults-prefer-the-box-too&quot;&gt;A Brave New&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 24 Sep 2018 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2018/09/24/adults-prefer-the-box-too.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2018/09/24/adults-prefer-the-box-too.html</guid>
+        <link>http://localhost:4000/2018/11/10/wordcamp-seattle-2018.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/11/10/wordcamp-seattle-2018.html</guid>
         
         
       </item>
