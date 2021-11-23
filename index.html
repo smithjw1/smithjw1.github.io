@@ -1,69 +1,99 @@
 ---
 layout: default
 regenerate: true
+title: Jacob Wayne Smith
 ---
 
 <div class="home">
-  <p>Jacob has worked with small business, Fortune 50 companies, nonprofits and agencies to provide marketing and technology needs. I have almost two decades of experience helping organizations tell their story and  expand their reach.</p>
-	<p>The bulk of my job is listening first then being in conversation. If you want to know what it is like to work with me, here are some past collaborators.</p>
-	<div class="testimonials">
-		<blockquote>Jacob is knowledgeable, insightful, and capable. He's a joy to work with because he inspires confidence.
-		<strong>Dan Roloff, Publishing Manager, H. E. Butt Foundation</strong></blockquote>
+  <p>
+    Jacob has worked with small business, Fortune 50 companies, nonprofits and
+    agencies to provide marketing and technology needs. I have almost two
+    decades of experience helping organizations tell their story and expand
+    their reach.
+  </p>
+  <p>
+    The bulk of my job is listening first then being in conversation. If you
+    want to know what it is like to work with me, here are some past
+    collaborators.
+  </p>
+  <div class="testimonials">
+    <blockquote>
+      Jacob is knowledgeable, insightful, and capable. He's a joy to work with
+      because he inspires confidence.
+      <strong>Dan Roloff, Publishing Manager, H. E. Butt Foundation</strong>
+    </blockquote>
 
-		<blockquote>It’s REALLY nice having smart people like Jacob on board. He can turn our crazy, creative ideas into living and breathing reality. Thanks for helping us out. What you do is magic.
-		<strong>Seth LaTour, Creative Director, Masterworks</strong></blockquote>
+    <blockquote>
+      It’s REALLY nice having smart people like Jacob on board. He can turn our
+      crazy, creative ideas into living and breathing reality. Thanks for
+      helping us out. What you do is magic.
+      <strong>Seth LaTour, Creative Director, Masterworks</strong>
+    </blockquote>
 
-		<blockquote>Jacob's ability to identify with the audience's needs ensures that his presentations are well targeted and well timed.
-		<strong>Tim, Masterworks</strong></blockquote>
+    <blockquote>
+      Jacob's ability to identify with the audience's needs ensures that his
+      presentations are well targeted and well timed.
+      <strong>Tim, Masterworks</strong>
+    </blockquote>
 
-		<blockquote>In a planet filled with opinions, I put alot of value in a person that cannot just come up with the strategy but knows how to deliver.
-		<strong>Michael Schafer, Principal and Creative Director, openbox9</strong></blockquote>
+    <blockquote>
+      In a planet filled with opinions, I put alot of value in a person that
+      cannot just come up with the strategy but knows how to deliver.
+      <strong
+        >Michael Schafer, Principal and Creative Director, openbox9</strong
+      >
+    </blockquote>
 
-		<blockquote>You f---ing rock.
-		<strong>Sara, NTEN</strong></blockquote>
+    <blockquote>You f---ing rock. <strong>Sara, NTEN</strong></blockquote>
 
-		<blockquote>This is one of the best, most fun and useful things I've done lately
-		<strong>Lynda, Gathering in the East</strong></blockquote>
+    <blockquote>
+      This is one of the best, most fun and useful things I've done lately
+      <strong>Lynda, Gathering in the East</strong>
+    </blockquote>
 
-		<blockquote>Both witty and profound Jake's a rare combination of talents giving human dimension to an increasingly technological world.
-		<strong>Dan Roloff, Publishing Manager, H. E. Butt Foundation</strong></blockquote>
+    <blockquote>
+      Both witty and profound Jake's a rare combination of talents giving human
+      dimension to an increasingly technological world.
+      <strong>Dan Roloff, Publishing Manager, H. E. Butt Foundation</strong>
+    </blockquote>
 
-		<blockquote>Jake has an authentic style, blending humor and candor that make his presentations really pop!
-		<strong>Charlie, Youth Ministry Certification School</strong></blockquote>
+    <blockquote>
+      Jake has an authentic style, blending humor and candor that make his
+      presentations really pop!
+      <strong>Charlie, Youth Ministry Certification School</strong>
+    </blockquote>
 
-    <blockquote>Id like to think that I AM CSS dangerous because of you, but also the word that stands out is reliable. You are always willing to lend a hand regardless of the task. Thank you for always going beyond to help a non dev member.
-    <strong>Joel Velazco, Webconnex</strong></blockquote>
-	</div>
+    <blockquote>
+      Id like to think that I AM CSS dangerous because of you, but also the word
+      that stands out is reliable. You are always willing to lend a hand
+      regardless of the task. Thank you for always going beyond to help a non
+      dev member. <strong>Joel Velazco, Webconnex</strong>
+    </blockquote>
+  </div>
 
-	<p>If you want to work together, I currently work at <a href="https://wpvip.com/">WordPress VIP</a>. We handle infrastructure, performance, and security at scale, so our clients are free to focus on what matters. With our unparalleled agility, flexibility, and interoperability, WordPress VIP is the best digital experience solution at scale. Want to know more, <a href="mailto:jacob.smith@automattic.com">let me know</a>.</p>
+  <p>
+    If you want to work together, I currently work at
+    <a href="https://wpvip.com/">WordPress VIP</a>. We handle infrastructure,
+    performance, and security at scale, so our clients are free to focus on what
+    matters. With our unparalleled agility, flexibility, and interoperability,
+    WordPress VIP is the best digital experience solution at scale. Want to know
+    more, <a href="mailto:jacob.smith@automattic.com">let me know</a>.
+  </p>
 
-	<div class="blog-homepage">
-	  <h1>Latest posts from the blog</h1>
-	  {% for post in paginator.posts %}
-	  <article role="article" itemscope itemtype="http://schema.org/Article">
-      {% if post.link %}
-      <h2><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url" rel="nofollow"><span itemprop="name">{{ post.title }}</span></a> <time itemprop="datePublished" content="{{post.date}}" datetime="{{post.date}}">{{post.date | date: "%b %e, %Y" }}</time></h2>
-      {% else %}
-	    <h2><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url"><span itemprop="name">{{ post.title }}</span></a> <time itemprop="datePublished" content="{{post.date}}" datetime="{{post.date}}">{{post.date | date: "%b %e, %Y" }}</time></h2>
+  <div class="blog-homepage listing">
+    <h1>Latest posts from the blog</h1>
+    {% for post in paginator.posts %} {% include article.html %} {% endfor %}
+    <div class="pagination">
+      {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
       {% endif %}
-	    <div itemprop="articleBody">
-	      {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
-        {% if post.link %}
-				<a href="{{ post.url | prepend: site.baseurl }}" rel="nofollow">More &hellip;</a>
-        {% else %}
-        <a href="{{ post.url | prepend: site.baseurl }}">More &hellip;</a>
-        {% endif %}
-	    </div>
-	  </article>
-	  {% endfor %}
-		<div class="pagination">
-	  {% if paginator.previous_page %}
-	    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-	  {% endif %}
-	  <span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
-	  {% if paginator.next_page %}
-	    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-		{% endif %}
-		</div>
-	</div>
-</div> <!-- .home -->
+      <span class="page_number"
+        >{{ paginator.page }} of {{ paginator.total_pages }}</span
+      >
+      {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+      {% endif %}
+    </div>
+  </div>
+</div>
+<!-- .home -->

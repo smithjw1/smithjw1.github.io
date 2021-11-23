@@ -3,11 +3,86 @@
   <channel>
     <title>Shoe in the Door</title>
     <description>Helping organizations tell their story and expand their reach.</description>
-    <link>https://shoeinthedoor.com/</link>
-    <atom:link href="https://shoeinthedoor.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 May 2021 13:18:24 -0700</pubDate>
-    <lastBuildDate>Tue, 11 May 2021 13:18:24 -0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 22 Nov 2021 23:45:24 -0800</pubDate>
+    <lastBuildDate>Mon, 22 Nov 2021 23:45:24 -0800</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Maiden Nsia</title>
+        <description>&lt;p&gt;This is the first post in what will be a collection focusing on creating non-European centric homebrew content for D&amp;amp;D 5e. You can see all the posts related to this &lt;a href=&quot;/out-of-europe/&quot;&gt;topic here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I started my research at my local library and came up with a book called &lt;a href=&quot;https://hdl.handle.net/2027/inu.30000118600117&quot;&gt;Yes and No: The Intimate Folklore on Africa&lt;/a&gt;. Turns out the text is in the public domain, so it’s a great source to start with.&lt;/p&gt;
+
+&lt;p&gt;The book was written by Alta Jablow, a professor of anthropology at Brooklyn College. Jablow taught there from 1947 until 1980. The first section of the book is a collection of dilemma tales: short stories that leave an unresolved question for the reader to ponder. One of these tales is about the Maiden of Nsia.&lt;/p&gt;
+
+&lt;p&gt;Three friends from &lt;a href=&quot;(https://en.wikipedia.org/wiki/Bondoukou)&quot;&gt;Bontuku&lt;/a&gt;, a city in the Ivory Coast on the Ghanian border, all love the same woman. She tells them that they have not proven themselves and they must do so before she will choose.&lt;/p&gt;
+
+&lt;p&gt;The three friends journey over 400km to the Cape Coast in Ghania. They work to prove themselves, until they find out that the woman they loved is dead. They travel home and bring her back from the dead.&lt;/p&gt;
+
+&lt;p&gt;They do this by each using a magical item they received from their ancestors. The dilemma is which of the three showed the greatest deed.&lt;/p&gt;
+
+&lt;p&gt;I’m purposely glossing over details so you will go off and &lt;a href=&quot;https://hdl.handle.net/2027/inu.30000118600117?urlappend=%3Bseq=55%3Bownerid=13510798896705935-59&quot;&gt;read the original&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I see three ways to use this dilemma in your game.&lt;/p&gt;
+
+&lt;h2 id=&quot;as-a-puzzle&quot;&gt;As a Puzzle&lt;/h2&gt;
+
+&lt;p&gt;You can have an NPC tell the story and ask the PCs to respond to the dilemma. This is a great role play opportunity. There is no “right” answer so you have a lot of freedom as the DM to shape the next part of the story based on their play.&lt;/p&gt;
+
+&lt;h2 id=&quot;as-an-adventure-hook&quot;&gt;As an Adventure Hook&lt;/h2&gt;
+
+&lt;p&gt;What a novel way to start a campaign! A few party members are in love with someone who tells them to go and make a name for themselves. They pick up the rest of the party on the way out of town, Merry and Pippen style.&lt;/p&gt;
+
+&lt;p&gt;You can have them gain a few levels on the way to and inside a somewhat distant city where adventure. Now th party is well and in their classes and you kill the object of their affection.&lt;/p&gt;
+
+&lt;p&gt;Immediate stakes, immediate surprise. The game is afoot.&lt;/p&gt;
+
+&lt;h2 id=&quot;as-magical-items&quot;&gt;As Magical Items&lt;/h2&gt;
+
+&lt;p&gt;I’ve left the obvious for last, the magical items the young men have, are a great way to flavor existing spells. Way better than a wand or a staff with charges. From Yes or No:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There were once three friends, youths from Bontuku, and each of them had been given certain wonderful magic properties by their ancestors. One had a mirror in which he could see any person or place that he wished. Another of the young men possessed a fan of magic feathers. If the fan were held aloft it would transport him instantly anywhere he wished to go. The third youth had a wonderful cow-tail switch. He had only to wave it thrice over someone who had died, and it would cause him to be revived.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So we turn those into three magical objects.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-mirror-of-bontuku&quot;&gt;The Mirror of Bontuku&lt;/h3&gt;
+
+&lt;p&gt;You can use this mirror to cast the &lt;a href=&quot;https://www.dndbeyond.com/spells/scrying&quot;&gt;Scrying&lt;/a&gt; spell with the following modifications:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;It can only be used to see (not hear) the target&lt;/li&gt;
+  &lt;li&gt;You must have firsthand knowledge of the target&lt;/li&gt;
+  &lt;li&gt;There are no modifications to the target’s wisdom saving throw, they roll it with no bonus or penalty&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;You can use this item a number of times per long rest equal to one-half of your proficiency bonus, rounded down.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-fan-of-bontuku&quot;&gt;The Fan of Bontuku&lt;/h3&gt;
+
+&lt;p&gt;You can use this fan to cast the &lt;a href=&quot;https://www.dndbeyond.com/spells/teleport&quot;&gt;Teleport&lt;/a&gt; spell with the following modification: to be transported, creatures have to hold on to you. Every creature you transport must make a strength saving throw. The DC is equal to 5 times the number of additional creatures. On a failure the caster can choose to complete the transport or not.&lt;/p&gt;
+
+&lt;p&gt;You can use this item a number of times per long rest equal to one-half of your proficiency bonus, rounded down.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-switch-of-bontuku&quot;&gt;The Switch of Bontuku&lt;/h3&gt;
+
+&lt;p&gt;You wave this cow-tail switch three times over a dead creature and it casts the &lt;a href=&quot;https://www.dndbeyond.com/spells/revivify&quot;&gt;Revivify&lt;/a&gt; spell. You do not need additional material components. This item can be used once per long rest. Once used it can be recharged by conducting a 10-minute ritual and expending a third-level or higher spell spot.&lt;/p&gt;
+
+&lt;p&gt;I tried to ballance these objects, but all of them are fairly high level. So you could certainly power them up or down.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 22 Nov 2021 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2021/11/22/the-maiden-nsia.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/11/22/the-maiden-nsia.html</guid>
+        
+        <category>d&amp;d</category>
+        
+        <category>ooe</category>
+        
+        
+      </item>
     
       <item>
         <title>Volume 1-12</title>
@@ -46,8 +121,8 @@
 &lt;p&gt;This was a tough one, first time a character I created dies. I had a good bit more to explore with Bryce, but this helps to end his story.&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 May 2021 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2021/05/01/d-and-d-volume-1-12.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2021/05/01/d-and-d-volume-1-12.html</guid>
+        <link>http://localhost:4000/2021/05/01/d-and-d-volume-1-12.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/05/01/d-and-d-volume-1-12.html</guid>
         
         <category>d&amp;d</category>
         
@@ -119,8 +194,8 @@
 &lt;p&gt;I’m currently playing through a campaign DM’d by the indomitable &lt;a href=&quot;http://erikmaxwell.co/&quot;&gt;Erik Maxwell&lt;/a&gt;. As a writing exercise I’m giving myself 30 minutes to recap our weekly adventures. I’m starting to write a parallel story focused on Thenardier, a Rouge Mastermind.&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Mar 2021 00:00:00 -0800</pubDate>
-        <link>https://shoeinthedoor.com/2021/03/08/d-and-d-volume-1-11.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2021/03/08/d-and-d-volume-1-11.html</guid>
+        <link>http://localhost:4000/2021/03/08/d-and-d-volume-1-11.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/03/08/d-and-d-volume-1-11.html</guid>
         
         <category>d&amp;d</category>
         
@@ -210,8 +285,8 @@
 &lt;p&gt;I’m currently playing through a campaign DM’d by the indomitable &lt;a href=&quot;http://erikmaxwell.co/&quot;&gt;Erik Maxwell&lt;/a&gt;. As a writing exercise I’m giving myself 30 minutes to recap our weekly adventures. I’m starting to write a parallel story focused on Thenardier, a Rouge Mastermind.&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Mar 2021 00:00:00 -0800</pubDate>
-        <link>https://shoeinthedoor.com/2021/03/02/d-and-d-volume-1-10.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2021/03/02/d-and-d-volume-1-10.html</guid>
+        <link>http://localhost:4000/2021/03/02/d-and-d-volume-1-10.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/03/02/d-and-d-volume-1-10.html</guid>
         
         <category>d&amp;d</category>
         
@@ -259,8 +334,8 @@
 &lt;p&gt;I’m currently playing through a campaign DM’d by the indomitable &lt;a href=&quot;http://erikmaxwell.co/&quot;&gt;Erik Maxwell&lt;/a&gt;. As a writing exercise I’m giving myself 30 minutes to recap our weekly adventures.&lt;/p&gt;
 </description>
         <pubDate>Wed, 24 Feb 2021 00:00:00 -0800</pubDate>
-        <link>https://shoeinthedoor.com/2021/02/24/d-and-d-volume-1-9.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2021/02/24/d-and-d-volume-1-9.html</guid>
+        <link>http://localhost:4000/2021/02/24/d-and-d-volume-1-9.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/02/24/d-and-d-volume-1-9.html</guid>
         
         <category>d&amp;d</category>
         
@@ -294,8 +369,8 @@
 &lt;p&gt;I’m currently playing through a campaign DM’d by the indomitable &lt;a href=&quot;http://erikmaxwell.co/&quot;&gt;Erik Maxwell&lt;/a&gt;. As a writing exercise I’m giving myself 30 minutes to recap our weekly adventures.&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Dec 2020 00:00:00 -0800</pubDate>
-        <link>https://shoeinthedoor.com/2020/12/01/d-and-d-volume-1-8.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2020/12/01/d-and-d-volume-1-8.html</guid>
+        <link>http://localhost:4000/2020/12/01/d-and-d-volume-1-8.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/12/01/d-and-d-volume-1-8.html</guid>
         
         <category>d&amp;d</category>
         
@@ -327,8 +402,8 @@
 &lt;p&gt;I expect more from the President of the United States. I think you should as well.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Nov 2020 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2020/11/01/vote.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2020/11/01/vote.html</guid>
+        <link>http://localhost:4000/2020/11/01/vote.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/01/vote.html</guid>
         
         <category>vote</category>
         
@@ -380,8 +455,8 @@
 &lt;p&gt;I’m currently playing through a campaign DM’d by the indomitable &lt;a href=&quot;http://erikmaxwell.co/&quot;&gt;Erik Maxwell&lt;/a&gt;. As a writing exercise I’m giving myself 30 minutes to recap our weekly adventures.&lt;/p&gt;
 </description>
         <pubDate>Mon, 28 Sep 2020 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2020/09/28/d-and-d-volume-1-7.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2020/09/28/d-and-d-volume-1-7.html</guid>
+        <link>http://localhost:4000/2020/09/28/d-and-d-volume-1-7.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/28/d-and-d-volume-1-7.html</guid>
         
         <category>d&amp;d</category>
         
@@ -419,8 +494,8 @@
 &lt;p&gt;I’m currently playing through a campaign DM’d by the indomitable &lt;a href=&quot;http://erikmaxwell.co/&quot;&gt;Erik Maxwell&lt;/a&gt;. As a writing exercise I’m giving myself 30 minutes to recap our weekly adventures.&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Sep 2020 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2020/09/21/d-and-d-volume-1-6.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2020/09/21/d-and-d-volume-1-6.html</guid>
+        <link>http://localhost:4000/2020/09/21/d-and-d-volume-1-6.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/21/d-and-d-volume-1-6.html</guid>
         
         <category>d&amp;d</category>
         
@@ -486,57 +561,8 @@
 &lt;p&gt;I’m currently playing through a campaign DM’d by the indomitable &lt;a href=&quot;http://erikmaxwell.co/&quot;&gt;Erik Maxwell&lt;/a&gt;. As a writing exercise I’m giving myself 30 minutes to recap our weekly adventures.&lt;/p&gt;
 </description>
         <pubDate>Mon, 31 Aug 2020 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2020/08/31/d-and-d-volume-1-5.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2020/08/31/d-and-d-volume-1-5.html</guid>
-        
-        <category>d&amp;d</category>
-        
-        <category>fiction</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Volume 1-3</title>
-        <description>&lt;h2 id=&quot;pelor&quot;&gt;Pelor&lt;/h2&gt;
-
-&lt;p&gt;That brigand did well to replace Alhandra’s holy medallion. I’m surprised he did knowing his penchant for trinkets. That boy priest looks to have talked sense in to him.&lt;/p&gt;
-
-&lt;p&gt;Where have I seen this Lady worshiper before?&lt;/p&gt;
-
-&lt;p&gt;“You said you wanted the box, not what was in it.” He said as he handed it over. What a clever boy. I usually don’t allow such acts of insolence to my faithful, but this band of the Divine Brotherhood throw my name around like a cheap parlor trick.&lt;/p&gt;
-
-&lt;p&gt;Just a few hours earlier those idiots fleeced some bigger idiot Rudainians. The reversal pleased me. This boy priest has won my blessing.&lt;/p&gt;
-
-&lt;p&gt;It’s not often my eye lingers on the material plane, but to see Alhandra, my faithful servant, picked apart by that abomination of an abomination. Such a forsaken place devoid of any true light, mired in darkness.&lt;/p&gt;
-
-&lt;p&gt;How did these survive when my champion had fallen?&lt;/p&gt;
-
-&lt;p&gt;“Hello there!” the brigand greets a dead elf. It’s amazing to me these fools got the door open but they did. I can’t imagine how their puny brains can comprehend the portals they uncovered.&lt;/p&gt;
-
-&lt;p&gt;I open my mind and can be anywhere. I can see each of them born, dead, reborn. I can jump to any point in their story, or any place.&lt;/p&gt;
-
-&lt;p&gt;But for them to be able to step through a doorway and be thousands of miles away. Oh it’s such a joy to see their smug faces smacked with a bit of the impossible.&lt;/p&gt;
-
-&lt;p&gt;They made short work of the Owlbear that fell Alhandra. Although they could have avoided it entirely if the Weaver hadn’t been going on about his eyes, or lack thereof. Seemed an odd moment for story time, but I don’t pretend to understand humans.&lt;/p&gt;
-
-&lt;p&gt;Them seem to have no fear of the dark abomination that floods the sanctuary. I can’t even gaze at it without feeling sick. It’s the complete absence of light, everything I stand for, everting I am for this world.&lt;/p&gt;
-
-&lt;p&gt;In the same way my light brings justice to everything it touches, this darkness brings corruption.&lt;/p&gt;
-
-&lt;p&gt;The darwf reduced to a skelton surrounded by a gelatinous mass of pure nothingness. They fought that with such abandon. How lucky they are they do not know the evil that fuels these foul beasts.&lt;/p&gt;
-
-&lt;p&gt;The brigand has done well. There will come a time when he will call on me and I will answer.&lt;/p&gt;
-
-&lt;p&gt;The Lady may bring luck, but I bring the light.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;I’m currently playing through a campaign DM’d by the indomitable &lt;a href=&quot;http://erikmaxwell.co/&quot;&gt;Erik Maxwell&lt;/a&gt;. As a writing exercise I’m giving myself 30 minutes to recap our weekly adventures.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 09 Aug 2020 00:00:00 -0700</pubDate>
-        <link>https://shoeinthedoor.com/2020/08/09/d-and-d-volume-1-3.html</link>
-        <guid isPermaLink="true">https://shoeinthedoor.com/2020/08/09/d-and-d-volume-1-3.html</guid>
+        <link>http://localhost:4000/2020/08/31/d-and-d-volume-1-5.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/08/31/d-and-d-volume-1-5.html</guid>
         
         <category>d&amp;d</category>
         

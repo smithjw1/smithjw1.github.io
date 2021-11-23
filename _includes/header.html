@@ -1,20 +1,39 @@
 <header role="banner">
   <hgroup>
-    <h1><a rel="home" href="http://shoeinthedoor.com/">Jacob Wayne Smith</a></h1>
+    {% if page.title == "Jacob Wayne Smith" %}
+    <h1>
+      <a class="title" rel="home" href="http://shoeinthedoor.com/"
+        >Jacob Wayne Smith</a
+      >
+    </h1>
     <h3>Experienced Technologist</h3>
+    {% elsif page.collection == "posts" %}
+    <h1>
+      <a class="title" rel="home" href="http://shoeinthedoor.com/"
+        >Jacob Wayne Smith</a
+      >
+    </h1>
+    <h3>Experienced Technologist</h3>
+    {% else %}
+    <a class="title" rel="home" href="http://shoeinthedoor.com/"
+      >{{ page.title }}</a
+    >
+    {% endif %}
   </hgroup>
 </header>
 
 <!-- navigation -->
-{% comment %}
+
 <nav role="navigation">
-   <ul class="section_list">
+  <ul class="section_list">
     <li>
       <a href="/">Home</a>
     </li>
     <li>
-      <a href="http://www.abravenew.com">A Brave New</a>
+      <a href="/about-a-dream" title="D&D One-Shot">About a Dream</a>
+    </li>
+    <li>
+      <a href="/out-of-europe" title="D&D Project">Out of Europe</a>
     </li>
   </ul>
 </nav>
-{% endcomment %}

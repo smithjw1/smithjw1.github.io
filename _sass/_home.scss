@@ -1,36 +1,28 @@
 .testimonials {
- height: 200px;
- overflow: hidden;
- margin: 1em 0;
+  height: 200px;
+  overflow: hidden;
+  margin: 1em 0;
 }
 .testimonials blockquote {
- font-style: normal;
- display:none;
- font-size: 1.8em;
- line-height: 1.2em;
+  font-style: normal;
+  display: none;
+  font-size: 1.8em;
+  line-height: 1.2em;
 }
 .testimonials blockquote strong {
- font-weight: bold;
- color: #000;
- font-size: 0.8em;
- display: block;
- margin-top: 0.5em;
- text-align: right;
+  font-weight: bold;
+  color: #000;
+  font-size: 0.8em;
+  display: block;
+  margin-top: 0.5em;
+  text-align: right;
 }
 .blog-homepage {
-	h2 time {
-		font-size: 0.8em;
-		color: lighten(#595959, 10%);
-	}
-	article {
-		padding-bottom: 1em;
-		margin-bottom: 2em;
-		border-bottom: 1px solid #CCC;
-		&:last-child {border-bottom:none}
-		clear: both;
-		&:after{clear: both; content: '.'; display: block; visibility: hidden; height: 0;}
-	}
-	.pagination {
-		text-align: right;
-	}
+  h2 time {
+    font-size: 0.8em;
+    color: lighten(#595959, 10%);
+  }
+  .pagination {
+    text-align: right;
+  }
 }
