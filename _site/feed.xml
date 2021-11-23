@@ -5,9 +5,68 @@
     <description>Helping organizations tell their story and expand their reach.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Nov 2021 23:45:24 -0800</pubDate>
-    <lastBuildDate>Mon, 22 Nov 2021 23:45:24 -0800</lastBuildDate>
+    <pubDate>Tue, 23 Nov 2021 09:17:36 -0800</pubDate>
+    <lastBuildDate>Tue, 23 Nov 2021 09:17:36 -0800</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The Two Strangers</title>
+        <description>&lt;p&gt;This post is part of a collection focusing on creating non-European centric homebrew content for D&amp;amp;D 5e. You can see all the posts related to this &lt;a href=&quot;/out-of-europe/&quot;&gt;topic here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I started my research at my local library and found &lt;a href=&quot;https://hdl.handle.net/2027/inu.30000118600117&quot;&gt;Yes and No: The Intimate Folklore on Africa&lt;/a&gt;. Turns out the text is in the public domain, so it’s a great source to start with.&lt;/p&gt;
+
+&lt;p&gt;The book was written by Alta Jablow, a professor of anthropology at Brooklyn College. Jablow taught there from 1947 until 1980. The first section of the book is a collection of dilemma tales: short stories that leave an unresolved question for the reader to ponder. One of these tales is about two traveling strangers. The book doesn’t place this story, but a bit of searching located &lt;a href=&quot;https://en.wikipedia.org/wiki/Sierra_Leone&quot;&gt;Sierra Leone&lt;/a&gt; as it’s place of origin.&lt;/p&gt;
+
+&lt;p&gt;Two strangers enter a village as night is falling and they are offered a place to rest and some food. What good fortune? Then the chief tells them:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;But know that in this village there is a custom of long standing. Strangers may sleep here, but on pain of death they may not snore.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The two settle down to sleep and one stranger begins to snore. The villagers sharpen their knives. The other traveler, thinking quickly, starts singing a song above the snoring. The villagers take up the song and:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;All that night one stranger snored, one stranger sang, and the townspeople danced and played.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The villagers present the two strangers with money on their way out of town to thank them for the night of song and dance. The dilemma ends asking: “How should the strangers split the money?”&lt;/p&gt;
+
+&lt;p&gt;The concept of finding good lodging and a meal for free and then being told, “But, uh one thing, if you snore we will kill you.” Sounds very much at home in a D&amp;amp;D campaign.&lt;/p&gt;
+
+&lt;p&gt;So let’s set up some mechanics for this encounter!&lt;/p&gt;
+
+&lt;p&gt;First thing’s first, you have to figure out who in the party snores. Probably better to establish this early in the campaign. Introduce it as a way to make long rests a bit more interesting.&lt;/p&gt;
+
+&lt;p&gt;You could simply ask people to self identify, but if no one offers themselves up as a snorer, you can use this stat.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;An estimated 45 percent of adults snore occasionally, while 25 percent snore regularly—often disturbing their bed partner’s slumber and possibly their own, too. &lt;a href=&quot;https://www.hopkinsmedicine.org/health/wellness-and-prevention/why-do-people-snore-answers-for-better-health&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Have folks roll a d20 and on a five or less they snore enough to wake the party.&lt;/p&gt;
+
+&lt;p&gt;Then at the start of each long rest:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;have the snorers roll a performance check&lt;/li&gt;
+  &lt;li&gt;and the rest of the party a charisma saving throw&lt;/li&gt;
+  &lt;li&gt;anyone who’s save meets or beats the performance check sleeps through it&lt;/li&gt;
+  &lt;li&gt;anyone who fails, by five or less, wakes up briefly to no effect&lt;/li&gt;
+  &lt;li&gt;anyone who fails by more than five, rolls a hit die, and starts the day less that HP from lost sleep&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Then when the party rolls up on this village the mechanic get’s a twist. The DM rolls a perception check for the villagers. If they catch a snorer the party has 30 seconds to try to figure out what to do. That is, of course, if any of them are awake!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 23 Nov 2021 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2021/11/23/the-two-strangers.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/11/23/the-two-strangers.html</guid>
+        
+        <category>d&amp;d</category>
+        
+        <category>ooe</category>
+        
+        
+      </item>
     
       <item>
         <title>The Maiden Nsia</title>
@@ -496,73 +555,6 @@
         <pubDate>Mon, 21 Sep 2020 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/2020/09/21/d-and-d-volume-1-6.html</link>
         <guid isPermaLink="true">http://localhost:4000/2020/09/21/d-and-d-volume-1-6.html</guid>
-        
-        <category>d&amp;d</category>
-        
-        <category>fiction</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Volume 1-5</title>
-        <description>&lt;h2 id=&quot;bryce&quot;&gt;Bryce&lt;/h2&gt;
-
-&lt;p&gt;We survived him. Another Black Knight has fallen and now we have the phylactery, whatever that is. I’m not even sure if the Knight thing was alive before it stopped moving, but we once again have ended something’s existence.&lt;/p&gt;
-
-&lt;p&gt;This isn’t my path. I have been bouncing from inn to inn, battle, to negotiation, to battle, but for what? I don’t seek fortune or fame. I have no grudge with these people.&lt;/p&gt;
-
-&lt;p&gt;But what I do have now is an object of immense power and value. And I know that the object is desired by someone in the court at Rausten&lt;/p&gt;
-
-&lt;p&gt;I’m planning and plotting as Kirrix and I walk back in the library to be greeted by 20 crossbowman, a priest, and some Rudainian high nobel.&lt;/p&gt;
-
-&lt;p&gt;Looks like the law has caught up to us. We dash back into the sanctuary of the Library and fling the door shut.&lt;/p&gt;
-
-&lt;p&gt;Fortunately the key I picked up in the library seems to lock the doors with some arcane magic so we have tome to think.&lt;/p&gt;
-
-&lt;p&gt;But we have no ideas, there is no way out of this room, and while we may be able to bottle them up in the door, eventually we will be overwhelmed.&lt;/p&gt;
-
-&lt;p&gt;We do have the lockbox. We have no idea what’s in it, but we know that the combination was found in a book about demonic planar binding. That doesn’t bode well.&lt;/p&gt;
-
-&lt;p&gt;We set the lockbox in front of the threshold and wait for the door to fling open. After his dip in the black starry ooze, Kirrix, has some new abilities and dials the combination from across the room as the door flings open.&lt;/p&gt;
-
-&lt;p&gt;But instead of a demon appearing a simple tune plays. I lower my bow. I know this.&lt;/p&gt;
-
-&lt;p&gt;It’s a memory that is familiar and foreign all at the same time. Like something that was willed into my memory. But the memory is so caring. I feel so safe, so loved. More loved than I have since I was thrust out of the chapel back in Vestygg.&lt;/p&gt;
-
-&lt;p&gt;As the tune ends too soon a deep rumble begins and the floor shifts under my feet. The black ooze is bubbling and expanding. Without a word, we all know it’s time to leave. I follow my companions out the door and see chaos on the other side.&lt;/p&gt;
-
-&lt;p&gt;I take the time to pick up the box and take a look back at where the statue of Sariel Silvertree once stood.&lt;/p&gt;
-
-&lt;p&gt;That pompous priest of Pelor is encouraging his brethren to continue the fight. I hop on the table with him and humbly suggest that neither Pelor nor the Lady will be getting anyone out of this mess.&lt;/p&gt;
-
-&lt;p&gt;As I run down the table and get to the door, I see Walter stumbling. We left him behind. My stomach sinks as the Lady gives my voice strength to tell Walter to jump on the table.&lt;/p&gt;
-
-&lt;p&gt;He does and the damned priest tries to stop him. These Divine Brotherhood bastards don’t know when to quit. As Walter tries to free himself from the priest grasp they both tumble into the abyss.&lt;/p&gt;
-
-&lt;p&gt;As the Library continues to collapse around us I don’t have time to think more about our lost friend. We clamber back up into the tall tower and everything feels more stable.&lt;/p&gt;
-
-&lt;p&gt;We choose to go through the door that we think takes us to the North. We step into the snow, wrap our cloaks around us and begin to trudge to some smoke we see.&lt;/p&gt;
-
-&lt;p&gt;We are on the run. Most who know of us are dead, but not all. We have an object powerful enough to take life with a touch. Desired by other worldly Knights and members of the royal court.&lt;/p&gt;
-
-&lt;p&gt;I’ve seen merchants toss dozens of coins into my offering plate asking for the Lady to bring them fortune. But not even toss a copper to the beggars on their way out the door.&lt;/p&gt;
-
-&lt;p&gt;The Lady doesn’t make the rich. Anymore than Beshaba makes the poor.&lt;/p&gt;
-
-&lt;p&gt;Luck is sewn throughout the World without much care. What we do with that fortune is the thing.&lt;/p&gt;
-
-&lt;p&gt;And I have some fortune. The Lady favors the bold. Maybe we can turn the world on its head.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Volume 1-4 was skipped because it was just combat. Not the most fun to write about.&lt;/p&gt;
-
-&lt;p&gt;I’m currently playing through a campaign DM’d by the indomitable &lt;a href=&quot;http://erikmaxwell.co/&quot;&gt;Erik Maxwell&lt;/a&gt;. As a writing exercise I’m giving myself 30 minutes to recap our weekly adventures.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 31 Aug 2020 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2020/08/31/d-and-d-volume-1-5.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/08/31/d-and-d-volume-1-5.html</guid>
         
         <category>d&amp;d</category>
         

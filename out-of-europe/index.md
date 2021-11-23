@@ -16,3 +16,9 @@ I also wanted to do some work and research to be able to create material inspire
 All content is licensed under the [Open Gaming License](/ogl.html) so you are free to use it in accordance with that license.
 
 I'm a white dude, I will get stuff wrong. Please [at me](https://twitter.com/j8ke) liberally. I'm dealing with mythologies and cultures that are not my own, and I can't hope to fully understand. But I don't think that should stop me from trying.
+
+Before looking at anything I'm doing you should catch up on some content made by people with more connection to the places and people I'm just learning about:
+
+- [Three Black Halflings](https://headgum.com/three-black-halflings/)
+- [The Wagadu Chronicles](https://thewagaduchronicles.com/)
+- [Into the Motherlands](https://motherlandsrpg.com/)
